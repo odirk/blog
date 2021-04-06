@@ -1,0 +1,2 @@
+# blog
+odirk.org

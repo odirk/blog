@@ -1,15 +1,15 @@
 ---
 title: "How to internet"
 date: "2021-04-14"
-tags: ["internet"]
-description: "Como eu navego em alta velocidade pela rede mundial de computadores"
+tags: ["internet", "dirkdicas"]
+description: "Por onde eu navego em alta velocidade pela rede mundial de computadores"
 showToc: true
 draft: false
 ---
 
 Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Aproveite!
 
-## SITES
+## Sites
 
 ### Agregadores de notícias
 
@@ -55,7 +55,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 &nbsp;
 &nbsp;
 
-## BLOGS
+## Blogs
 
 [Brain Pickings](https://www.brainpickings.org/). Livros que a [Maria Popova](https://en.wikipedia.org/wiki/Maria_Popova) lê. Ideias sobre arte, filosofia, cultura e etc. Em dúvida? Comece por [aqui](https://www.brainpickings.org/tag/best-of/). Recomendado.
 
@@ -78,7 +78,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 &nbsp;
 &nbsp;
 
-## PODCASTS
+## Podcasts
 
 [Hello Internet](https://www.hellointernet.fm/). Discussões sobre suas vidas profissionais dos criadores, bem como seus interesses e aborrecimentos. Tópicos típicos incluem YouTube, etiqueta tecnológica, livros, críticas de filmes e programas de TV, vexilologia, futurologia e as diferenças entre as personalidades e estilos de vida dos criadores. Atualmente inativo, mas altamente recomendado.
 

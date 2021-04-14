@@ -16,13 +16,13 @@ Tópicos de interesse frequentes incluem tecnologia, ciência, cultura, filmes, 
 
 ## Sobre mim
 
-Sou mais um nerd que ama a internet. Descobri ela em 1994 e nunca mais larguei. Já fiz um pouco de tudo *online*, já fui gamer, lamer, pirata, blogger, editor da wikipedia e cresci participando de fóruns e servidores de irc que já não existem mais - os bons tempos de faroeste na internet.
+Sou mais um nerd que ama a internet. Descobri ela em 1994 e nunca mais larguei. Já fiz um pouco de tudo *online*, já fui gamer, lamer, pirata, blogger, editor da wikipedia, administrador de um dos maiores portais de séries do mundo, etc. Cresci vadiando em fóruns e servidores de irc que já não existem mais - os bons tempos de faroeste na internet.
 
-Na vida real, sou [advogado](https://gabrielduro.com.br) de propriedade intelectual. Você pode me encontrar no [Twitter](https://twitter.com/odirk) e [Instagram](https://instagram.com/odirk). Atualmente vivo em Porto Alegre. Não tenho planos para esse site.
+Na vida real, sou [advogado de propriedade intelectual](https://gabrielduro.com.br). Você pode me encontrar no [Twitter](https://twitter.com/odirk) e [Instagram](https://instagram.com/odirk). Atualmente vivo em Porto Alegre. Não tenho planos para esse site.
 
 &nbsp;
 &nbsp;
 
 ## Contato
 
-Podemos nos falar em [www@odirk.org](mailto:www@odirk.org) ou no [Twitter](https://twitter.org/odirk). Eu leio tudo que recebo e sempre tento responder o mais brevemente possível. O envio de links é apreciado! Se você tem um projeto ou vídeo do qual gosta, envie-o. Se você me enviar algo no Facebook ou LinkedIn, eu provavelmente não vou ver porque não passo muito tempo lá.
+Podemos nos falar por [email](mailto:www@odirk.org) ou pelo [Twitter](https://twitter.org/odirk). Eu leio tudo que recebo e sempre tento responder o mais brevemente possível. O envio de links é apreciado! Se você tem um projeto ou vídeo do qual gosta, envie-o. Se você me enviar algo no Facebook ou LinkedIn, eu provavelmente não vou ver porque não passo muito tempo lá.

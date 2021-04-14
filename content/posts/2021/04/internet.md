@@ -3,29 +3,32 @@ title: "How to internet"
 date: "2021-04-14"
 tags: ["internet"]
 description: "Como eu navego em alta velocidade pela rede mundial de computadores"
-draft: false
+draft: true
 ---
 
-Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos e anos coletando esses links e agora vou compartilhar o melhor com você. Aproveite!
-
-&nbsp;
-&nbsp;
+Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos e anos coletando esses links e agora vou compartilhar com você. Aproveite!
 
 ## SITES
 
 ### Agregadores de notícias
 
-[Reddit](https://old.reddit.com). Reddit é onde está tudo de interessante na internet.
+[Reddit](https://old.reddit.com). Onde está tudo de interessante na internet.
+
+[Hacker News](https://news.ycombinator.com/). Agregador de notícias focado em ciência da computação e empreendedorismo.
 
 {{< youtube tlI022aUWQQ >}}
 
-[Hacker News](https://news.ycombinator.com/). Agregador de notícias focado em ciência da computação e empreendedorismo.
+&nbsp;
+&nbsp;
 
 ### Ciência e tecnologia
 
 [Wired](https://www.wired.com/). Cobre tecnologias emergentes, cultura e negócios.
 
 [Techcrunch](https://techcrunch.com/). Notícias focadas em alta tecnologia e startups.
+
+&nbsp;
+&nbsp;
 
 ### Cultura
 
@@ -42,11 +45,11 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ### Comics
 
+[The Oatmeal](https://www.theoatmeal.com/). Onde quadrinhos, storytelling e infográficos se encontram.
+
 [xkcd](https://xkcd.com/). "A webcomic of romance, sarcasm, math, and language".
 
-{{< figure src="https://imgs.xkcd.com/comics/watson_medical_algorithm.png" title="xkcd #1619" >}}
-
-[The Oatmeal](https://www.theoatmeal.com/). Onde quadrinhos, storytelling e infográficos se encontram.
+{{< figure src="https://imgs.xkcd.com/comics/watson_medical_algorithm.png" >}}
 
 &nbsp;
 &nbsp;
@@ -70,6 +73,9 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 [Cal Newport's](https://www.calnewport.com/blog/). Tecnologia e Cultura. Autor de [The Deep Work Hypothesis] e [Digital Minimalism]. Muito do que penso sobre esses assuntos veio dele.
 
 [Paul Graham's essays](http://paulgraham.com/articles.html) Ele é um expoente em inovação e economia em tecnologia. Também tem uma das melhores coleções de ensaios na internet. Se não souber por onde começar, leia [Life is Short](http://www.paulgraham.com/vb.html) e [Do Things that don't Scale](http://www.paulgraham.com/ds.html). Super recomendado.
+
+&nbsp;
+&nbsp;
 
 ## PODCASTS
 

@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "odirk.org"
 title: odirk.org
 paginate: 6
 theme: PaperMod
@@ -77,8 +77,6 @@ params:
           url: "https://twitter.com/odirk"
         - name: instagram
           url: "https://instagram.com/odirk"
-        - name: lastfm
-          url: "https://last.fm/user/GabrielDuro"
         - name: email
           url: "mailto:www@odirk.org"
 

@@ -3,6 +3,7 @@ title: "How to internet"
 date: "2021-04-14"
 tags: ["internet"]
 description: "Como eu navego em alta velocidade pela rede mundial de computadores"
+showToc: true
 draft: false
 ---
 
@@ -70,7 +71,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Seth Godin's Blog](https://seths.blog/). Empreendedorismo e marketing.
 
-[Cal Newport's](https://www.calnewport.com/blog/). Tecnologia e Cultura. Autor de [The Deep Work Hypothesis] e [Digital Minimalism]. Muito do que penso sobre esses assuntos veio dele.
+[Cal Newport's](https://www.calnewport.com/blog/). Tecnologia e Cultura. Autor de [Deep Work](https://www.amazon.com.br/Trabalho-Focado-Sucesso-Mundo-Distraído/dp/8550802328/) e [Digital Minimalism](https://www.amazon.com.br/Minimalismo-Digital-Profunda-Mundo-Superficial/dp/8550807664). Muito do que penso sobre esses assuntos veio dele.
 
 [Paul Graham's essays](http://paulgraham.com/articles.html) Ele é um expoente em inovação e economia em tecnologia. Também tem uma das melhores coleções de ensaios na internet. Se não souber por onde começar, leia [Life is Short](http://www.paulgraham.com/vb.html) e [Do Things that don't Scale](http://www.paulgraham.com/ds.html). Super recomendado.
 
@@ -79,20 +80,20 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ## PODCASTS
 
-[Hello Internet](https://www.hellointernet.fm/)
+[Hello Internet](https://www.hellointernet.fm/). Discussões sobre suas vidas profissionais dos criadores, bem como seus interesses e aborrecimentos. Tópicos típicos incluem YouTube, etiqueta tecnológica, livros, críticas de filmes e programas de TV, vexilologia, futurologia e as diferenças entre as personalidades e estilos de vida dos criadores. Atualmente inativo, mas altamente recomendado.
 
-[Cortex](https://www.relay.fm/cortex)
+[Cortex](https://www.relay.fm/cortex). Discussões sobre métodos e ferramentas para produtividade e criatividade. Bem focado em MacOS e iOS.
 
-[99% Invisible](https://99percentinvisible.org/)
+[99% Invisible](https://99percentinvisible.org/). Produção independente com foco em design e arquitetura.
 
-[The Knowledge Project](https://fs.blog/knowledge-project/)
+[The Knowledge Project](https://fs.blog/knowledge-project/). Não sou muito chegado em podcasts de entrevista, mas o The Knowledge Project é ótimo. Ele se concentra em percepções e lições dos convidados.
 
-[Monday Morning Podcast](https://billburr.com/podcast/)
+[Monday Morning Podcast](https://billburr.com/podcast/). Bill Burr fala de improviso sobre experiências passadas e recentes, eventos atuais, passeios turísticos, esportes e oferece conselhos para perguntas enviadas pelos ouvintes.
 
-[Radiolab](https://www.npr.org/podcasts/452538884/radiolab)
+[Radiolab](https://www.npr.org/podcasts/452538884/radiolab). O programa se concentra em tópicos de natureza científica, filosófica e política, abordando os temas de uma maneira acessível e com um estilo de produção de áudio distinto.
 
-[Reply All](https://gimletmedia.com/shows/reply-all/episodes)
+[Reply All](https://gimletmedia.com/shows/reply-all/episodes). O programa apresenta histórias sobre como as pessoas moldam a internet e como a internet molda as pessoas. Recomendado.
 
-[Revisionist History](https://www.revisionisthistory.org/)
+[Revisionist History](https://www.revisionisthistory.org/). Podcast de Malcolm Gladwell. Cada episódio começa com uma investigação sobre uma pessoa, evento ou ideia e segue questionando a sabedoria/lógica do assunto. Recomendado
 
-[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/)
+[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Focado em discutir a política brasileira. Valia muito a pena para poder ouvir a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar), que saiu no início de 2021. Ainda assim, vale ouvir. Mesmo que ele tenha um formato rígido de mesa redonda.

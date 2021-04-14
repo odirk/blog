@@ -1,7 +1,7 @@
 ---
 title: "Sobre o site"
 date: "2021-04-14"
-description: "Hello, world!"
+# description: "Hello, world!"
 showToc: false
 searchHidden: true
 ShowReadingTime: false
@@ -9,14 +9,14 @@ ShowReadingTime: false
 
 Odirk.org é um blog para compartilhar meus passatempos e opiniões com qualquer pessoa que possa achá-los interessantes. Periodicamente atualizado, então vc pode sempre voltar quando acabar de ler o resto da internet. 
 
-Tópicos de interesse frequentes incluem tecnologia, ciência, cultura, filmes, música, comida, e eventos atuais levemente contextualizados. Basicamente, é o que eu me interesso e penso, filtrado implacavelmente pela minha visão de mundo, com todas as vantagens e desvantagens disso.
+Tópicos de interesse frequentes incluem tecnologia, ciência, cultura, filmes, música, comida, e eventos atuais levemente contextualizados. Basicamente, é o que eu me interesso e penso, filtrado pela minha visão de mundo, com todas as vantagens e desvantagens disso.
 
 &nbsp;
 &nbsp;
 
 ## Sobre mim
 
-Sou mais um nerd que ama a internet. Descobri ela em 1994 e nunca mais larguei. Já fiz um pouco de tudo *online*, já fui gamer, lamer, pirata, blogger, editor da wikipedia e cresci participando de fóruns e servidores de irc que já não existem mais. Os bons tempos de faroeste na internet.
+Sou mais um nerd que ama a internet. Descobri ela em 1994 e nunca mais larguei. Já fiz um pouco de tudo *online*, já fui gamer, lamer, pirata, blogger, editor da wikipedia e cresci participando de fóruns e servidores de irc que já não existem mais - os bons tempos de faroeste na internet.
 
 Na vida real, sou [advogado](https://gabrielduro.com.br) de propriedade intelectual. Você pode me encontrar no [Twitter](https://twitter.com/odirk) e [Instagram](https://instagram.com/odirk). Atualmente vivo em Porto Alegre. Não tenho planos para esse site.
 

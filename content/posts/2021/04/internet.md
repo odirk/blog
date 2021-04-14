@@ -3,7 +3,7 @@ title: "How to internet"
 date: "2021-04-14"
 tags: ["internet"]
 description: "Como eu navego em alta velocidade pela rede mundial de computadores"
-draft: true
+draft: false
 ---
 
 Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos e anos coletando esses links e agora vou compartilhar com você. Aproveite!

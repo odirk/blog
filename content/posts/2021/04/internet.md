@@ -2,7 +2,7 @@
 title: "How to internet"
 date: "2021-04-14"
 tags: ["internet", "dirkdicas"]
-description: "Por onde eu navego em alta velocidade pela rede mundial de computadores"
+description: "Por onde eu navego pela rede mundial de computadores"
 showToc: true
 draft: false
 ---
@@ -13,7 +13,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ### Agregadores de notícias
 
-[Reddit](https://old.reddit.com). Onde está tudo de interessante na internet.
+[Reddit](https://old.reddit.com). Onde tudo de interessante está na internet. Veja mais no vídeo abaixo.
 
 [Hacker News](https://news.ycombinator.com/). Agregador de notícias focado em ciência da computação e empreendedorismo.
 
@@ -73,7 +73,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Cal Newport's](https://www.calnewport.com/blog/). Tecnologia e Cultura. Autor de [Deep Work](https://www.amazon.com.br/Trabalho-Focado-Sucesso-Mundo-Distraído/dp/8550802328/) e [Digital Minimalism](https://www.amazon.com.br/Minimalismo-Digital-Profunda-Mundo-Superficial/dp/8550807664). Muito do que penso sobre esses assuntos veio dele.
 
-[Paul Graham's essays](http://paulgraham.com/articles.html) Ele é um expoente em inovação e economia em tecnologia. Também tem uma das melhores coleções de ensaios na internet. Se não souber por onde começar, leia [Life is Short](http://www.paulgraham.com/vb.html) e [Do Things that don't Scale](http://www.paulgraham.com/ds.html). Super recomendado.
+[Paul Graham's essays](http://paulgraham.com/articles.html). Ele é um expoente em inovação e economia em tecnologia. Também tem uma das melhores coleções de ensaios na internet. Se não souber por onde começar, leia [Life is Short](http://www.paulgraham.com/vb.html) e [Do Things that don't Scale](http://www.paulgraham.com/ds.html). Super recomendado.
 
 &nbsp;
 &nbsp;
@@ -82,7 +82,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Hello Internet](https://www.hellointernet.fm/). Discussões sobre suas vidas profissionais dos criadores, bem como seus interesses e aborrecimentos. Tópicos típicos incluem YouTube, etiqueta tecnológica, livros, críticas de filmes e programas de TV, vexilologia, futurologia e as diferenças entre as personalidades e estilos de vida dos criadores. Atualmente inativo, mas altamente recomendado.
 
-[Cortex](https://www.relay.fm/cortex). Discussões sobre métodos e ferramentas para produtividade e criatividade. Bem focado em MacOS e iOS.
+[Cortex](https://www.relay.fm/cortex). Debates sobre métodos e ferramentas para produtividade e criatividade. Bem focado em MacOS e iOS.
 
 [99% Invisible](https://99percentinvisible.org/). Produção independente com foco em design e arquitetura.
 
@@ -90,10 +90,10 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Monday Morning Podcast](https://billburr.com/podcast/). Bill Burr fala de improviso sobre experiências passadas e recentes, eventos atuais, passeios turísticos, esportes e oferece conselhos para perguntas enviadas pelos ouvintes.
 
-[Radiolab](https://www.npr.org/podcasts/452538884/radiolab). O programa se concentra em tópicos de natureza científica, filosófica e política, abordando os temas de uma maneira acessível e com um estilo de produção de áudio distinto.
+[Radiolab](https://www.npr.org/podcasts/452538884/radiolab). Se concentra em tópicos de natureza científica, filosófica e política, abordando os temas de uma maneira acessível e com um estilo de produção de áudio distinto.
 
-[Reply All](https://gimletmedia.com/shows/reply-all/episodes). O programa apresenta histórias sobre como as pessoas moldam a internet e como a internet molda as pessoas. Recomendado.
+[Reply All](https://gimletmedia.com/shows/reply-all/episodes). Histórias sobre como as pessoas moldam a internet e como a internet molda as pessoas. Recomendado.
 
-[Revisionist History](https://www.revisionisthistory.org/). Podcast de Malcolm Gladwell. Cada episódio começa com uma investigação sobre uma pessoa, evento ou ideia e segue questionando a sabedoria/lógica do assunto. Recomendado
+[Revisionist History](https://www.revisionisthistory.org/). Malcolm Gladwell investigando pessoas, eventos ou ideias, questionando a sabedoria/lógica do assunto. Recomendado.
 
-[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Focado em discutir a política brasileira. Valia muito a pena para poder ouvir a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar), que saiu no início de 2021. Ainda assim, vale ouvir. Mesmo que ele tenha um formato rígido de mesa redonda.
+[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Mesa redonda focada em discutir política brasileira. Gostava mais quando a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar) participava, mas ainda vale ouvir. Só acho ruim que ele use um formato rígido de rádio na internet. Não é como se precisasse ter exata 1h para adequar ao slot de horários da emissora ¯\\\_(ツ)\_/¯.

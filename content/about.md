@@ -7,7 +7,7 @@ searchHidden: true
 ShowReadingTime: false
 ---
 
-Odirk.org é um blog para compartilhar meus passatempos e opiniões com qualquer pessoa que possa achá-los interessantes. Periodicamente atualizado, então vc pode sempre voltar quando acabar de ler o resto da internet. 
+Odirk.org é um blog para compartilhar meus passatempos, opiniões, problemas e soluções com qualquer pessoa que possa achá-los interessantes. Periodicamente atualizado, então vc pode sempre voltar quando acabar de ler o resto da internet. 
 
 Tópicos de interesse frequentes incluem tecnologia, ciência, cultura, filmes, música, comida, e eventos atuais levemente contextualizados. Basicamente, é o que eu me interesso e penso, filtrado pela minha visão de mundo, com todas as vantagens e desvantagens disso.
 

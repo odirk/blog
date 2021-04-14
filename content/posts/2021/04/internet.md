@@ -6,7 +6,7 @@ description: "Como eu navego em alta velocidade pela rede mundial de computadore
 draft: false
 ---
 
-Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos e anos coletando esses links e agora vou compartilhar com você. Aproveite!
+Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Aproveite!
 
 ## SITES
 
@@ -56,7 +56,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ## BLOGS
 
-[Brain Pickings](https://www.brainpickings.org/). Livros que a [Maria Popova](https://en.wikipedia.org/wiki/Maria_Popova) lê, e ideias sobre arte, filosofia, cultura e etc. Em dúvida? Comece por [aqui](https://www.brainpickings.org/tag/best-of/). Recomendado.
+[Brain Pickings](https://www.brainpickings.org/). Livros que a [Maria Popova](https://en.wikipedia.org/wiki/Maria_Popova) lê. Ideias sobre arte, filosofia, cultura e etc. Em dúvida? Comece por [aqui](https://www.brainpickings.org/tag/best-of/). Recomendado.
 
 [Longreads](https://longreads.com/). Curadoria de histórias longas na internet.
 

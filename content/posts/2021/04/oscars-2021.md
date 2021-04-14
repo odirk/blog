@@ -1,6 +1,6 @@
 ---
 title: "Minhas apostas para o Oscar 2021"
-date: "2021-04-08"
+date: "2021-04-23"
 tags: ["film", "oscars"]
 author: "gabriel"
 # author: ["Me", "You"] # multiple authors
@@ -50,6 +50,8 @@ Glenn Close, Hillbilly Elegy
 *Amanda Seyfried, Mank*
 
 *Youn Yuh-jung, Minari*
+
+> Mas seria ótimo se Yun-jung ganhasse.
 
 &nbsp;
 &nbsp;
@@ -110,6 +112,7 @@ Ramin Bahrani, The White Tiger
 *Darius Marder, Abraham Marder, Derek Cianfrance, Sound Of Metal*
 
 `Aaron Sorkin, The Trial Of The Chicago 7`
+
 &nbsp;
 &nbsp;
 
@@ -175,7 +178,7 @@ Yes-People
 
 ## Best International Feature
 
-*Another Round*
+`Another Round`
 
 Better Days
 
@@ -198,7 +201,7 @@ News Of The World
 
 *Soul*
 
-*Sound Of Metal*
+`Sound Of Metal`
 
 &nbsp;
 &nbsp;
@@ -220,7 +223,7 @@ News Of The World
 
 ## Best Editing
 
-*The Father*
+`The Father`
 
 *Nomadland*
 
@@ -241,7 +244,7 @@ News Of The World
 
 News Of The World
 
-*Nomadland*
+`Nomadland`
 
 *The Trial Of The Chicago 7*
 
@@ -329,7 +332,7 @@ Wolfwalkers
 
 *Andra Day, United States Vs. Billie Holiday*
 
-Vanessa Kirby, Pieces Of A Woman
+*Vanessa Kirby, Pieces Of A Woman*
 
 *Frances McDormand, Nomadland*
 
@@ -344,7 +347,7 @@ Vanessa Kirby, Pieces Of A Woman
 
 *David Fincher, Mank*
 
-*Lee Isaac Chung, Minari*
+`Lee Isaac Chung, Minari`
 
 *Chloé Zhao, Nomadland*
 

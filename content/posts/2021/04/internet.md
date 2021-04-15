@@ -7,15 +7,15 @@ showToc: true
 draft: false
 ---
 
-Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Aproveite!
+Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Divirta-se!
 
 ## Sites
 
 ### Agregadores de notícias
 
-[Reddit](https://old.reddit.com). Onde tudo de interessante está na internet. Veja mais no vídeo abaixo.
+[Reddit](https://old.reddit.com). Onde está tudo de interessante na internet. Saiba mais no vídeo abaixo.
 
-[Hacker News](https://news.ycombinator.com/). Agregador de notícias focado em ciência da computação e empreendedorismo.
+[Hacker News](https://news.ycombinator.com/). Agregador focado em ciência da computação e empreendedorismo.
 
 {{< youtube tlI022aUWQQ >}}
 
@@ -37,7 +37,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [The Quietus](https://thequietus.com/). Revista britânica independente de música e cultura pop.
 
-[AV Club](https://www.avclub.com/). Revista de entretenimento americana. Não está tão boa quanto no final dos anos 2000, mas ainda vale uma visita semanal.
+[AV Club](https://www.avclub.com/). Revista de entretenimento americana. Não anda tão boa quanto no final dos anos 2000, mas ainda vale uma visita semanal.
 
 [Indiewire](https://www.indiewire.com/). Subsidiária da Variety que foca em filmes independentes.
 
@@ -57,9 +57,9 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ## Blogs
 
-[Brain Pickings](https://www.brainpickings.org/). Livros que a [Maria Popova](https://en.wikipedia.org/wiki/Maria_Popova) lê. Ideias sobre arte, filosofia, cultura e etc. Em dúvida? Comece por [aqui](https://www.brainpickings.org/tag/best-of/). Recomendado.
+[Brain Pickings](https://www.brainpickings.org/). Livros que a [Maria Popova](https://en.wikipedia.org/wiki/Maria_Popova) lê. Ideias sobre arte, filosofia, cultura, etc. Em dúvida por onde começar? [Clique aqui](https://www.brainpickings.org/tag/best-of/). Recomendado.
 
-[Longreads](https://longreads.com/). Curadoria de histórias longas na internet.
+[Longreads](https://longreads.com/). Curadoria de histórias na internet.
 
 [Edge](https://www.edge.org/). Think tank de ciência e tecnologia.
 
@@ -67,7 +67,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Kottke](https://kottke.org/). Um dos blogs mais antigos da internet. Sobre tecnologia, ciência e cultura.
 
-[Marginal Revolution](https://marginalrevolution.com/). Economia e pensamento econômico aplicado em problemas sociais.
+[Marginal Revolution](https://marginalrevolution.com/). Economia e problemas sociais.
 
 [Seth Godin's Blog](https://seths.blog/). Empreendedorismo e marketing.
 
@@ -80,15 +80,15 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ## Podcasts
 
-[Hello Internet](https://www.hellointernet.fm/). Discussões sobre suas vidas profissionais dos criadores, bem como seus interesses e aborrecimentos. Tópicos típicos incluem YouTube, etiqueta tecnológica, livros, críticas de filmes e programas de TV, vexilologia, futurologia e as diferenças entre as personalidades e estilos de vida dos criadores. Atualmente inativo, mas altamente recomendado.
+[Hello Internet](https://www.hellointernet.fm/). Discussões sobre internet, etiqueta tecnológica, livros, críticas de filmes e programas de TV, vexilologia, futurologia e as diferenças entre as personalidades e estilos de vida dos criadores. Atualmente inativo, mas altamente recomendado.
 
-[Cortex](https://www.relay.fm/cortex). Debates sobre métodos e ferramentas para produtividade e criatividade. Bem focado em MacOS e iOS.
+[Cortex](https://www.relay.fm/cortex). Debates sobre métodos e ferramentas para produtividade e criatividade, com foco em MacOS e iOS.
 
-[99% Invisible](https://99percentinvisible.org/). Produção independente com foco em design e arquitetura.
+[99% Invisible](https://99percentinvisible.org/). Produção independente com temática em design e arquitetura.
 
 [The Knowledge Project](https://fs.blog/knowledge-project/). Não sou muito chegado em podcasts de entrevista, mas o The Knowledge Project é ótimo. Ele se concentra em percepções e lições dos convidados.
 
-[Monday Morning Podcast](https://billburr.com/podcast/). Bill Burr fala de improviso sobre experiências passadas e recentes, eventos atuais, passeios turísticos, esportes e oferece conselhos para perguntas enviadas pelos ouvintes.
+[Monday Morning Podcast](https://billburr.com/podcast/). [Bill Burr](https://en.wikipedia.org/wiki/Bill_Burr) fala de improviso sobre suas experiências passadas e recentes, eventos atuais, esportes e oferece conselhos para perguntas enviadas pelos ouvintes.
 
 [Radiolab](https://www.npr.org/podcasts/452538884/radiolab). Se concentra em tópicos de natureza científica, filosófica e política, abordando os temas de uma maneira acessível e com um estilo de produção de áudio distinto.
 
@@ -96,4 +96,4 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Revisionist History](https://www.revisionisthistory.org/). Malcolm Gladwell investigando pessoas, eventos ou ideias, questionando a sabedoria/lógica do assunto. Recomendado.
 
-[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Mesa redonda focada em discutir política brasileira. Gostava mais quando a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar) participava, mas ainda vale ouvir. Só acho ruim que ele use um formato rígido de rádio na internet. Não é como se precisasse ter exata 1h para adequar ao slot de horários da emissora ¯\\\_(ツ)\_/¯.
+[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Mesa redonda focada em discutir política brasileira. Gostava mais quando a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar) participava, mas ainda vale ouvir. Só acho ruim que ele use um formato rígido de rádio na internet. Não é como se precisasse ter exata 1h para se adequar ao slot de horários da emissora ¯\\\_(ツ)\_/¯.

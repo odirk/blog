@@ -1,6 +1,6 @@
 ---
 title: "Divagações sobre pizza"
-date: "2021-04-02"
+date: "2021-04-12"
 tags: ["food"]
 description: "O que eu aprendi e penso sobre pizza"
 author: "gabriel"
@@ -12,14 +12,14 @@ draft: true
 
 Vou começar dizendo algumas coisas. Em primeiro lugar, é sobre de um certo estilo de pizza. É sobre o tipo de pizza que você pode conseguir nos melhores e mais antigos de Nápoles. Não é sobre o estilo de Chicago ou da Califórinia, apesar delas compartilharem certos princípios básicos em comum.
 
-Em segundo lugar, existe *muita* desinformação por aí. Visite as melhores pizzarias do mundo. Nenhum desses lugares publica suas receitas. Eles não escrevem livros. Mas, de alguma forma, todos celebrity chefs que se declaram especialistas e escrevem livros espalham as mesmas ideias. Existem centenas de livros e receitas na Internet que afirmam fornecer uma receita de massa de pizza 'autêntica' ou 'secreta'. Curiosamente, todas elas são praticamente iguais. Aqui está um resumo. Se você vir esta receita, corra gritando:
+Em segundo lugar, existe *muita* desinformação por aí. Visite as melhores pizzarias do mundo. Nenhum desses lugares publica suas receitas. Eles não escrevem livros. Mas, de alguma forma, todos "especialistas" que escrevem livros espalham as mesmas ideias. Existem centenas de livros e receitas na Internet que afirmam fornecer uma receita de massa de pizza 'autêntica' ou 'secreta'. Curiosamente, todas elas são praticamente iguais. Aqui está um resumo:
 
 > 1. Adicione um pacote de fermento em água morna 40ºC, junto com uma colher de chá de açúcar para alimentá-lo. Espere o fermento ativar (espumar). 
-> 2. Adicione toda a sua farinha a uma batedeira Kitchen Aid e, junto com a mistura do fermento e o sal. Misture até que se solte da lateral da tigela. 
+> 2. Adicione toda a sua farinha a uma batedeira de gancho, junto com a mistura do fermento e o sal. Misture até que se solte da lateral da tigela. 
 > 3. Cubra com óleo e deixe em um lugar aquecido até dobrar de volume, cerca de 1~2 horas. 
-> 4. Desinfle a massa, estique-a sobre um peel com um pouco de farinha de milho para evitar que grude e lance a pizza sobre a pedra mágica em seu forno a 260ºC.
+> 4. Desinfle a massa, estique-a sobre a pá com um pouco de farinha de milho para evitar que grude e lance a pizza sobre a pedra em seu forno a 260ºC.
 
-Garanto a você, isso não vai fazer uma boa pizza. É estranho - vários chefs com boas receitas simplesmente passam uma versão dessa receita terrível.
+Garanto a você, isso não vai fazer uma boa pizza. É estranho. Vários chefs com boas receitas simplesmente passam uma versão dessa receita terrível.
 
 Fazer pizza é uma especialidade. É preciso paixão para fazer a coisa certa. Não vou dar a você a 'versão caseira fácil'. Vou dar a vocês a versão que faz a melhor massa que eu sei fazer, mesmo que exija um pouco mais de esforço.
 
@@ -27,7 +27,7 @@ Existem muitas variáveis para um prato tão simples. Mas estes três *de longe*
 
 1. Alta temperatura;
 2. Técnica de sova;
-3. O tipo de levedura utilizada, junto com a técnica de fermentação adequada.
+3. O tipo de levedura utilizada, junto com uma técnica de fermentação adequada.
 
 Todos os outros fatores se apequenam em comparação a esses três. Eu sei que várias pessoas se preocupam com a marca da farinha, o tipo de molho, etc. Vou falar sobre todas essas coisas, mas se você não dominar esses três princípios básicos, seus resultados serão bastante limitados.
 
@@ -35,7 +35,7 @@ Todos os outros fatores se apequenam em comparação a esses três. Eu sei que v
 
 Minha massa é só água, sal, farinha e fermento. Não uso condicionadores, açúcares, óleos, maltes, aromatizantes ou qualquer outra coisa. Isso viola as regras da *Vera Pizza Napoletana*. 
 
-Na tabela abaixo está um conjunto básico de proporções. A realidade é que muitas dessas receitas parecem iguais e você pode variar os ingredientes em alguns pontos percentuais sem grande diferença no resultado final. Você precisa aprender a técnica, que vou explicar com o máximo de detalhes que puder, e depois seguir sua intuição. As medidas mais certas são as de água e o sal e o resto é bem flexível. A quantidade de farinha é "adicione até sentir que está certo". A quantidade de levedura pode variar de 3% a 20% e não vai afetar muito o produto final. Note que a adição da levedura (que é metade água, metade farinha) deixa massa um pouco mais hidratada que 65.5%.
+Na tabela abaixo está um conjunto básico de proporções. A realidade é que muitas dessas receitas parecem iguais e você pode variar os ingredientes em alguns pontos percentuais sem grande diferença no resultado final. Você precisa aprender a técnica, que vou explicar com o máximo de detalhes que puder, e depois seguir sua intuição. As medidas mais certas são as de água e sal, o resto é bem variável. A quantidade de farinha é "adicione até sentir que está certo". A quantidade de levedura pode variar de 3% a 20% e não vai afetar muito o produto final. Note que a adição da levedura (que é metade água, metade farinha) deixa massa um pouco mais hidratada que 65.5%.
 
 | Ingrediente | 1 pizza (g) | Porcentagem de padeiro |
 | ----------- | ----------- | -----------------------|
@@ -86,7 +86,7 @@ A farinha tipo 00 tem um moinho mais fino e também vai absorver muito menos ág
 
 A proporção de farinha e água pode mudar dramaticamente as características da massa. Dito isto, não meço a minha "% hidratação". Eu faço isso estritamente por sentir. Ultimamente, minha massa tem estado muito mais úmidas do que nunca. A massa úmida se estica mais facilmente, parece se desenvolver mais rápido na geladeira e fornece mais vapor para o desenvolvimento da crosta. Quanto mais alta a temperatura do forno, mais úmida deve ser a massa. As super temperaturas necessário para fazer uma pizza em 2 minutos ou menos, você precisa de muita umidade para evitar que queime e grude na superfície da pedra.
 
-## 5. Kneading
+## 5. Sova
 
 Esta é uma das etapas mais importantes. Siga com atenção. Existem centenas receitas na rede que dizem que você deve despejar todos os ingredientes juntos, ligar a batedeira e você terá uma massa ótima. Não é verdade. Mas, depois que você entender essas etapas, sua massa se transformará em algo suave e incrível.
 
@@ -95,7 +95,7 @@ Esta é uma das etapas mais importantes. Siga com atenção. Existem centenas re
 Autolyse é uma palavra fresca que significa apenas uma coisa simples: a farinha e a água devem ficar juntas por pelo menos 20 minutos antes de começar a sovar. É uma etapa *crítica*. Alguns dizem que você deve misturar apenas a farinha e a água, depois de 20 minutos adicionar o sal e o fermento e misturar. Outros dizem que você pode adicionar todos os ingredientes no início. Eu encontrei muito pouca diferença entre as duas opções.
 
 1. Coloque todos os ingredientes na batedeira, **mas use apenas 75% da farinha por enquanto**. Então toda a água, sal, levedura natural, fermento instantâneo (se usado) e 75% da farinha são colocados na batedeira. Tudo deve estar em temperatura ambiente ou um pouco mais frio.
-2. Não há necessidade de dissolver o fermento em água morna ou alimentá-lo com açúcar. Antigamente era necessário 'revisar' o fermento, mas nunca vi fermento que não ativasse. O fermento se alimenta da farinha, então você não precisa colocar açúcar. A etapa de proofing que você vê em muitas receitas é realmente um conto da velha esposa neste ponto.
+2. Não há necessidade de dissolver o fermento em água morna ou alimentá-lo com açúcar. Antigamente era necessário 'ativar' o fermento, mas nunca vi fermento que não ativasse. O fermento se alimenta da farinha, então você não precisa colocar açúcar. A etapa de proofing que você vê em muitas receitas é realmente um conto da velha esposa neste ponto.
 3. Misture na velocidade mais baixa por 1~2 minutos, ou até misturar completamente. Nesta fase, você deve ter uma mistura bem líquida, mais perto de uma massa de panqueca.
 4. Cubra e deixe descansar por 20 minutos. Uma das coisas mais importantes que descobri é que esses períodos de descanso têm um grande impacto no produto final. Já vi muita discussão online sobre a farinha adequada para fazer pizza. “Você precisa de uma farinha superprotéica para obter a estrutura certa para uma massa de pizza”. As pessoas discutem sem parar sobre marcas e pequenas mudanças nas misturas de farinha, tipos de água, etc. Muito disso é mito e uma grande perda de tempo. O período de autólise é *muito* mais importante para criar o desenvolvimento estruturado do glúten do que a porcentagem de proteína inicial. Autolyse e uma boa sova vai dar uma boa estrutura pra qualquer farinha branca. Depois de esperar 20 minutos a massa estará com cara da massa
 

@@ -33,7 +33,7 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 ### Cultura
 
-[Pitchfork](https://pitchfork.com/). Publicação americana de música, com foco em música independente.
+[Pitchfork](https://pitchfork.com/). Publicação americana de música, com certo foco em música independente.
 
 [The Quietus](https://thequietus.com/). Revista britânica independente de música e cultura pop.
 
@@ -94,6 +94,6 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Reply All](https://gimletmedia.com/shows/reply-all/episodes). Histórias sobre como as pessoas moldam a internet e como a internet molda as pessoas. Recomendado.
 
-[Revisionist History](https://www.revisionisthistory.org/). Malcolm Gladwell investigando pessoas, eventos ou ideias, questionando a sabedoria/lógica do assunto. Recomendado.
+[Revisionist History](https://www.revisionisthistory.org/). [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) investigando pessoas, eventos ou ideias, questionando a sabedoria/lógica do assunto. Recomendado.
 
 [Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/). Mesa redonda focada em discutir política brasileira. Gostava mais quando a [Malu Gaspar](https://pt.wikipedia.org/wiki/Malu_Gaspar) participava, mas ainda vale ouvir. Só acho ruim que ele use um formato rígido de rádio na internet. Não é como se precisasse ter exata 1h para se adequar ao slot de horários da emissora ¯\\\_(ツ)\_/¯.

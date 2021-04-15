@@ -6,7 +6,7 @@ description: "Weekly food for thought"
 draft: true
 ---
 
-Leituras longas são as melhores histórias que eu li na web nessa semana. As escolhas de histórias frequentemente são de jornalismo longform, contos e entrevistas.
+Aqui estão as histórias mais interessantes que eu li na web nessa semana. As escolhas frequentemente são de jornalismo longform, contos e entrevistas. Vale lembrar: só porque as achei interessante, não significa que as endosso. 
 
 ---
 
@@ -32,6 +32,10 @@ Leituras longas são as melhores histórias que eu li na web nessa semana. As es
 
 4. [Against alcohol](https://fergus-mccullough.com/index.php/2021/04/09/against-alcohol/)
 
-"This useful little book provides a summary of the latest science on the impact of alcohol, which I’ll briefly outline, and goes on to suggest some actions in light of that knowledge."
+"[P]rovides a summary of the latest science on the impact of alcohol, which I’ll briefly outline, and goes on to suggest some actions in light of that knowledge."
 
-> Boa coleção de dados, apesar de disconcordar com as conclusões.
+---
+
+5. [Tracking down the original server that Yahoo was hosted on before it was called Yahoo.](https://twitter.com/waxpancake/status/1381309822088323075)
+
+Yahoo antes de ser Yahoo. It doesn't get more web 1.0 than that.

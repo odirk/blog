@@ -40,7 +40,9 @@ De qualquer forma seguem os filmes, livros, músicas, TV e podcasts de que goste
 - [The United States vs. Billie Holiday](https://www.imdb.com/title/tt8521718/). Sofrível. Direção e roteiro muito inconsistentes. Performace de Andra Day é excelente. (4)
 - [Another Round](https://www.imdb.com/title/tt10288566/). Uma viagem tragicômica sobre crises de meia-idade (7.5)
 - [Pieces of a Woman](https://www.imdb.com/title/tt11161474/). Visualmente cativante durante a primeira meia hora, mas o filme se desfaz depois. Boas atuações. (6.7)
-
+- [News of the World](https://www.imdb.com/title/tt6878306/)  Broadly entertaining film that is a bit too soft and spread thin to hit with the emotional force that it could. (7)
+- [Wolfwalkers](https://www.imdb.com/title/tt5198068/)  Every aspect of Wolfwalkers is thoughtfully and beautifully rendered. Far and away the best animated film of the year so far. (8)
+  
 da 5 bloods. uma perspectiva da guerra do vietnam nao muito vista em hollywood. recortada com 
   
 &nbsp;
@@ -48,5 +50,5 @@ da 5 bloods. uma perspectiva da guerra do vietnam nao muito vista em hollywood. 
 
 ### Séries
 - [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). ;
-- [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S03~04). Arranjando maneiras para matar a saudades de viajar. Melhor do que nada (6.5);
+- [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S04~05). Arranjando maneiras para matar a saudades de viajar. Melhor do que nada (6.5);
 - [Final Space](https://www.imdb.com/title/tt6317068/) (S03);

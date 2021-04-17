@@ -8,6 +8,79 @@ TocOpen: true
 draft: true
 ---
 
+https://waitbutwhy.com/2021/04/mailbag-2.html
+
+
+
+### What should one do if a piece of media (book or movie or song) that holds some nostalgic value to you turns out to have been created by someone who’s a ‘bad’ human being? – Anoushka D. (Delhi, India)
+
+I think in most cases, we should feel fine loving the art we love, regardless of who the artist is, what they did, or what they believed. John Lennon was physically abusive in his early relationships. Picasso and Jackson Pollock were abusive husbands. Walt Disney wasn’t a fan of the Jews, nor is Cat Stevens. Ellen DeGeneres was a dick to her staff. Norman Mailer stabbed his wife. I could have listed 1,000 of these because artists are often messed up, unstable people who do or say bad things (and because most people secretly hold deep-down beliefs you would disapprove of if you knew about them). That a lot of great art emerges from troubled minds shouldn’t be a surprise or invalidate the art as great art to be enjoyed—at least not to me.
+
+In many cases, we’re also talking about artists who lived in different times—times when your own ancestors who lived then almost certainly were doing or saying some things that would make them “bad people” by today’s standards.
+
+For those who generally agree with me about this, there might still be exceptions. Maybe an important part of why you liked The Cosby Show was the belief that Bill Cosby really was a lot like Cliff Huxtable, and knowing what you know now, the show loses its charm. I just find those to be the rare exceptions, not the rule.
+
+Finally, I would say there are two okay views to have here: 1) my view, that you can enjoy art by people you disapprove of, and 2) the opposite view, that not liking the artist ruins the art. What’s not an okay view is 3) “Art by a person I disapprove of should be banned so that no one is allowed to consume it, and any platform that doesn’t ban it should be punished.” There’s way too much #3 going on right now.
+
+### Would you rather be 11 feet tall or nine inches tall? – Alexander R. (Windhoek, Namibia)
+
+Surprisingly hard one. 11 feet seems like the obvious answer. You’re a full “thing” everywhere you go and everyone would flip out, but then they’d get used to it and you could still have an almost normal life. You could still have an almost normal house. You could for sure play in the NBA. You could still have sex.
+
+No one is fucking a nine-inch tall person. And you couldn’t go anywhere without everyone you’re about to see being fully prepped ahead of time for the situation. Your house would be a joke. That said, there would be benefits. You could sneak into anything and hide very easily. Like you could probably smuggle yourself on a plane to Russia without anyone noticing, sneak into the Kremlin, and listen in on the most secretive Putin meetings while hiding behind the curtains or somewhere. But then what?
+
+So I guess my answer is that the nine-inch-tall option would be very fun for a while but then when you got bored of the perks, you’d be confronted with your life as a pencil person and would probably regret the choice. So I’d go with 11 feet tall.
+
+### If you were an omnipotent god for 24 hours, what would you do? After the 24 hours, you’d turn back into your regular self but still remember that day. – Lena S. (Munich, Germany)
+
+“Omnipotent god” is a very legit amount of power. Here’s what I’d do:
+
+Restore the level of carbon in the carbon cycle to 1850 levels and invent some insanely powerful and efficient, cheap-to-make, totally safe nuclear fusion reactor that you could fuel with garbage like the Delorean in Back to the Future 2, and put instructions for how to make it online.
+
+Randomly select a color from the Pantone deck and make all human skin that color.
+
+Invent an easy, cheap way to make succulent lab-grown meat and put the instructions online.
+
+Make the U.S. government a parliamentary system.
+
+Learn the deal with the Fermi Paradox.
+
+Learn the deal with dark matter.
+
+Tribalism out. Teleportation in.
+
+Tweak the human body so that Oreos and Chinese food are both perfect health food.
+
+All couches are forever incredibly comfortable and like an L-couch except the long part of the L extends across the whole couch, so it’s like a king bed.
+
+All internet is free and fast forever.
+
+All human brains are on a mild dose of MDMA at all times.
+
+Terraform Mars to Earth-like perfection with a snap of my omnipotent fingers. Make a few backup copies of Elon that activate one by one if he dies or gets bored. Incept the idea in Elon’s head that Tim Urban absolutely must be on the first voyage to Mars but not to do any icky work, just to blog about the experience.
+
+Perfect anti-aging technology so everyone can revert their body to any age they prefer and stay there until they’re bored enough of living they’re ready to die. Put instructions for the technology I used to make Elon backups online so everyone can make backups of themselves in case they die in an accident. Use my omnipotence to ensure that all backups are in fact still “you.” All backups are constantly updated to mirror the main version, and only one can be activated one at a time.
+
+All sentences in articles or tweets that are untrue automatically appear in red block letters.
+
+My book is done and everyone agrees it’s just “a really good point.”
+
+My dog is perfectly trained, no longer needs to eat or drink or pee or shit, bathes herself once a week, lives forever, and can be switched off when we go on vacation.
+
+All my shrunk t-shirts are unshrunk and permanently unshrinkable.
+
+There’s a Dan Carlin episode for everything that’s ever happened and Hamilton goes all the way through to today, instead of stopping in like 1802.
+
+Rainbows are climbable and slidable. Clouds are jumpable.
+
+All ocean and pool water is 95 degrees F. All hot tubs 104.
+
+Paper straws are banned, plastic straws are back.
+
+Tweak the human body so exercise makes you fat and depressed and stagnation makes you fit and happy.
+
+Create a benevolent superintelligent AI that “just gets it.” This AI ensures that all future AI is friendly and that no one is too big of a dick. The AI is also in charge of making sure that none of my new rules or inventions backfires in unexpected ways.
+
+
 ### O que é mais velho do que parece?
 
 Máquinas de Fax. Elas foram inventadas em 1843, antes do telefone. Colocando em perspectiva, um samurai poderia ter usado uma.
@@ -89,6 +162,11 @@ Quem sabe de onde eles vêm, eles simplesmente aparecem. ¯\\\_(ツ)\_/¯
 &nbsp;
 
 ### Qual opinião você manteve por um tempo e depois mudou radicalmente?
+
+
+Religion being a generally bad thing overall. Obviously religion can be, and often is, a bad thing that does more harm than good. But what’s become more clear to me is that we’re a religious species, period, and while today’s prominent religions are certainly flawed, the political religions of history or today are often even worse.
+
+It just doesn’t seem like we’re a species that’s ready for widespread atheism quite yet. Until things change, traditional religions are probably more helpful than they are harmful. Still thinking about this one.
 
 Bem, é difícil de discutir isso porque os detalhes geralmente são bastante pessoais.
 

@@ -51,8 +51,6 @@ Glenn Close, Hillbilly Elegy
 
 *Youn Yuh-jung, Minari*
 
-> Mas seria ótimo se Yun-jung ganhasse.
-
 &nbsp;
 &nbsp;
 
@@ -79,18 +77,18 @@ Da 5 Bloods
 
 *Minari*
 
-News Of The World
+*News Of The World*
 
-*Soul*
+`Soul`
 
 &nbsp;
 &nbsp;
 
 ## Best Adapted Screenplay
 
-`Sacha Baron Cohen, Anthony Hines, Dan Swimer, Peter Baynham, Erica Rivinoja, Dan Mazer, Jena Friedman, Lee Kern, Nina Pedrad, Borat Subsequent Moviefilm`
+*Sacha Baron Cohen, Anthony Hines, Dan Swimer, Peter Baynham, Erica Rivinoja, Dan Mazer, Jena Friedman, Lee Kern, Nina Pedrad, Borat Subsequent Moviefilm*
 
-*Christopher Hampton, Florian Zeller, The Father*
+`Christopher Hampton, Florian Zeller, The Father`
 
 *Chloé Zhao, Nomadland*
 
@@ -197,7 +195,7 @@ Greyhound
 
 *Mank*
 
-News Of The World
+*News Of The World*
 
 *Soul*
 
@@ -214,7 +212,7 @@ News Of The World
 
 `Mank`
 
-News Of The World
+*News Of The World*
 
 *Tenet*
 
@@ -242,7 +240,7 @@ News Of The World
 
 *Mank*
 
-News Of The World
+*News Of The World*
 
 `Nomadland`
 
@@ -272,7 +270,7 @@ Emma
 
 Hillbilly Elegy
 
-*Ma Rainey’s Black Bottom*
+`Ma Rainey’s Black Bottom`
 
 *Mank*
 
@@ -291,7 +289,7 @@ A Shaun The Sheep Movie: Farmageddon
 
 *Soul*
 
-Wolfwalkers
+`Wolfwalkers`
 
 &nbsp;
 &nbsp;

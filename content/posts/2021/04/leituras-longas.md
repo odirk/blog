@@ -3,7 +3,7 @@ title: "Leituras longas"
 date: "2021-04-16"
 tags: ["leituras longas"]
 description: "Weekly food for thought"
-draft: true
+draft: false
 ---
 
 Aqui estão as histórias mais interessantes que eu li na web nessa semana. As escolhas frequentemente são de jornalismo longform, contos e entrevistas. Vale lembrar: só porque as achei interessante, não significa que as endosso. 
@@ -39,3 +39,31 @@ Aqui estão as histórias mais interessantes que eu li na web nessa semana. As e
 5. [Tracking down the original server that Yahoo was hosted on before it was called Yahoo.](https://twitter.com/waxpancake/status/1381309822088323075)
 
 Yahoo antes de ser Yahoo. It doesn't get more web 1.0 than that.
+
+---
+
+6. https://www.nytimes.com/2021/04/11/business/media/substack-newsletter-competition.html
+
+Substack’s thesis is, in part, that media companies underpay their most prominent writers. So far, that seems to be bearing out. Mr. Warzel isn’t taking an advance, and many of the writers who took advances now regret doing so: They would have made more money by simply collecting subscription revenue, and paying Substack 10 percent, than making the more complex deals with money up front.
+
+So the biggest threat to Substack is unlikely to be the Twitter-centric political battles among some of its writers. The real threat is competing platforms with a different model. The most technically powerful of those is probably Ghost, which allows writers to send and charge for newsletters, with monthly fees starting at $9. While Substack is backed by the venture capital firm Andreessen Horowitz, Ghost has Wikipedia vibes: It is open-source software developed by a nonprofit.
+
+But Ghost represents an even purer departure from legacy media. More than half of the sites on the platform simply run the software off their own servers.
+
+“The technology is designed to be decentralized, and there’s no one institution or one corporation that can decide what is OK,” he said.
+
+The story of Substack, the company, is interesting and, of course, meaningful to its investors. But the shift in power toward individual writers and direct payments has broader implications. And my informal survey of Substack writers found that most are fond of the company and plan to stick around for now — but not out of the sense of loyalty, shared mission or deep identification that used to run through media companies.
+
+---
+
+http://www.paulgraham.com/richnow.html
+
+The best way to envision what happened is to imagine a pond with a crust of ice on top. Initially the only way from the bottom to the surface is around the edges. But as the ice crust weakens, you start to be able to punch right through the middle.
+
+The edges of the pond were pure tech: companies that actually described themselves as being in the electronics or software business. When you used the word "startup" in 1990, that was what you meant. But now startups are punching right through the middle of the ice crust and displacing incumbents like retailers and TV networks and car companies. 
+
+---
+
+https://www.wired.com/2021/04/geeks-guide-spock-logic/
+
+Not only does Spock have a terrible track record—events he describes as “impossible” happen 83 percent of the time—but his confidence level is actually anti-correlated with reality. 

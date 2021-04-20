@@ -5,6 +5,7 @@ tags: ["food"]
 description: "O que eu aprendi e penso sobre pizza"
 author: "gabriel"
 showToc: true
+TocOpen: true
 draft: true
 ---
 

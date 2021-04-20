@@ -42,6 +42,8 @@ De qualquer forma seguem os filmes, livros, músicas, TV e podcasts de que goste
 - [Pieces of a Woman](https://www.imdb.com/title/tt11161474/). Visualmente cativante durante a primeira meia hora, mas o filme se desfaz depois. Boas atuações. (6.7)
 - [News of the World](https://www.imdb.com/title/tt6878306/)  Broadly entertaining film that is a bit too soft and spread thin to hit with the emotional force that it could. (7)
 - [Wolfwalkers](https://www.imdb.com/title/tt5198068/)  Every aspect of Wolfwalkers is thoughtfully and beautifully rendered. Far and away the best animated film of the year so far. (8)
+- [Cabaret](https://www.imdb.com/title/tt0068327/). Cabaret é bom demais, sempre bom rever. (9)
+- Hillbilly Elegy
   
 da 5 bloods. uma perspectiva da guerra do vietnam nao muito vista em hollywood. recortada com 
   

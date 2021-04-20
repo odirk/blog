@@ -3,17 +3,17 @@ title: "Leituras longas"
 date: "2021-04-16"
 tags: ["leituras longas"]
 description: "Weekly food for thought"
-draft: false
+draft: true
 ---
 
-Aqui estão as histórias mais interessantes que eu li na web nessa semana. As escolhas frequentemente são de jornalismo longform, contos e entrevistas. Vale lembrar: só porque as achei interessante, não significa que as endosso. 
+Aqui estão as histórias mais interessantes que eu li na web nessa semana. As escolhas frequentemente são de jornalismo longform, contos e entrevistas. Vale lembrar: indicação não é endosso. 
 
 &nbsp;
 &nbsp;
 
 1. [I Called Off My Wedding. The Internet Will Never Forget](https://www.wired.com/story/weddings-social-media-apps-photos-memories-miscarriage-problem/) [wired.com]
 
-"This monetization of emotional memory isn’t just off-putting in theory; it can also inhibit personal growth, as I was slowly learning." (...) "Eichhorn argues that the people most deeply affected by digital memories are those who stand to gain the most by being allowed to reinvent themselves." (...) "Life is marked by change, a series of graduations from one phase to the next, even if it doesn’t involve a cap and gown or an official ceremony. And, Eichhorn notes, there’s been surprisingly little written about the specific impact of our digital culture on memory.
+"This monetization of emotional memory isn’t just off-putting in theory; it can also inhibit personal growth, as I was slowly learning." (...) "Eichhorn argues that the people most deeply affected by digital memories are those who stand to gain the most by being allowed to reinvent themselves." (...) "Life is marked by change, a series of graduations from one phase to the next, even if it doesn’t involve a cap and gown or an official ceremony. And, Eichhorn notes, there’s been surprisingly little written about the specific impact of our digital culture on memory."
 
 &nbsp;
 &nbsp;

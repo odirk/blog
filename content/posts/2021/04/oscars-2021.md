@@ -43,13 +43,13 @@ Sem mais delongas, vamos lá.
 
 *Maria Bakalova, Borat Subsequent Moviefilm*
 
-Glenn Close, Hillbilly Elegy
+*Glenn Close, Hillbilly Elegy*
 
-`Olivia Colman, The Father`
+*`*Olivia Colman, The Father*
 
 *Amanda Seyfried, Mank*
 
-*Youn Yuh-jung, Minari*
+`Youn Yuh-jung, Minari`
 
 &nbsp;
 &nbsp;
@@ -268,7 +268,7 @@ The One And Only Ivan
 
 Emma
 
-Hillbilly Elegy
+*Hillbilly Elegy*
 
 `Ma Rainey’s Black Bottom`
 

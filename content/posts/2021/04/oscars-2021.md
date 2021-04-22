@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-# description: "Desc Text."
+description: "Mãe Dináh da sétima arte ataca novamente"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
@@ -30,9 +30,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Todos os anos eu faço apostas em quem serão os vencedores de algumas categorias do Oscar.
+Todos os anos eu faço apostas sobre os vencedores de algumas categorias do [Oscar](https://www.oscars.org/oscars/ceremonies/2021).
 
 Em *itálico* estão os filmes que eu assisti. Em `destaque`, minhas apostas.
+
+Como nos últimos anos, vou assistir a cerimônia em conjunto com a live do [Choque de Cultura](https://www.youtube.com/user/tvquase). Super recomendado para deixar a (longa) premiação tolerável e bem engraçada.
 
 Sem mais delongas, vamos lá.
 
@@ -45,7 +47,7 @@ Sem mais delongas, vamos lá.
 
 *Glenn Close, Hillbilly Elegy*
 
-*`*Olivia Colman, The Father*
+*Olivia Colman, The Father*
 
 *Amanda Seyfried, Mank*
 
@@ -56,7 +58,7 @@ Sem mais delongas, vamos lá.
 
 ## Best Costume Design
 
-Emma
+*Emma*
 
 `Ma Rainey’s Black Bottom`
 

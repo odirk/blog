@@ -42,14 +42,42 @@ The adage that *'work expands to fill the time available for its completion'.*
 
 ## Introdução
 
-‍A common trope often cited when somebody offers productivity advice is that ***"there's no point climbing the ladder rapidly only to get to the top and realise that it was leaning against the wrong wall"***. ie. there's no point doing the wrong thing efficiently. 
+‍Uma ideia frequentemente citada quando alguém oferece conselhos de produtividade é que *"não adianta subir a escada rápido apenas para chegar ao topo e perceber que ela está encostada na parede errada"*. Ou seja, não adianta errar com eficiência.
 
-The book that best explores this is [The Effective Executive](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWppdHRvdXJpc218Z3g6MjQ1N2M2OGQ4YWIwOTcyYw) by Pete Drucker. Once we've overcome this hurdle, there are plenty of ways to enhance efficiency. 
+Um livro que melhor explora bem isso é o [The Effective Executive](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWppdHRvdXJpc218Z3g6MjQ1N2M2OGQ4YWIwOTcyYw) do Pete Drucker. Parece óbvio, mas depois de superar esse obstáculo, há muitas maneiras de aumentar a produtividade.
+
+## Por onde começar
+
+Eu ando pensando bastante sobre isso, e acho que não existe um sistema que funcione para todo mundo. Cada pessoa precisa escolher as partes de um sistema que funcionam para eles e as partes que não funcionam. Este é o processo para descobrir como administrar a própria vida, encontrar as partes que funcionam para você e mesmo que existam não é um sistema único.
+
+Acho que você pode dividir as pessoas em um espectro de como gerenciam suas vidas, que são os espectros do *gerenciador de tarefas* e do *calendário*. Algumas pessoas preferem o calendário como fonte primária da organização e o gerenciador de tarefas como fonte secundária, e outras pessoas o contrário. Eu sou fortemente inclinado ao gerenciador de tarefas como principal, então é por onde que vou começar. 
+
+Há muito tempo atrás, uma versão minha que não usava gerenciador de tarefas e flutuava pela vida, às vezes fazendo coisas que eu devia e às vezes não fazendo, eventualmente chegou a um ponto na vida onde percebeu que não conseguia gerenciar todas as coisas que precisavam ser feitas. 
+
+E é tão específico para mim quando foi aquele momento, quando eu estava na escola de formação de professores e eles me deram essa lista enorme de mais de uma centena de coisas que precisavam ser concluídas a fim de obter sua certificação de professor. Eu me lembro que pensava "ah não, nunca vou conseguir acompanhar tudo isso". Porque alguns itens eram enormes, outros eram pequenininhos, e eu fiquei tipo "Eu nunca vou acompanhar isso". Então, uma das minhas primeiras versões de tentar descobrir "como vou realmente fazer todas essas coisas", foi pegar essa lista transformá-la em uma planilha, e tentar formatá-la de uma maneira que fizesse sentido para mim.
+
+Outra grande vantagem de ter um sistema é não precisar se lembrar das coisas. Use seu cérebro para resolver problemas, não para equilibrá-los um malabarista. Eu acho que essa mania vem de uma progressão natural da vida das pessoas: enquanto você está crescendo o mundo (pais, professores, etc.) gerencia muitas coisas para você, por isso você consegue se virar apenas lembrando de detalhes pontuais. Mas, em algum momento da vida, geralmente depois que você deveria ter reconhecido isso, você chega a um estágio em que é como se houvesse "muitas coisas para lembrar". Você não pode confiar em seu próprio cérebro para controlar todas as coisas que você precisa saber, e as penalidades pelo esquecimento começam a se tornar reais. E elas não são penalidades inconsequentes, tipo "você vai conversar com o professor e ele vai ficar muito chateados com você". 
+
+Aqui foi quando eu comecei a usar um caderno para anotar tarefas e ideias com frequencia. As pessoas costumam me perguntar "quando você começou a usar o caderno qual era o sistema que você estava usando?", e a resposta é: *não havia sistema*. Era apenas adquirir o hábito de escrever uma ideia em um pedaço de papel. E, contanto que você volte a esse pedaço de papel regularmente, você começará a construir seu próprio sistema.
+
+É claro que vou passar o resto do artigo falando sobre aplicativos e dispositivos que uso para controlar essas coisas, mas a **caneta e o papel são a melhor maneira de começar**. Faça listas de coisas que você quer fazer. Foi assim que comecei.
+
+Começar com papel e caneta é perfeito por causa da simplicidade. Remove as complicações que qualquer aplicativo vai te dar, como *projetos*, *datas e horários*, *acesso a notificações*, integrações com outros aplicativos. É tanta coisa eles querem que pode parecer um grande obstáculo a ser superado.
+
+Se você começar com um caderno e uma caneta e ir anotando "as coisas que tenho que fazer", e ir verificando durante o dia, esse é o início de um sistema. Não importa para qual aplicativo você evolua depois disso (talvez não seja nada, porque muitas pessoas funcionam muito bem com papel e caneta), você se beneficiará por ter dedicado tempo a esses princípios básicos. Se você realmente não quiser usar papel e caneta, use qualquer aplicativo simples de anotações, como o Google Keep ou o Apple Notes. Todos eles permitirão que você faça listas simples e visualmente agradáveis.
+
+Depois que fizer isso, você pode começar a olhar para alguns dos detalhes de como deseja organizar isso. Se você está começando com um aplicativo com o qual não está familiarizado, não importa o quão simples pareça, todos eles têm suas peculiaridades estranhas que o papel simplesmente não tem. Então acho que papel e caneta é um ponto de partida.
+
+
+
+24'
+
+https://www.youtube.com/watch?v=1eSCldom1Yc
 
 &nbsp;
 &nbsp;
 
-## 1. Princípios
+## Princípios
 
 > Spoiler: produtividade diz respeito ao processo, não ao instrumento.
 
@@ -79,6 +107,7 @@ Software:
 - Gerenciador de tarefas ([Omnifocus](https://www.omnigroup.com/omnifocus))
 - Calendário
 - Editor de texto ([Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word), [Visual Studio Code](https://code.visualstudio.com/), [Obsidian](https://obsidian.md/))
+- Comunicadores
 
 Hardware:
 
@@ -190,6 +219,29 @@ protip: “shift+?” to see all Gmail keys.
 
 i don’t trust people with 100s of emails in their inbox. even if they’re Read, that many messages prevents deep thinking required to build great products.
 
+### horários
+
+eu geralmente acesso meu email três vezes ao dia.
+
+1100
+
+1600
+
+1900
+
+Às 11h e às 16h eu só respondo o que me extremamente rápido ou o que é urgente.
+
+Às 19h eu respondo as outras mensagens que aguardam resposta. 
+
+Como eu acho falta de educação enviar emails profissionais depois das Xh, eu programo o envio do email para às 8h do dia seguinte.
+
+### templates/canned responses
+
+uma excelente função do spark são os templates
+
+### interação omnifocus
+
+
 ## 9. Arquivos
 
 similar to my thoughts on Inbox Zero, i keep my computer very clean.
@@ -295,3 +347,8 @@ it is here, in accepting our legacy, that we find contentment and gratitude.
 you don’t need to be “remembered” to be successful, or “busy” to be fulfilled, but whatever your legacy wishes, you will be more effective in achieving it if you’re more productive.
 
 now get back to work.
+
+---
+
+## transcripit
+

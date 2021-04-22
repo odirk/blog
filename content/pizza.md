@@ -28,7 +28,7 @@ Existem muitas variáveis para um prato tão simples. Mas estes três *de longe*
 
 1. Assar em alta temperatura;
 2. Técnica de sova;
-3. O tipo de levedura utilizada, junto com uma técnica de fermentação adequada.
+3. O tipo de levedura utilizada, junto com a técnica de fermentação.
 
 Todos os outros fatores se apequenam em comparação a esses três. Eu sei que várias pessoas se preocupam com a marca da farinha, o tipo de molho, etc. Vou falar sobre todas essas coisas, mas se você não dominar esses três princípios básicos, seus resultados serão bastante limitados.
 

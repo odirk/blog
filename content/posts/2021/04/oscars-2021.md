@@ -58,7 +58,7 @@ Sem mais delongas, vamos lá.
 
 Emma
 
-*Ma Rainey’s Black Bottom*
+`Ma Rainey’s Black Bottom`
 
 *Mank*
 
@@ -105,11 +105,11 @@ Ramin Bahrani, The White Tiger
 
 *Lee Isaac Chung, Minari*
 
-*Emerald Fennell, Promising Young Woman*
+`Emerald Fennell, Promising Young Woman`
 
 *Darius Marder, Abraham Marder, Derek Cianfrance, Sound Of Metal*
 
-`Aaron Sorkin, The Trial Of The Chicago 7`
+*Aaron Sorkin, The Trial Of The Chicago 7*
 
 &nbsp;
 &nbsp;
@@ -129,56 +129,11 @@ Leslie Odom Jr., One Night In Miami...
 &nbsp;
 &nbsp;
 
-## Best Documentary
-
-Collective
-
-Crip Camp
-
-The Mole Agent
-
-My Octopus Teacher
-
-Time
-
-&nbsp;
-&nbsp;
-
-## Best Live Action Short Film
-
-Feeling Through
-
-The Letter Room
-
-The Present
-
-Two Distant Strangers
-
-White Eye
-
-&nbsp;
-&nbsp;
-
-## Best Animated Short Film
-
-Burrow
-
-Genius Loci
-
-If Anything Happens I Love You
-
-Opera
-
-Yes-People
-
-&nbsp;
-&nbsp;
-
 ## Best International Feature
 
 `Another Round`
 
-Better Days
+*Better Days*
 
 Collective
 
@@ -249,21 +204,6 @@ Greyhound
 &nbsp;
 &nbsp;
 
-## Best Visual Effects
-
-Love And Monsters
-
-The Midnight Sky
-
-Mulan
-
-The One And Only Ivan
-
-*Tenet*
-
-&nbsp;
-&nbsp;
-
 ## Best Makeup And Hairstyling
 
 Emma
@@ -290,21 +230,6 @@ A Shaun The Sheep Movie: Farmageddon
 *Soul*
 
 `Wolfwalkers`
-
-&nbsp;
-&nbsp;
-
-## Best Original Song
-
-*“Fight For You,” Judas And The Black Messiah*
-
-*“Hear My Voice,” The Trial Of The Chicago 7*
-
-“Husavik,” Eurovision Song Contest: The Story of Fire Saga
-
-“Io Sì (Seen),” The Life Ahead (La Vita Davanti a Se)
-
-“Speak Now,” One Night In Miami...
 
 &nbsp;
 &nbsp;
@@ -345,9 +270,9 @@ A Shaun The Sheep Movie: Farmageddon
 
 *David Fincher, Mank*
 
-`Lee Isaac Chung, Minari`
+*Lee Isaac Chung, Minari*
 
-*Chloé Zhao, Nomadland*
+`Chloé Zhao, Nomadland`
 
 *Emerald Fennell, Promising Young Woman*
 
@@ -360,9 +285,9 @@ A Shaun The Sheep Movie: Farmageddon
 
 *Judas And The Black Messiah*
 
-`Mank`
+*Mank*
 
-*Minari*
+`Minari`
 
 *Nomadland*
 

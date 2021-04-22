@@ -1,6 +1,6 @@
 ---
 title: "Minhas apostas para o Oscar 2021"
-date: "2021-04-23"
+date: "2021-04-24"
 tags: ["film", "oscars"]
 author: "gabriel"
 # author: ["Me", "You"] # multiple authors

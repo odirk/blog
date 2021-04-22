@@ -7,6 +7,8 @@ showToc: true
 draft: false
 ---
 
+> Post para testar a formatação de textos e embeds.
+
 Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Divirta-se!
 
 ## Sites

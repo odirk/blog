@@ -10,6 +10,9 @@ Puta merda, que falta de ir ao cinema.
 
 De qualquer forma, seguem os filmes, livros, músicas, TV e podcasts de que gostei (ou não). Aqui está tudo que eu "consumi" desde o início do mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
 
+&nbsp;
+&nbsp;
+
 ### Livros
 
 - [O som e a fúria](https://www.amazon.com.br/som-f%C3%BAria-William-Faulkner/dp/8535929428/), Faulkner. (10);

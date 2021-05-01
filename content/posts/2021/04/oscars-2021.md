@@ -94,7 +94,7 @@ Da 5 Bloods
 
 *Chloé Zhao, Nomadland*
 
-Kemp Powers, One Night In Miami...
+*Kemp Powers, One Night In Miami...*
 
 Ramin Bahrani, The White Tiger
 
@@ -122,7 +122,7 @@ Ramin Bahrani, The White Tiger
 
 `Daniel Kaluuya, Judas And The Black Messiah`
 
-Leslie Odom Jr., One Night In Miami...
+*Leslie Odom Jr., One Night In Miami...*
 
 *Paul Raci, Sound Of Metal*
 
@@ -240,9 +240,9 @@ A Shaun The Sheep Movie: Farmageddon
 
 *Riz Ahmed, Sound Of Metal*
 
-`Chadwick Boseman, Ma Rainey’s Black Bottom`
+*Chadwick Boseman, Ma Rainey’s Black Bottom*
 
-*Anthony Hopkins, The Father*
+`Anthony Hopkins, The Father`
 
 *Gary Oldman, Mank*
 

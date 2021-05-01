@@ -160,6 +160,10 @@ Part of me thinks it’s a no-brainer time investment to learn to code, but part
 
 I should probably learn how to code.
 
+### De qual árvore especificamente se extrai o molho madeira?
+
+De uma com mamilos tão pequenos. Imagina o quão cansativo deve ser ordenhar todo o molho madeira?
+
 ### What is happiness?
 
 Reality minus expectations.

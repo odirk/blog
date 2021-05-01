@@ -23,12 +23,12 @@ De qualquer forma, seguem os filmes, livros, músicas, TV e podcasts de que gost
 
 ### Álbuns
 
-- Spirit of the Beehive - [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ?si=zB7lkkkcTbqZOxaQs5mtyA)(Rock). Sons viscerais e alucinatórios que evocam toda uma gama de sentimentos com poucas palavras. (8);
+- Spirit of the Beehive - [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ?si=zB7lkkkcTbqZOxaQs5mtyA) (Rock). Sons viscerais e alucinatórios que evocam toda uma gama de sentimentos com poucas palavras. (8);
 - Brockhampton - [Roadrunner: New Light, New Machine](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7?si=iByGzkxqQKCZxLbzPErvKQ) (Hip-hop). Álbum bem produzido com ótimas letras. (7.5);
 - Noga Erez - [Kids](https://open.spotify.com/album/55JRBOOVB5twmQbydWvzBc?si=aGQb58vpRMiIabLDsgAewA) (Eletropop hip hop). Fusão de art pop e hip-hop. Se vc gosta de billie eilish, deve se interessar por isso. Não é um ótimo álbum, mas vale manter a artista no radar para o futuro. (6.5);
-- Kings of Leon - [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6?si=RZpy3MVgQ9O1CNt_ZymS7Q) Kings of Leon fazendo um revival de post-punk? Por essa ninguém esperava. É ok, mas se for pra ouvir esse gênero, prefiro ouvir o [primeiro Interpol](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?si=MA0jR7bKT9Gx77lFCt1EgA), que é melhor em todos os sentidos. (6);
+- Kings of Leon - [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6?si=RZpy3MVgQ9O1CNt_ZymS7Q) (Pós-punk). Kings of Leon fazendo um revival de post-punk? Por essa ninguém esperava. É ok, mas se for pra ouvir esse gênero, prefiro ouvir o [primeiro Interpol](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?si=MA0jR7bKT9Gx77lFCt1EgA), que é melhor em todos os sentidos. (6);
 - The Armed - [ULTRAPOP](https://open.spotify.com/album/6ZyYffpgsnpB9iYyHZjMVC?si=W_prOj1RQ1Sp59nXXS9_mw) (Loud rock). Até gostei de algumas faixas, mas esse álbum me causa fadiga auditiva muito rápido. É muita compressão. Not my cup of tea. (3);
-- Willie Nelson - [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr?si=uQsPHhpnSVmAD3fLsh2W4g) Willie Nelson tem um novo álbum de covers de Siantra?! E não são versões country das músicas, é uma instrumentação extravagante de jazz que o próprio Frank utilizaria. É interessante. Claramente um projeto pessoal do Willie que só vai ter apelo entre seus fãs mais fiéis. (5).
+- Willie Nelson - [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr?si=uQsPHhpnSVmAD3fLsh2W4g) (Jazz). Willie Nelson tem um novo álbum de covers de Siantra?! E não são versões country das músicas, é uma instrumentação extravagante de jazz que o próprio Frank utilizaria. É interessante. Claramente um projeto pessoal do Willie que só vai ter apelo entre seus fãs mais fiéis. (5).
 
 &nbsp;
 &nbsp;

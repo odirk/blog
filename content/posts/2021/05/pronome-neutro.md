@@ -22,11 +22,11 @@ Mas, beleza, vamos deixar os argumentos *ad hominem* de lado para debatermos o m
 
 ## Porque eu não dou bola para a discussão
 
-Eu não uso pronomes neutros (elu/elx/el@...) pois os acho desnecessários do ponto de vista gramatical, mas não tenho problema com quem faz uso deles. 
+Eu não uso pronomes neutros (elu/elx/el@) pois os acho desnecessários do ponto de vista gramatical, mas não tenho problema com quem faz uso deles. 
 
 Pelo que observo, eles geralmente são utilizados em certas bolhas sociais. **É normal que cada subsetor da sociedade tenha seu palavreado próprio**, ou termos técnicos da sua atuação profissional. 
 
-> **Publicitários** têm seus *jobs*, *budgets*, *calls*; **boleiros** a *resenha*, *perna*, *rabiscar*; **gaúchos** têm *bagual*, *faceiro*, *tchê*, etc. 
+> Publicitários têm seus *jobs*, *budgets*, *calls*; boleiros a *resenha*, *perna*, *rabiscar*; gaúchos têm *bagual*, *faceiro*, *tchê*, etc. 
 
 Se ofender com a mera existência de vocábulos é tolice.
 
@@ -64,11 +64,9 @@ Por outro lado, também não vejo problemas com quem prefira usar pronomes neutr
 
 > Erros de conjugação verbal (como, no modo imperativo, entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação **ocorrem há décadas no português informal sem alterarem as regras gramaticais**. 
 
-Na prática, esses deslizes costumam carregar um estigma social pejorativo (até vexatório) em certas camadas sociais; em outras, passam completamente despercebidos. **Cabe ao interlocutor avaliar a repercussão** dessa inovação linguística na situação em que se encontra.
+Na prática, esses deslizes costumam carregar um estigma social pejorativo (até vexatório) em certas camadas sociais; em outras, passam completamente despercebidos. **Cabe ao interlocutor avaliar a repercussão** dessa inovação linguística que pretende utilizar na situação em que se encontra.
 
-Acho que, mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, acho difícil que encontrem espaço no léxico, pois seria necessária uma reforma substancial para acomodá-los na gramática.
-
-Enfim, não que essa reforma seja impossível, só acho que é improvável. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
+Acho que, mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, **acho difícil que encontrem espaço no léxico**, pois seria necessária uma reforma substancial para acomodá-los na gramática. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
 
 &nbsp;
 &nbsp;
@@ -79,6 +77,6 @@ Independentemente de argumentos técnicos, isso é uma questão que deve ser res
 
 Muito provavelmente o pronome que a pessoa prefere não é algo que vai melhorar ou piorar sua vida. Existem problemas maiores nessa selva chamada Brasil do que pessoas usando pronome neutro. 
 
-Se alguém me diz que se identifica como algum espectro do gênero neutro, eu não tenho problema nenhum em usar o pronome preferido da pessoa para respeitá-la. E você também não deveria.
+Se alguém me diz que se identifica em algum espectro do gênero neutro, eu não tenho problema nenhum em usar o pronome preferido da pessoa para respeitá-la. E você também não deveria.
 
 Tenha empatia, não seja cuzão.

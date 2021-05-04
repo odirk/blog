@@ -13,10 +13,15 @@ Gente, todo dia alguém reclamando disso. Tem mais reclamação do que gente usa
 
 Mal se vê pessoas pedindo que usem, raríssimo você encontrar alguém advogando por isso no mundo real - então por que um bando de *boomers* reclama tanto do assunto? Pensei que estavam cansados do mimimi :see_no_evil:
 
+:roll_eyes: (Github)
+:face_with_rolling_eyes: (Slack, Emojipedia)
+
 {{< figure src="https://edge.alluremedia.com.au/m/g/2016/06/old-man-yells-at-cloud.jpg" >}}
 
 &nbsp;
 &nbsp;
+
+### Porque eu acho a discussão uma bobagem
 
 Mas, beleza, vamos deixar os argumentos *ad hominem* de lado para debatermos o mérito do assunto. 
 
@@ -30,6 +35,8 @@ Se ofender com a mera existência de vocábulos é o cúmulo.
 
 &nbsp;
 &nbsp;
+
+### Porque eu acho que isso não é um problema
 
 Para mim, pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e como todas as demais, tende a passar. 
 
@@ -50,6 +57,8 @@ Por exemplo, eu nasci quando *k*, *w* e *y* [não eram letras do português](htt
 &nbsp;
 &nbsp;
 
+### O que eu acho que vai acontecer
+
 Em resumo, acho desnecessário incluir o gênero neutro na língua portuguesa. Nosso idioma já dispõe de ferramentas para solucionar essa questão. 
 
 Para os "puristas linguísticos", os que são veementemente contra a adoção de pronomes neutros, basta utilizar a linguagem neutra que o vernáculo já tem a dispor. Todos vão sair satisfeitos.
@@ -68,6 +77,8 @@ Enfim, não que essa reforma seja impossível, só acho que é improvável. Mas,
 
 &nbsp;
 &nbsp;
+
+### No fim das contas, a regra áurea sempre prevalesce
 
 De qualquer forma, independentemente de argumentos técnicos, isso é uma questão que deve ser resolvida pelo bom senso.
 

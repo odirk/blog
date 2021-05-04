@@ -1,7 +1,7 @@
 ---
 title: "Sobre pronomes neutros"
-date: "2021-05-04"
- tags: ["opinião impopular"]
+date: "2021-05-03"
+tags: ["opinião impopular"]
 description: "E porque eu não aguento mais discutir isso"
 author: "gabriel"
 showToc: false

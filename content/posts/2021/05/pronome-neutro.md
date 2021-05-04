@@ -1,6 +1,6 @@
 ---
 title: "Sobre pronomes neutros"
-date: "2021-05-03"
+date: "2021-05-04"
 tags: ["opinião impopular"]
 description: "E porque eu não aguento mais discutir isso"
 author: "gabriel"
@@ -11,17 +11,30 @@ draft: false
 
 Gente, todo dia alguém reclamando disso. Tem mais reclamação do que gente usando pronome neutro. [Efeito Streisand](https://pt.wikipedia.org/wiki/Efeito_Streisand) em ação? 
 
-Mal se vê pessoas pedindo que usem, raríssimo você encontrar alguém advogando por isso no mundo real - então por que um bando de boomers reclama tanto do assunto? Pensei que estavam cansados do mimimi :roll_eyes: :face_with_rolling_eyes:.
+Mal se vê pessoas pedindo que usem, raríssimo você encontrar alguém advogando por isso no mundo real - então por que um bando de *boomers* reclama tanto do assunto? Pensei que estavam cansados do mimimi :see_no_evil:
 
 {{< figure src="https://edge.alluremedia.com.au/m/g/2016/06/old-man-yells-at-cloud.jpg" >}}
 
-Mas beleza. Vamos deixar os argumentos *ad hominem* de lado para debatermos o mérito do assunto. 
+&nbsp;
+&nbsp;
 
 ---
 
+&nbsp;
+&nbsp;
+
+Mas, beleza, vamos deixar os argumentos *ad hominem* de lado para debatermos o mérito do assunto. 
+
 Eu não uso pronomes neutros (elu/elx/el@...) pois os acho desnecessários do ponto de vista gramatical, mas não tenho problema com quem faz uso deles. 
 
-Pelo que percebo, eles geralmente são utilizados em certas bolhas sociais. E é normal que cada subsetor da sociedade tenha seu palavreado próprio, ou termos técnicos da sua atuação profissional. Publicitários têm seus "jobs", "budgets", "calls"; boleiros com a "resenha", "perna", "rabiscar"; sulistas têm "bagual", "faceiro", "tchê", etc. Se ofender com vocábulos é o cúmulo.
+Pelo que observo, eles geralmente são utilizados em certas bolhas sociais. E é normal que cada subsetor da sociedade tenha seu palavreado próprio, ou termos técnicos da sua atuação profissional. 
+
+Publicitários têm seus "jobs", "budgets", "calls"; boleiros com a "resenha", "perna", "rabiscar"; sulistas têm "bagual", "faceiro", "tchê", etc. 
+
+Se ofender com vocábulos é o cúmulo.
+
+&nbsp;
+&nbsp;
 
 Para mim, pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e como todas as demais, tende a passar. 
 
@@ -33,11 +46,14 @@ De mais a mais, a língua portuguesa já possui diversas ferramentas que podem s
 
 Por fim, ainda que julguem necessária a existência de um pronome neutro, faz muito mais sentido tornar aceitável na norma culta o uso do "eles" como neutro. Adicionar um novo pronome como o "elu/elx" soa estrangeiro ao português.
 
-Vale lembrar que "ele/eles" são originalmente neutros. No latim existe o pronome neutro, mas no português o pronome masculino "elo/elos" (ainda existente no espanhol "ello/ellos") foi revogado.
+> Vale lembrar que "ele/eles" são originalmente neutros. No latim existe o pronome neutro, mas no português o pronome masculino "elo/elos" (ainda existente no espanhol "ello/ellos") foi revogado.
 
-Feitas essas considerações, é claro que toda língua é viva e capaz de se adaptar através do tempo. Criar novas palavras, termos, expressões ou até mesmo pronomes não é algo que costuma afetar a compreensão de uma linguagem. É algo que, na verdade, ajuda a torná-la um representante melhor de seu tempo.
+Feitas essas considerações, é claro que toda língua é viva e capaz de se adaptar através dos tempos. Criar novas palavras, termos, expressões ou até mesmo pronomes não é algo que costuma afetar a compreensão de uma linguagem. É algo que, na verdade, ajuda a melhor contextualizá-la em sua época.
 
 Por exemplo, eu nasci numa época em que *k*, *w* e *y* [não eram letras do português](https://pt.wikipedia.org/wiki/Acordo_Ortogr%C3%A1fico_de_1990). É estranho esperar que nosso idioma não possa mudar, mesmo em questões gramaticais.
+
+&nbsp;
+&nbsp;
 
 Em resumo, acho desnecessário incluir o gênero neutro na língua portuguesa. Nosso idioma já dispõe de ferramentas para solucionar essa questão. 
 

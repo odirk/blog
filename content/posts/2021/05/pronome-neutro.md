@@ -1,0 +1,56 @@
+---
+title: "Sobre pronomes neutros"
+date: "2021-05-04"
+ tags: ["opinião impopular"]
+description: "E porque eu não aguento mais discutir isso"
+author: "gabriel"
+showToc: false
+TocOpen: false
+draft: false
+---
+
+Gente, todo dia alguém reclamando disso. Tem mais reclamação do que gente usando pronome neutro. [Efeito Streisand](https://pt.wikipedia.org/wiki/Efeito_Streisand) em ação? 
+
+Mal se vê pessoas pedindo que usem, raríssimo você encontrar alguém advogando por isso no mundo real - então por que um bando de boomers reclama tanto do assunto? Pensei que estavam cansados do mimimi :roll_eyes: :face_with_rolling_eyes:.
+
+{{< figure src="https://edge.alluremedia.com.au/m/g/2016/06/old-man-yells-at-cloud.jpg" >}}
+
+Mas beleza. Vamos deixar os argumentos *ad hominem* de lado para debatermos o mérito do assunto. 
+
+---
+
+Eu não uso pronomes neutros (elu/elx/el@...) pois os acho desnecessários do ponto de vista gramatical, mas não tenho problema com quem faz uso deles. 
+
+Pelo que percebo, eles geralmente são utilizados em certas bolhas sociais. E é normal que cada subsetor da sociedade tenha seu palavreado próprio, ou termos técnicos da sua atuação profissional. Publicitários têm seus "jobs", "budgets", "calls"; boleiros com a "resenha", "perna", "rabiscar"; sulistas têm "bagual", "faceiro", "tchê", etc. Se ofender com vocábulos é o cúmulo.
+
+Para mim, pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e como todas as demais, tende a passar. 
+
+Diferentemente do inglês, onde o *they* [pode ser usado como pronome singular neutro](https://en.wikipedia.org/wiki/Singular_they), não vejo muito sentido em forçar o gênero neutro na língua portuguesa.
+
+O gênero das palavras é muito mais relevante no sentido morfológico que semântico, pois tem muitas funções que vão além de categorizar em feminino ou masculino (como pendurar a marcação de plural, definir como vai ser o aumentativo, etc.). A inclusão de um pronome neutro nesse sistema acarretaria mudanças muito mais profundas do que simplesmente alterar um "e" ou "x" no fim das palavras.
+
+De mais a mais, a língua portuguesa já possui diversas ferramentas que podem ser utilizadas para a desgenerificação. Basta mudar a estrutura frasal, usar superlativos sem gênero ("pessoa", "indivíduo", "gente"), suprimir pronomes e artigos desnecessários (“Todo mundo esperou até que ~~ela~~ chegasse”), utilizar termos sem gênero ("de" ao invés de "da/do"; "lhe" no lugar de "a/o"), etc.
+
+Por fim, ainda que julguem necessária a existência de um pronome neutro, faz muito mais sentido tornar aceitável na norma culta o uso do "eles" como neutro. Adicionar um novo pronome como o "elu/elx" soa estrangeiro ao português.
+
+Vale lembrar que "ele/eles" são originalmente neutros. No latim existe o pronome neutro, mas no português o pronome masculino "elo/elos" (ainda existente no espanhol "ello/ellos") foi revogado.
+
+Feitas essas considerações, é claro que toda língua é viva e capaz de se adaptar através do tempo. Criar novas palavras, termos, expressões ou até mesmo pronomes não é algo que costuma afetar a compreensão de uma linguagem. É algo que, na verdade, ajuda a torná-la um representante melhor de seu tempo.
+
+Por exemplo, eu nasci numa época em que *k*, *w* e *y* [não eram letras do português](https://pt.wikipedia.org/wiki/Acordo_Ortogr%C3%A1fico_de_1990). É estranho esperar que nosso idioma não possa mudar, mesmo em questões gramaticais.
+
+Em resumo, acho desnecessário incluir o gênero neutro na língua portuguesa. Nosso idioma já dispõe de ferramentas para solucionar essa questão. 
+
+Para os "puristas linguísticos" que são veementemente contra a adoção de pronomes neutros, basta utilizar a linguagem neutra que o vernáculo já tem a dispor. Todos vão sair satisfeitos.
+
+Por outro lado, também não vejo problemas com quem queira usar pronomes neutros. O idioma informal é bem permissivo com as impropriedades gramaticais cometida por sua população. Por exemplo, erros de conjugação verbal (no modo imperativo entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação são utilizados há décadas no português informal sem que isso altere as regras gramaticais do idioma. Na prática, elas só carregam um estigma social pejorativo em certas camadas sociais; em outras, elas passam completamente despercebidas.
+
+Acho que, se essa moda vier para ficar, é isso que pode acontecer. Mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, acho difícil que encontrem espaço no léxico, pois seria necessária uma reforma substancial para acomodá-los na gramática. Enfim, não que essa reforma seja impossível, só acho que é improvável. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
+
+De qualquer forma, independentemente de argumentos técnicos, essa é mais uma questão que deve ser resolvida pelo bom senso.
+
+Muito provavelmente o pronome que a pessoa prefere não é algo que vai melhorar ou piorar sua vida. Existem problemas maiores nessa selva chamada Brasil do que pessoas usando pronome neutro. 
+
+Se alguém me diz que se identifica como algum espectro do gênero neutro ou sem gênero, eu não tenho problema nenhum em usar o pronome preferido da pessoa para respeitá-la. E você também não deveria.
+
+Tenha empatia, não seja cuzão.

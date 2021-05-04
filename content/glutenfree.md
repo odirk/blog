@@ -1,45 +1,74 @@
+---
+title: "O que eu penso sobre massas sem glúten"
+date: "2021-04-12"
+tags: ["food"]
+description: "O que eu aprendi e penso sobre massas sem glúten"
+author: "gabriel"
+showToc: true
+TocOpen: true
+draft: true
+---
 
+Descrever o motivo
+
+&nbsp;
+&nbsp;
 
 ## The Science of Gluten
 
 Before you attempt to cook without gluten, it’s helpful to understand what gluten does in various recipes. Let’s start with the most common source of gluten—wheat flour—which is the main ingredient in everything from pasta and pizza to cakes and cookies.
 
 ### WHEAT FLOUR 101
+
 Flour is milled from wheat berries, which contain starches, proteins, and fats. There are two main proteins in wheat flour—glutenin and gliadin. Glutenin is a very large, loosely coiled protein, while gliadin is a much smaller and tightly coiled sphere. Glutenin provides most of the strength and elasticity in dough, allowing it to bounce back after it has been stretched. Gliadin, on the other hand, provides the stretch.
 
 ### DEFINING GLUTEN
+
 In dry flour, these proteins are basically lifeless strands wrapped around granules of starch. But they begin to change shape when they come in contact with water, a process called hydration. Once moistened, the individual protein molecules (the glutenin and gliadin) begin to link up with one another to form long, elastic chains called gluten. These strands of gluten combine to form a membrane-like network. The network engulfs swollen starch granules and gas bubbles (created by yeast, chemical leaveners like baking powder, or foams like whipped egg whites), stretching as the batter or dough rises and then bakes, giving the finished cake or loaf its structure and chew.
 
 ### GLUTEN DEVELOPMENT
+
 There are several factors that can affect gluten development. The first is the flour itself. Bread flour is milled from high-protein wheat, which means it’s capable of developing more gluten, or structure, which is perfect for chewy artisan loaves. In contrast, cake flour is made from soft wheat with a low protein content. As a result, cake flour produces less gluten, making it perfect for tender cakes. All-purpose flour has a relatively high protein content of 10 to 12 percent, depending on the brand. Bread flours have even more protein, generally 12 to 14 percent. Cake flour has just 6 to 8 percent protein.
 Second, the amount of water can affect gluten development. Basically, the more water in a dough or batter, the stronger and more elastic the gluten strands. Why does this matter? If the gluten strands are strong and elastic, they can support the starch granules and air bubbles that hydrate and swell as the dough rises and bakes, producing an airier bread with good chew.
 The third variable is the mixing time. A muffin batter that is gently stirred will develop less gluten than a bread dough beaten in a stand mixer for 10 minutes. More stirring equals more gluten, which equals more structure and chew.
 
+&nbsp;
+&nbsp;
+
 ## Strategies for Replacing Wheat Flour
+
 The cook who wants to remove the flour from favorite recipes needs to consider the role the flour is playing in that recipe in order to devise a successful substitute. Remember that flour contains both protein and starch, and the kind of substitute you will need when trying to convert a recipe to be gluten-free will vary because some recipes rely on one but not the other element. Let’s look at the three most common roles played by wheat flour.
 
 ### FLOUR THICKENS
-In sauces, gravies, soups, and stews, wheat flour plays the role of thickener. When the starch granules in the flour are heated in these dishes, they absorb water, swell, and eventually burst, releasing a starch molecule called amylose that diffuses throughout the solution, trapping additional water and forming a gelatinous network. This is how a few tablespoons of flour turn chicken stock into gravy.
-Some thickeners, like cornstarch, are pure starches and contain more amylose than other thickeners, like flour, that contain components other than starch molecules. (Remember, flour also contains proteins and fats, and the starch content is about 75 percent.) Purity affects not only thickening power but performance.
-Cornstarch is actually more fickle than flour. For instance, overwhisking pastry cream can break the bonds of the starch gel and thin out the custard. In contrast, the proteins and lipids in flour dilute its capacity to form starch gels, so that more flour is needed for thickening. But these non-starch compounds also act as binders, ensuring that the liquid not only thickens but also stays that way.
-For these reasons, simply replacing flour with a pure starch doesn’t always work. Large quantities of pure starch can impart a gritty texture to dishes. We had this problem when developing our recipe for pot pie—the amount of cornstarch needed to thicken the filling to the proper consistency gave the sauce a gritty mouthfeel. Luckily, there are other gluten-free starches besides cornstarch, including arrowroot (derived from a tropical tuber of the same name), potato starch, and tapioca starch (derived from cassava, another tropical tuber). In the end, we didn’t find a single replacement for flour as a thickener, but given all the options we had no trouble finding an excellent work-around.
+
+- In sauces, gravies, soups, and stews, wheat flour plays the role of thickener. When the starch granules in the flour are heated in these dishes, they absorb water, swell, and eventually burst, releasing a starch molecule called amylose that diffuses throughout the solution, trapping additional water and forming a gelatinous network. This is how a few tablespoons of flour turn chicken stock into gravy.
+- Some thickeners, like cornstarch, are pure starches and contain more amylose than other thickeners, like flour, that contain components other than starch molecules. (Remember, flour also contains proteins and fats, and the starch content is about 75 percent.) Purity affects not only thickening power but performance.
+- Cornstarch is actually more fickle than flour. For instance, overwhisking pastry cream can break the bonds of the starch gel and thin out the custard. In contrast, the proteins and lipids in flour dilute its capacity to form starch gels, so that more flour is needed for thickening. But these non-starch compounds also act as binders, ensuring that the liquid not only thickens but also stays that way.
+- For these reasons, simply replacing flour with a pure starch doesn’t always work. Large quantities of pure starch can impart a gritty texture to dishes. We had this problem when developing our recipe for pot pie—the amount of cornstarch needed to thicken the filling to the proper consistency gave the sauce a gritty mouthfeel. Luckily, there are other gluten-free starches besides cornstarch, including arrowroot (derived from a tropical tuber of the same name), potato starch, and tapioca starch (derived from cassava, another tropical tuber). In the end, we didn’t find a single replacement for flour as a thickener, but given all the options we had no trouble finding an excellent work-around.
 
 ### FLOUR COATS
+
 In addition to its use as a thickener, flour can also be used as a coating in dishes like fried chicken or pan-fried pork chops. The starches in the flour are responsible for most of the browning and crisping, while the proteins in the flour help the coating cling to the surface of the food. The proteins also create chew or texture in the fried or baked coating.
 When looking for a replacement for wheat flour, it’s easy enough to deal with the starch component. Cornstarch is traditionally used as a coating in many recipes, everything from tempura to onion rings. Replacing the wheat flour with cornstarch was a start in many recipes. However, since cornstarch contains almost no protein, we had to rely on other ingredients to help the coating adhere and/or to create a chewy texture in the coating.
 In our pan-fried pork chop recipe, we used the sticky proteins in the meat itself to help bind the coating to the chops. Simply cutting a very shallow crosshatch pattern into the meat released these sticky proteins and ensured that the crisp cornstarch and cornflake crust stayed put. In our fried chicken recipe, we added cornmeal (a good source of protein) as well as an egg to the coating. Some baking powder and baking soda also helped the coating to puff in the hot oil and create a crisp crust with the requisite chew.
 Finally, in recipes like eggplant Parmesan and chicken fingers that rely on a bread-crumb coating, we were able to use gluten-free sandwich bread (dried in the oven first to make the crumbs less sticky) in combination with cornstarch (which improved overall coverage and increased browning and crispness). In the end, we didn’t find a single replacement for flour as a coating ingredient, but here, too, given all the options we had no trouble finding an excellent work-around.
 
 ### FLOUR BUILDS STRUCTURE
+
 Finally, the main use for flour in the home kitchen is as a structural agent in baked goods. It’s here that the gluten performs an essential function, as the ability of the proteins in wheat flour to expand and trap gas bubbles is key in many baked goods. In contrast to our efforts to come up with substitutions for wheat flour’s other uses as a thickener or a coating, finding a replacement to replicate these structural functions using gluten-free ingredients was especially challenging because most options contain less protein.
 In a baked good such as a muffin, the starch granules in the flour absorb moisture and swell as the batter is being prepared. The strands of gluten bond together and surround the starch granules. Gluten is particularly elastic and strong, especially when heated. This highly organized and strong network of gluten gives the muffin its structure and shape. Compared with wheat flour, gluten-free flours generally contain less protein, so they don’t do as good of a job of organizing and holding the swollen starch granules. These proteins are also less elastic than gluten. In order to replace wheat flour with a lower-protein flour such as rice flour, you must boost the effectiveness of that protein.
 Xanthan gum acts like glue, helping cement the protein network in gluten-free flour. Another option is something that can help the flour to hydrate more readily, something that will promote the swelling of the starch granules and the bonding of the protein strands. An emulsifier such as nonfat milk powder can be used for this task. Emulsifiers can also make gluten-free flour more compatible with fat—something that wheat flour does better than other flours. Why is this important? Many baked goods (think cookies, cakes, even muffins) contain a lot of fat for flavor and moistness. If the flour doesn’t absorb fat well, the baked good can be greasy (from the unabsorbed fat) and dry (because the starches are not properly coated with fat).
 There’s one more issue to consider when replacing wheat flour in baked goods. Wheat flour contains a starch content of roughly 75 percent. Most gluten-free flours contain an even higher starch content, which means they can impart a gritty texture to baked goods. In effect, there’s too much starch and not enough protein. 
 
+&nbsp;
+&nbsp;
+
 ## Key Test Kitchen Discoveries
+
 During the year we spent in the kitchen testing gluten-free recipes, we learned that cooking without wheat really is different. In many cases, we had to reinvent recipes and employ new techniques. Here are some of the key discoveries, which may be helpful if you are trying to adapt recipes already in your repertoire to work without wheat flour.
 
 ### COOKING TIPS
+
 - Thickening stays the same: In recipes where a tablespoon or two of flour is used as a thickener, you can generally use a gluten-free flour blend in a one-to-one replacement. This includes most stews and pan sauces. As with wheat flour, let the gluten-free flour cook for a minute before whisking in the liquid. This will cook out some of the raw, starchy flavor in the flour.
 - If you use cornstarch: You can also thicken liquids with cornstarch rather than flour. However, you must first turn cornstarch into a slurry by mixing it with cold water, and then use this slurry at the end of the cooking process. In general, you will need less cornstarch than flour.
 - For dusting proteins: Many breaded foods (everything from fried chicken and pork chops to eggplant Parmesan) are made with a bound breading—that is, they are dusted with flour, dipped in eggs or dairy, and then coated with crumbs. For the “dusting” part of the equation, cornstarch is a good replacement for the flour.
@@ -48,6 +77,7 @@ During the year we spent in the kitchen testing gluten-free recipes, we learned 
 - Replace soy sauce with tamari: Any recipe made with soy sauce (which generally contains wheat) can be made with tamari sauce (which generally does not contain wheat). A one-to-one replacement will work in most recipes.
 
 ### BAKING TIPS
+
 - Cut the butter and oil: Gluten-free flours don’t absorb liquid fat as readily as wheat flour does. In high-fat recipes, such as cookies or cakes, simply replacing the wheat flour with an equal amount of gluten-free flour doesn’t work. The baked goods are often much too greasy, which not only makes them unappetizing but can affect how cookies spread in the oven or determine whether pie dough holds its shape when baked. When reworking conventional recipes with gluten-free flour, we often trimmed a few tablespoons of butter or oil.
 - Look elsewhere for richness: While using less butter or oil solved the greasiness problem in many recipes, this also made them less rich. In some cases, we compensated by adding another rich ingredient, such as cream cheese, sour cream, white chocolate, or even almond flour.
 - Increase the leavener to lighten the load: Less protein means batters and doughs can’t hold on to air bubbles as well, and the end result can be heavy and dense. Gluten-free recipes often benefit from a bit more baking powder, baking soda, or yeast as compared with traditional recipes. Yeast bread often benefits from the addition of baking powder or baking soda.

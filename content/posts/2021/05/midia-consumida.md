@@ -17,7 +17,9 @@ De qualquer forma, seguem os filmes, livros, músicas, TV e podcasts de que gost
 
 ### Álbuns
 
+sufjan stevens
 
+Porter Robinson - Nurture
 
 &nbsp;
 &nbsp;
@@ -30,6 +32,7 @@ De qualquer forma, seguem os filmes, livros, músicas, TV e podcasts de que gost
 &nbsp;
 
 ### Séries
+
 - [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). (7.5);
 - [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S04~07). (6.5);
 - [Final Space](https://www.imdb.com/title/tt6317068/), (S03). (6);

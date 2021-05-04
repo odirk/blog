@@ -62,11 +62,11 @@ Para os "puristas linguísticos", os que são veementemente contra a adoção de
 
 Por outro lado, também não vejo problemas com quem prefira usar pronomes neutros. O idioma informal é bem permissivo com várias impropriedades gramaticais cometidas por sua população. 
 
-> Erros de conjugação verbal (como, no modo imperativo, entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação **ocorrem há décadas no português informal sem alterarem as regras gramaticais**. 
+> Erros de conjugação verbal (como, no modo imperativo, entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação **ocorrem há décadas no português informal sem que alterem as regras gramaticais**. 
 
 Na prática, esses deslizes costumam carregar um estigma social pejorativo (até vexatório) em certas camadas sociais; em outras, passam completamente despercebidos. **Cabe ao interlocutor avaliar a repercussão** dessa inovação linguística que pretende utilizar na situação em que se encontra.
 
-Acho que, mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, **acho difícil que encontrem espaço no léxico**, pois seria necessária uma reforma substancial para acomodá-los na gramática. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
+Acho que, mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, **acho difícil que encontrem espaço no léxico**, pois seria necessária uma reforma substancial para acomodá-los. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
 
 &nbsp;
 &nbsp;

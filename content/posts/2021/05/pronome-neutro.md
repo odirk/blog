@@ -24,7 +24,7 @@ Mas, beleza, vamos deixar os argumentos *ad hominem* de lado para debatermos o m
 
 Eu não uso pronomes neutros (elu/elx/el@...) pois os acho desnecessários do ponto de vista gramatical, mas não tenho problema com quem faz uso deles. 
 
-Pelo que observo, eles geralmente são utilizados em certas bolhas sociais. **E é normal que cada subsetor da sociedade tenha seu palavreado próprio**, ou termos técnicos da sua atuação profissional. 
+Pelo que observo, eles geralmente são utilizados em certas bolhas sociais. **É normal que cada subsetor da sociedade tenha seu palavreado próprio**, ou termos técnicos da sua atuação profissional. 
 
 > Publicitários têm seus *jobs*, *budgets*, *calls*; boleiros a *resenha*, *perna*, *rabiscar*; gaúchos têm *bagual*, *faceiro*, *tchê*, etc. 
 
@@ -35,7 +35,7 @@ Se ofender com a mera existência de vocábulos é o cúmulo do absurdo.
 
 ## Porque eu acho que isso não é um problema
 
-Para mim, pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e, como todas as demais, tende a passar. 
+Para mim, a problematização dos pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e, como todas as demais, tende a passar. 
 
 Diferentemente do inglês, onde o *they* [pode ser usado como pronome singular neutro](https://en.wikipedia.org/wiki/Singular_they), não vejo muito sentido em forçar o gênero neutro na língua portuguesa.
 
@@ -49,7 +49,7 @@ Por fim, ainda que julguem necessária a existência de um pronome neutro, faz m
 
 Feitas essas considerações, é claro que **toda língua é viva e capaz de se adaptar através dos tempos**. Criar novas palavras, termos, expressões ou até mesmo pronomes não é algo que costuma afetar a compreensão de uma linguagem. É algo que, na verdade, ajuda a melhor contextualizá-la em sua época.
 
-Por exemplo, eu nasci quando *k*, *w* e *y* [não eram letras do português](https://pt.wikipedia.org/wiki/Acordo_Ortogr%C3%A1fico_de_1990). **É estranho esperar que nosso língua não possa mudar, mesmo em questões gramaticais**.
+Por exemplo, eu nasci quando *k*, *w* e *y* [não eram letras do português](https://pt.wikipedia.org/wiki/Acordo_Ortogr%C3%A1fico_de_1990). **É estranho esperar que nossa língua não possa mudar, mesmo em questões gramaticais**.
 
 &nbsp;
 &nbsp;
@@ -62,13 +62,11 @@ Para os "puristas linguísticos", os que são veementemente contra a adoção de
 
 Por outro lado, também não vejo problemas com quem prefira usar pronomes neutros. O idioma informal é bem permissivo com várias impropriedades gramaticais cometidas por sua população. 
 
-> Por exemplo, erros de conjugação verbal (como no modo imperativo entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação são **ocorrem há décadas no português informal sem alterarem as regras gramaticais**. 
+> Erros de conjugação verbal (como, no modo imperativo, entre *tu* e *você*), erros de concordância nominal ("menas") e erros de conjugação são **ocorrem há décadas no português informal sem alterarem as regras gramaticais**. 
 
-Na prática, elas costumam carregar um estigma social pejorativo em certas camadas sociais; em outras, elas passam completamente despercebidas.
+Na prática, esses deslizes costumam carregar um estigma social pejorativo em certas camadas sociais; em outras, passam completamente despercebidos.
 
-Acho que, se essa moda vier para ficar, é isso que pode acontecer. 
-
-Mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, acho difícil que encontrem espaço no léxico, pois seria necessária uma reforma substancial para acomodá-los na gramática.
+Acho que, mesmo que pronomes neutros venham a ser adotados por uma parte substancial da sociedade, acho difícil que encontrem espaço no léxico, pois seria necessária uma reforma substancial para acomodá-los na gramática.
 
 Enfim, não que essa reforma seja impossível, só acho que é improvável. Mas, também, se eventualmente oficializarem um pronome a mais, ninguém vai perder pedaço.
 

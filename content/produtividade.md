@@ -40,27 +40,30 @@ The adage that *'work expands to fill the time available for its completion'.*
 
 ---
 
-## Introdução
+## 1. Introdução
 
 ‍Uma ideia frequentemente citada quando alguém oferece conselhos de produtividade é que *"não adianta subir a escada rápido apenas para chegar ao topo e perceber que ela está encostada na parede errada"*. Ou seja, não adianta errar com eficiência.
 
 Um livro que melhor explora bem isso é o [The Effective Executive](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzYWppdHRvdXJpc218Z3g6MjQ1N2M2OGQ4YWIwOTcyYw) do Pete Drucker. Parece óbvio, mas depois de superar esse obstáculo, há muitas maneiras de aumentar a produtividade.
 
-## Por onde começar
+&nbsp;
+&nbsp;
+
+### 1.1. Por onde começar
 
 Eu ando pensando bastante sobre isso, e acho que não existe um sistema que funcione para todo mundo. Cada pessoa precisa escolher as partes de um sistema que funcionam para eles e as partes que não funcionam. Este é o processo para descobrir como administrar a própria vida, encontrar as partes que funcionam para você e mesmo que existam não é um sistema único.
 
 Acho que você pode dividir as pessoas em um espectro de como gerenciam suas vidas, que são os espectros do *gerenciador de tarefas* e do *calendário*. Algumas pessoas preferem o calendário como fonte primária da organização e o gerenciador de tarefas como fonte secundária, e outras pessoas o contrário. Eu sou fortemente inclinado ao gerenciador de tarefas como principal, então é por onde que vou começar. 
 
-Há muito tempo atrás, uma versão minha que não usava gerenciador de tarefas e flutuava pela vida, às vezes fazendo coisas que eu devia e às vezes não fazendo, eventualmente chegou a um ponto na vida onde percebeu que não conseguia gerenciar todas as coisas que precisavam ser feitas. 
+Há muito tempo atrás, uma versão minha que não usava gerenciador de tarefas e flutuava pela vida, às vezes fazendo coisas que eu devia e às vezes não, eventualmente chegou a um ponto na vida onde percebeu que não conseguia gerenciar todas as coisas que precisavam ser feitas. 
 
 E é tão específico para mim quando foi aquele momento, quando eu estava na escola de formação de professores e eles me deram essa lista enorme de mais de uma centena de coisas que precisavam ser concluídas a fim de obter sua certificação de professor. Eu me lembro que pensava "ah não, nunca vou conseguir acompanhar tudo isso". Porque alguns itens eram enormes, outros eram pequenininhos, e eu fiquei tipo "Eu nunca vou acompanhar isso". Então, uma das minhas primeiras versões de tentar descobrir "como vou realmente fazer todas essas coisas", foi pegar essa lista transformá-la em uma planilha, e tentar formatá-la de uma maneira que fizesse sentido para mim.
 
-Outra grande vantagem de ter um sistema é não precisar se lembrar das coisas. Use seu cérebro para resolver problemas, não para equilibrá-los um malabarista. Eu acho que essa mania vem de uma progressão natural da vida das pessoas: enquanto você está crescendo o mundo (pais, professores, etc.) gerencia muitas coisas para você, por isso você consegue se virar apenas lembrando de detalhes pontuais. Mas, em algum momento da vida, geralmente depois que você deveria ter reconhecido isso, você chega a um estágio em que é como se houvesse "muitas coisas para lembrar". Você não pode confiar em seu próprio cérebro para controlar todas as coisas que você precisa saber, e as penalidades pelo esquecimento começam a se tornar reais. E elas não são penalidades inconsequentes, tipo "você vai conversar com o professor e ele vai ficar muito chateados com você". 
+Outra grande vantagem de ter um sistema é não precisar se lembrar das coisas. Use seu cérebro para resolver problemas, não para equilibrá-los como um malabarista. Eu acho que essa mania vem de uma progressão natural da vida das pessoas: enquanto você está crescendo, o mundo (pais, professores, etc.) gerencia muitas coisas para você, por isso você consegue se virar apenas lembrando de detalhes pontuais. Mas, em algum momento da vida, geralmente depois que você deveria ter reconhecido isso, você chega a um estágio em que é como se houvesse "muitas coisas para lembrar". Você não pode confiar em seu próprio cérebro para controlar todas as coisas que você precisa saber, e as penalidades pelo esquecimento começam a se tornar reais. E elas não são penalidades inconsequentes, tipo "você vai conversar com o professor e ele vai ficar muito chateados com você". 
 
-Aqui foi quando eu comecei a usar um caderno para anotar tarefas e ideias com frequencia. As pessoas costumam me perguntar "quando você começou a usar o caderno qual era o sistema que você estava usando?", e a resposta é: *não havia sistema*. Era apenas adquirir o hábito de escrever uma ideia em um pedaço de papel. E, contanto que você volte a esse pedaço de papel regularmente, você começará a construir seu próprio sistema.
+Aqui foi quando eu comecei a usar um caderno para anotar tarefas e ideias com frequência. As pessoas costumam me perguntar "quando você começou a usar o caderno qual era o sistema que você estava usando?", e a resposta é: *não havia sistema*. Era apenas adquirir o hábito de escrever uma ideia em um pedaço de papel. E, contanto que você volte a esse pedaço de papel regularmente, você começará a construir seu próprio sistema.
 
-É claro que vou passar o resto do artigo falando sobre aplicativos e dispositivos que uso para controlar essas coisas, mas a **caneta e o papel são a melhor maneira de começar**. Faça listas de coisas que você quer fazer. Foi assim que comecei.
+É claro que vou passar o resto do artigo falando sobre aplicativos e dispositivos que uso para controlar essas coisas, mas a **caneta e o papel são a melhor maneira de começar**. Faça listas de coisas que você quer fazer.
 
 Começar com papel e caneta é perfeito por causa da simplicidade. Remove as complicações que qualquer aplicativo vai te dar, como *projetos*, *datas e horários*, *acesso a notificações*, integrações com outros aplicativos. É tanta coisa eles querem que pode parecer um grande obstáculo a ser superado.
 
@@ -77,7 +80,7 @@ https://www.youtube.com/watch?v=1eSCldom1Yc
 &nbsp;
 &nbsp;
 
-## Princípios
+## 2. Princípios
 
 > Spoiler: produtividade diz respeito ao processo, não ao instrumento.
 
@@ -98,7 +101,7 @@ This idea, taken from Drucker's aforementioned book, underpins most productivity
  
 Basically, you need big blocks of uninterrupted time to focus deeply on one thing without being distracted by minutiae. This can be achieved through *['Time Blocking'](https://doist.com/blog/time-blocking/)* which Keller describes as "productivity’s greatest power tool.”
 
-## 2. Ferramentas
+## Ferramentas
 
 Nada de especial
 
@@ -115,7 +118,7 @@ Hardware:
 - [Logitech MX Ergo](https://www.logitech.com/pt-br/products/mice/mx-ergo-wireless-trackball-mouse.910-005177.html)
 - [Fone wireless com cancelamento de ruído](https://www.sony.com.br/electronics/headphones-sobre-as-orelhas/wh-1000xm3)
 
-## 3. Organização
+## Organização
 
 Aqui está a visão da minha área de trabalho.
 
@@ -125,7 +128,7 @@ Desfoquei algumas informações confidenciais, mas você pode clicar e ampliar a
 
 Vamos passar por cada elemento visível para entender como eu trabalho.
 
-## 4. Calendário
+## Calendário
 
 work doesn’t happen unless you’re awake.
 
@@ -154,7 +157,7 @@ schedule your day in advance, then wake up and do what your calendar says.
 
 you’re less likely to let “mood” affect productivity if you have a clear set of well-defined tasks.
 
-## 5. Abas
+## Abas
 
 i keep a few browser tabs in play:
 
@@ -171,7 +174,7 @@ what works for me:
 
 my rule: if it’s not in the Calendar, it doesn’t happen. this includes friends who want to meet for coffee but don’t send an invite. does. not. happen.
 
-## 6. Dock
+## Dock
 
 this is “max capacity” for me. Slack, Photoshop, Chrome, Terminal, and Atom are all i need. the blue/white circle is 1pass, my password manager.
 
@@ -179,7 +182,7 @@ the Chrome window beside the trash can is actually Lobiloo‘s gmail account, wh
 
 this allows me to hover the small Lobiloo Chrome window icon a few times throughout the day, and if there’s a new email it will say so:
 
-## 7. Trello
+## Trello
 
 i’ve used Basecamp, it’s great. i’ve used Asana, it’s great too. but Trello is a lot faster, and i value speed over details.
 
@@ -197,7 +200,7 @@ for the most part we follow this List convention for each board:
 
 for each of my side projects i have just 1 board with separate lists for bugs, marketing campaigns, customer support, etc.
 
-## 8. email
+## email
 
 i’m addicted to Inbox Zero.
 

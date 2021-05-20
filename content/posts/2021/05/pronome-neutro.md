@@ -35,7 +35,7 @@ Se ofender com a mera existência de vocábulos é tolice.
 
 ## Porque eu acho que isso não é um problema
 
-Para mim, a problematização dos pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e, como todas as demais, tende a passar. 
+Para mim, a problematização dos pronomes neutros é mais uma das (muitas) modas americanas copiadas pelo Brasil, e, como a maioria, tende a passar. 
 
 Diferentemente do inglês, onde o *they* [pode ser usado como pronome singular neutro](https://en.wikipedia.org/wiki/Singular_they), não vejo muito sentido em forçar o gênero neutro na língua portuguesa.
 

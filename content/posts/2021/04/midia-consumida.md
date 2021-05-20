@@ -1,7 +1,7 @@
 ---
-title: "Mídia Consumida (Abril)"
+title: "Mídia consumida (Abril)"
 date: "2021-04-30"
-tags: ["media-diet", "film", "TV", "books", "music"]
+tags: ["media-diet", "film", "TV", "books", "música"]
 description: "O que ando fazendo no meu tempo livre?"
 draft: false
 ---
@@ -58,6 +58,6 @@ De qualquer forma, seguem os filmes, livros, músicas, TV e podcasts de que gost
 
 ### Séries
 - [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). (7.5);
-- [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S04~07). (6.5);
+- [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S04~06). (6.5);
 - [Final Space](https://www.imdb.com/title/tt6317068/), (S03). (6);
 - [Modern Family](https://www.imdb.com/title/tt1442437/), (S02~06). Assistindo de novo :) (7.5).

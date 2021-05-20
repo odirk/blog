@@ -1,7 +1,7 @@
 ---
 title: "O que eu penso sobre pizza"
 date: "2021-04-12"
-tags: ["food"]
+tags: ["comida", "receita"]
 description: "O que eu aprendi e penso sobre pizza"
 author: "gabriel"
 showToc: true
@@ -13,14 +13,16 @@ draft: true
 
 Vou começar dizendo algumas coisas. Em primeiro lugar, isso é sobre de um certo estilo de pizza. Não é sobre o estilo de Chicago ou da Califórinia, apesar delas compartilharem certos princípios básicos em comum.
 
-Em segundo lugar, existe *muita* desinformação por aí. Visite as melhores pizzarias do mundo. Nenhum desses lugares publica suas receitas. Eles não escrevem livros. Mas, de alguma forma, todos "especialistas" que escrevem livros espalham as mesmas ideias. Existem centenas de livros e receitas na Internet que afirmam fornecer uma receita de massa de pizza 'autêntica' ou 'secreta'. Curiosamente, todas elas são praticamente iguais. Aqui está um resumo:
+Em segundo lugar, existe *muita* desinformação por aí. Visite as melhores pizzarias do mundo. Nenhum desses lugares publica suas receitas. Eles não escrevem livros. Mas, de alguma forma, todos "especialistas" que escrevem livros espalham as mesmas ideias. 
+
+Existem centenas de livros e receitas na Internet que afirmam fornecer uma receita de massa de pizza 'autêntica' ou 'secreta'. Curiosamente, todas elas são praticamente iguais. Aqui está um resumo:
 
 > 1. Adicione um pacote de fermento em água morna 40ºC, junto com uma colher de chá de açúcar para alimentá-lo. Espere o fermento ativar (espumar). 
 > 2. Adicione toda a sua farinha a uma batedeira de gancho, junto com a mistura do fermento e o sal. Misture até que se solte da lateral da tigela. 
 > 3. Cubra com óleo e deixe em um lugar aquecido até dobrar de volume, cerca de 1~2 horas. 
 > 4. Desinfle a massa, estique-a sobre a pá com um pouco de farinha de milho para evitar que grude e lance a pizza sobre a pedra em seu forno a 260ºC.
 
-Garanto a você, isso não vai fazer uma boa pizza. É estranho. Vários chefs com receitas boas simplesmente passam uma versão dessa receita terrível.
+Garanto a você, isso não vai fazer uma boa pizza. É curioso. Vários chefs com receitas boas costumam passam uma versão dessa receita terrível.
 
 Fazer pizza é uma especialidade. É preciso paixão para fazer a coisa certa. Não vou dar a você a 'versão caseira fácil'. Vou dar a vocês a versão que faz a melhor massa que eu sei fazer, mesmo que exija um pouco mais de esforço.
 
@@ -31,6 +33,9 @@ Existem muitas variáveis para um prato tão simples. Mas estes três *de longe*
 3. O tipo de levedura utilizada, junto com a técnica de fermentação.
 
 Todos os outros fatores se apequenam em comparação a esses três. Eu sei que várias pessoas se preocupam com a marca da farinha, o tipo de molho, etc. Vou falar sobre todas essas coisas, mas se você não dominar esses três princípios básicos, seus resultados serão bastante limitados.
+
+&nbsp;
+&nbsp;
 
 ## 2. O segredo é a massa
 
@@ -50,11 +55,13 @@ As medidas mais certas são as de água e sal, o resto é bem variável. A quant
 
 Se você usar farinha tipo 00, irá descobrir que é necessário muito mais farinha do que essa receita indica. Um dos motivos pelos quais é importante sentir a massa na mão, em vez de medir estritamente o percentual de hidratação, é que, com o toque, você não precisa se preocupar tanto com a quantidade de farinha. Farinhas tipo 00 e tipo 1 vão ter sensação bem parecidas quando estiverem prontas, embora uma possa ter 60% de água e a outra 65%. Eu também vario a hidratação da massa com base na temperatura  - quanto mais alta a temperatura do forno, mais úmida eu quero a massa.
 
-Eu vejo dizerem que o *lugar X* tem a melhor pizza por causa da água. Isso é um mito. Não é a água. A água é um entre uma centena de fatores. Eu uso água mineral. Se eu não usasse, usaria água filtrada. O custo disso é irrosório.
+Eu vejo dizerem que o *lugar X* tem a melhor pizza por causa da água. Isso é um mito. Não é a água. A água é um entre uma centena de fatores. Eu uso água mineral. Se eu não usasse, usaria água filtrada.
 
 Salgue apenas a massa, nunca a levedura. Por falar nisso, sua levedura deve ser alimentada apenas com água (filtrada ou mineral) e farinha. Nunca adicione qualquer outro tipo de fermento, sal, açúcar ou qualquer outra coisa à sua levedura.
 
-Tenho a mesma levedura desde 2016. Ela é metade água e farinha. Você pode criar sua própria levedura misturando água e farinha e deixando no balcão. Existem vários tipos de fermento no ar de sua cozinha e um deles vai se estabelecer eventualmente em sua água de farinha e começar a crescer. Qual será o gosto? Bem, é como armar uma armadilha. Você não tem como saber. Existem vários guias na internet ensinando a fazer isso. Também é possível pular essa etapa e comprar uma levedura desidratada da internet. Se nós nos conhecemos, eu posso lhe dar um pedaço da minha.
+Tenho a mesma levedura desde 2016. Ela é metade água e farinha. Você pode criar sua própria levedura misturando água e farinha e deixando no balcão. Existem vários tipos de fermento no ar de sua cozinha e um deles vai se estabelecer eventualmente em sua água de farinha e começar a crescer. 
+
+Qual será o gosto? Bem, é como armar uma armadilha. Você não tem como saber. Existem vários guias na internet ensinando a fazer isso. Também é possível pular essa etapa e comprar uma levedura desidratada da internet. Se nós nos conhecemos, eu posso lhe dar um pedaço da minha.
 
 Uma levedura natural consiste em 2 organismos separados que existem em uma relação simbiótica. Temos o fermento e os lactobacilos. Em resumo, é isso que acontece: todo o sabor vem dos lactobacilos, todo sopro do fermento. A levedura funciona bem em alta temperatura. Os lactobacilos funcionam em qualquer temperatura. Portanto, para desenvolver uma massa saborosa, coloque-a na geladeira. O fermento ficará quase toda dormente, dando tempo para os lactobacilos produzirem sabor. O sabor leva um dia ou mais. Então você tem que manter o fermento refrigerado por esse tempo. Então você tira da geladeira e deixa o fermento assumir e produzir gases. O fermento só precisa de uma ou duas horas para fazer essa parte. Isso pode acontecer mais rapidamente conforme a temperatura do ambiente. Essa técnica de refrigeração é chamada de "cold rise". Existem métodos de "warm rise" que também funcionam, mas não consegui os melhores resultados com eles. Em Nápoles, quase todos usam um "warm rise", então não tenho dúvidas de que a técnica funciona. É algo para revisitar no futuro.
 

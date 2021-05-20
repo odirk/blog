@@ -27,7 +27,7 @@ O fato de que muitas das grandes artes emergem de mentes perturbadas não deveri
 
 Em muitos casos, também estamos falando de artistas que viveram em épocas diferentes - períodos em que, quase certamente, os *seus* pais/avós/bisavós também estavam fazendo ou dizendo algo que os tornariam preconceituosos pelos padrões de hoje.
 
-Reconheço que podem haver exceções. Imagine se a Xuxa fosse uma serial killer de crianças. Talvez quando uma pessoa realmente é *muito* identificada com o personagem, e sabendo o que você sabe agora, a arte perde seu charme. Eu acho que essas são as raras exceções, não a regra.
+Reconheço que podem haver exceções. Imagine se descobrissem que a Xuxa molestava crianças. Talvez quando uma pessoa realmente é *muito* identificada com o personagem, e sabendo o que você sabe agora, a arte perde seu charme. Eu acho que essas são as raras exceções, não a regra.
 
 Por fim, eu diria que há duas visões "certas" para se ter aqui: (1) a de que você pode apreciar a arte de qualquer pessoa, mesmo as que você desaprova; e (2) a visão oposta, de que determinados fatos estragam completamente a arte. O que não é aceitável é (3) "A arte de uma pessoa que eu não gosto deve ser banida para que ninguém tenha permissão de consumi-la." Há muito número 3 acontecendo agora.
 
@@ -48,6 +48,9 @@ Acho que a opção de 30 centímetros seria divertida por um tempo. Mas, quando 
 ## Qual é sua opinião sobre A Revolta de Atlas?
 
 `“There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.” -John Rogers`
+
+&nbsp;
+&nbsp;
 
 > "Mas eu gosto do livro :pleading_face:"
 
@@ -76,7 +79,7 @@ Toda a Internet é gratuita e rápida para sempre.
 
 Todos os cérebros humanos estão sempre sob uma dose pequena de MDMA.
 
-Terraformar Marte à semelhança da Terra num estalar de dedos. Colocar a ideia na cabeça de Elon Musk de que eu devo estar na primeira viagem a Marte, mas não para fazer nenhum trabalho, apenas para observar sobre a experiência.
+Terraformar Marte à semelhança da Terra num estalar de dedos. Colocar a ideia na cabeça de Elon Musk de que eu devo estar na primeira viagem a Marte, mas não para fazer nenhum trabalho, apenas para observar a experiência.
 
 Tecnologia antienvelhecimento perfeita para que todos possam reverter seu corpo para qualquer idade que preferirem e permanecer assim até que estejam entediados de viver e estejam prontos para morrer. 
 
@@ -94,7 +97,7 @@ Canudos de papel são proibidos, canudos de plástico estão de volta.
 
 Ajustar o corpo humano para que o exercício o deixe gordo e deprimido e a estagnação o deixe em forma e feliz.
 
-Criar uma Inteligência Artificial superinteligente benevolente que "simplesmente entende". Esta IA garante que toda IA ​​futura seja amigável e que ninguém seja cuzão demais. A IA também é responsável por garantir que nenhuma das minhas novas regras ou invenções saia pela culatra de maneiras inesperadas.
+Criar uma Inteligência Artificial superinteligente benevolente que "simplesmente entende". Esta IA garante que toda IA ​​futura seja amigável e que ninguém seja cuzão demais. A IA também é responsável por garantir que nenhuma das minhas novas regras ou invenções saia pela culatra de maneiras inesperadas :wink:.
 
 &nbsp;
 &nbsp;
@@ -103,7 +106,7 @@ Criar uma Inteligência Artificial superinteligente benevolente que "simplesment
 
 Máquinas de Fax. Elas foram inventadas em 1843, antes do telefone.
 
-Outra resposta boa: tubarões. Eles existem desde antes das árvores, bem antes. Tipo uns 100 milhões de anos antes :open_mouth:
+Outra resposta boa: tubarões. Eles existem desde antes das árvores, bem antes. Tipo uns 100 milhões de anos antes :open_mouth:.
 
 &nbsp;
 &nbsp;
@@ -145,13 +148,13 @@ Estou digitando em um MacBook Pro, produzido em uma fábrica chinesa movida por 
 
 Eu compro várias coisas de plástico e só as reciclo se for fácil.
 
-Estou usando roupas provavelmente costuradas por um menino de 11 anos em algum lugar distante.
+Estou usando roupas provavelmente costuradas por um menino de 11 anos de algum lugar distante.
 
 Às vezes, deixo a água correndo enquanto escovo os dentes.
 
 Eu passo por dezenas de moradores de rua por dia e só dou dinheiro quando eu tenho troco à mão. Eu dou muito mais dinheiro do que isso como gorjeta ao garçom/entregador, embora todos eles tenham um lar.
 
-Se eu passo por uma casa com um cão histérico, eu implico com ele para deixá-lo nervoso porque é engraçado e ele não sabe abrir o portão.
+Se eu passo por uma casa com um cão histérico, eu implico com ele só para deixá-lo nervoso porque é engraçado e ele não sabe abrir o portão.
 
 Deixo meu telefone ligado no avião até que fique muito alto para receber um sinal.
 
@@ -194,11 +197,11 @@ Sem ambiguidade: se uma sombra que é *como* asas não *são* asas. Eles são as
 
 No entanto, na mesma página, nem dois parágrafos depois, Tolkien escreve:
 
->"[O Balrog] avançou devagar para a ponte, e de repente saltou a uma enorme altura, e suas asas se abriram de parede a parede".
+>"[O Balrog] avançou devagar para a ponte, e de repente saltou a uma enorme altura, e suas asas se abriram de parede a parede."
 
 Sem ambiguidade: asas.
 
-Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases anteriores? Bem, agora isso virou uma discussão sobre o quão grande é a sala que essas asas reais (ou metafóricas) se estendem. :squirrel:
+Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases anteriores? Bem, agora isso virou uma discussão sobre o quão grande é a sala que essas asas reais (ou metafóricas) se estendem. :thinking_face:
 
 &nbsp;
 &nbsp;
@@ -206,15 +209,6 @@ Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases an
 ## O que você pensa sobre seus pensamentos?
 
 Quem sabe de onde eles vêm, eles simplesmente aparecem. ¯\\\_(ツ)\_/¯
-
-&nbsp;
-&nbsp;
-
-## Como vai você?
-
-Muito bem, obrigado.
-
-E você?
 
 &nbsp;
 &nbsp;
@@ -260,7 +254,7 @@ Se você não revisar periodicamente suas ações (seus efeitos e seus processos
 
 Eu faço pequenas revisões semanais, e revisões trimestrais e anuais maiores de como minha vida está indo e o que eu gostaria que fosse diferente, tanto nas coisas grandes quanto nas pequenas.
 
-Esse é o melhor conselho que tenho. Para obter mais conselhos técnicos, recomendo dois livros: um que mudou minha vida *Getting Things Done* do David Allen e outro que pode mudar a sua: *So Good They Can't Ignore You* do Cal Newport.
+Esse é o melhor conselho que tenho. Para obter mais conselhos técnicos, recomendo dois livros: um que mudou minha vida [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) do David Allen e outro que pode mudar a sua: [So Good They Can't Ignore You](https://www.calnewport.com/books/so-good/) do Cal Newport.
 
 &nbsp;
 &nbsp;

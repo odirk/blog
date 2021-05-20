@@ -13,19 +13,19 @@ Olá, Internet. É hora de perguntas e respostas.
 &nbsp;
 &nbsp;
 
-## O que fazer se um livro/filme/música que eu gosto foi criado por alguém "ruim"?
+## O que fazer se um livro/filme/música que eu gosto foi criado por alguém "mau"?
 
 Acho que, na maioria dos casos, deveríamos nos sentir bem com o que gostamos, independentemente de quem seja o criador, o que ele fez ou no que acreditou.
 
 Charlie Chaplin era pedófilo. John Lennon e Picasso eram abusivos. Walt Disney era antissemita. E a lista não para de crescer. 
 
-Isso porque artistas são frequentemente pessoas confusas e instáveis, que fazem ou dizem coisas ruins por não terem muito filtro. 
+Artistas são frequentemente pessoas confusas e instáveis, que fazem ou dizem coisas ruins por não terem muito filtro. 
 
-(Em realidade, a *maioria* das pessoas também tem opiniões obtusas que você desaprovaria se soubesse sobre elas. ~~Não é todo mundo que tem um blog~~). 
+Em realidade, a *maioria* das pessoas também tem opiniões obtusas que você desaprovaria se soubesse sobre elas. ~~Não é todo mundo que tem um blog~~. 
 
 O fato de que muitas das grandes artes emergem de mentes perturbadas não deveria ser uma surpresa.
 
-Em muitos casos, também estamos falando de pessoas que viveram em épocas diferentes - períodos em que, quase certamente, os seus pais/avós/bisavós *também* estavam fazendo ou dizendo algo que os tornariam preconceituosos pelos padrões de hoje.
+Em muitos casos, também estamos falando de pessoas que viveram em épocas diferentes - períodos em que, quase certamente, nossos pais/avós/bisavós *também* estavam fazendo ou dizendo algo que os tornariam preconceituosos pelos padrões de hoje.
 
 Mas podem haver exceções. Imagine se descobrissem que a Xuxa molestava crianças. Talvez quando uma pessoa realmente é *muito* identificada com o personagem, e sabendo o que você sabe agora, a arte perde seu charme. Eu acho que essas são as raras exceções, não a regra.
 
@@ -36,7 +36,7 @@ Por fim, eu diria que há duas visões "certas" para se ter aqui: (1) a de que v
 
 ## Você preferiria ter 3 metros ou 30 centímetros de altura?
 
-3 metros parece a resposta óbvia. Você é uma "coisa" completa. Onde quer que você vá, todo mundo piraria. Mas, eventualmente, as pessoas se acostumariam com isso e você ainda poderia ter uma vida quase normal. Você ainda pode ter uma casa quase normal. Você com certeza poderia jogar na NBA. Você ainda pode fazer sexo.
+3 metros parece a resposta óbvia. Você é uma "coisa" completa. Onde quer que você vá, todo mundo piraria. Mas, eventualmente, as pessoas se acostumariam com isso e você poderia ter uma vida quase normal. Você pode ter uma casa quase normal. Você com certeza poderia jogar na NBA. Você pode fazer sexo.
 
 Ninguém vai transar com uma pessoa de 30 centímetros de altura. Você não poderia ir a lugar nenhum sem que todos estivessem totalmente preparados para a situação. Sua casa seria uma piada. Apesar disso, existem benefícios. Você pode entrar sorrateiramente em qualquer lugar e se esconder com muita facilidade. Mas e daí?
 
@@ -61,7 +61,7 @@ Acho que a opção de 30 centímetros seria divertida por um tempo. Mas, quando 
 
 Restaurar o nível de carbono ao equivalente de 1850. 
 
-Inventar um reator nuclear poderoso e eficiente, barato de produzir e totalmente seguro (tipo o Delorean do De Volta para o Futuro 2, que você abastece com lixo) e colocar instruções para saber como fazer isso online.
+Inventar um reator nuclear poderoso e eficiente, barato de produzir e totalmente seguro (tipo o Delorean do De Volta para o Futuro 2, que você abastece com lixo) e colocar instruções para como fazer isso online.
 
 Inventar uma maneira fácil e barata de cultivar carne em laboratório e colocar as instruções online.
 
@@ -73,7 +73,7 @@ Tribalismo fora. Teletransporte dentro.
 
 Ajustar o corpo humano para que junk food seja um alimento saudável.
 
-Toda a Internet é gratuita e rápida para sempre.
+Toda a internet é gratuita e rápida para sempre.
 
 Todos os cérebros humanos estão sempre sob uma dose pequena de MDMA.
 

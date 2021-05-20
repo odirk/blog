@@ -4,7 +4,7 @@ date: "2021-05-20"
 tags: ["opiniões-impopulares", "FAQ"]
 description: "Opiniões (geralmente) maiores que um tweet, mas curtas demais para um post."
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 ---
 
@@ -13,7 +13,7 @@ Olá, Internet. É hora de perguntas e respostas.
 &nbsp;
 &nbsp;
 
-### O que fazer se um livro/filme/música que tem algum valor nostálgico para você foi criado por alguém "mau"?
+## O que fazer se um livro/filme/música que eu gosto foi criado por alguém "mau"?
 
 Acho que, na maioria dos casos, deveríamos nos sentir bem com o que gostamos, independentemente de quem seja o criador, o que ele fez ou no que acreditou.
 
@@ -34,7 +34,7 @@ Por fim, eu diria que há duas visões "certas" para se ter aqui: (1) a de que v
 &nbsp;
 &nbsp;
 
-### Você preferiria ter 3 metros ou 30 centímetros de altura?
+## Você preferiria ter 3 metros ou 30 centímetros de altura?
 
 3 metros parece a resposta óbvia. Você é uma "coisa" completa. Onde quer que você vá, todo mundo piraria. Mas, eventualmente, as pessoas se acostumariam com isso e você ainda poderia ter uma vida quase normal. Você ainda pode ter uma casa quase normal. Você com certeza poderia jogar na NBA. Você ainda pode fazer sexo.
 
@@ -45,7 +45,7 @@ Acho que a opção de 30 centímetros seria divertida por um tempo. Mas, quando 
 &nbsp;
 &nbsp;
 
-### Qual é sua opinião sobre A Revolta de Atlas?
+## Qual é sua opinião sobre A Revolta de Atlas?
 
 `“There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.” -John Rogers`
 
@@ -56,7 +56,7 @@ Acho que a opção de 30 centímetros seria divertida por um tempo. Mas, quando 
 &nbsp;
 &nbsp;
 
-### Se você fosse um ser onipotente por 24 horas, o que faria? Após 24 horas você voltaria ao normal, mas os efeitos de suas decisões não.
+## Se você fosse um ser onipotente por 24 horas, o que faria? Após 24 horas você voltaria ao normal, mas os efeitos de suas decisões não.
 
 Restaurar o nível de carbono ao equivalente de 1850. 
 
@@ -99,7 +99,7 @@ Criar uma Inteligência Artificial superinteligente benevolente que "simplesment
 &nbsp;
 &nbsp;
 
-### O que é mais velho do que parece?
+## O que é mais velho do que parece?
 
 Máquinas de Fax. Elas foram inventadas em 1843, antes do telefone.
 
@@ -108,14 +108,14 @@ Outra resposta boa: tubarões. Eles existem desde antes das árvores, bem antes.
 &nbsp;
 &nbsp;
 
-### O que cheira bem mas tem gosto ruim?
+## O que cheira bem mas tem gosto ruim?
 
 Velas.
 
 &nbsp;
 &nbsp;
 
-### Você sabe programar ou você está planejando aprender?
+## Você sabe programar ou você está planejando aprender?
 
 Não. 
 
@@ -130,14 +130,14 @@ Eu provavelmente devo aprender a programar.
 &nbsp;
 &nbsp;
 
-### O que é felicidade?
+## O que é felicidade?
 
 Realidade menos expectativas.
 
 &nbsp;
 &nbsp;
 
-### Você já admitiu que, apesar de saber o quão errado é apoiar o consumo de animais indefesos, você o faz porque é agradável e socialmente permissível. Onde mais em sua vida você se permite ser um idiota?
+## Você já admitiu que, apesar de saber o quão errado é apoiar o consumo de animais indefesos, você o faz porque é agradável e socialmente permissível. Onde mais em sua vida você se permite ser um idiota?
 
 Boa pergunta, Peter Singer. Vamos ver...
 
@@ -160,14 +160,14 @@ Deixo meu telefone ligado no avião até que fique muito alto para receber um si
 &nbsp;
 &nbsp;
 
-### O que te faz único comparado aos 7 bilhões de pessoas na Terra?
+## O que te faz único comparado aos 7 bilhões de pessoas na Terra?
 
 Em um mundo de bilhões, ninguém é único.
 
 &nbsp;
 &nbsp;
 
-### O que o motiva a ser produtivo quando tudo não faz sentido?
+## O que o motiva a ser produtivo quando tudo não faz sentido?
 
 Esse pensamento "se todos vamos morrer, qual é a moral?" é ruim.
 
@@ -182,19 +182,19 @@ Construir uma vida que você deseja viver é intrinsecamente significativo, apes
 &nbsp;
 &nbsp;
 
-### Qual é sua opinião sobre se o Balrog tem asas?
+## Qual é sua opinião sobre se o Balrog tem asas?
 
 Ah, sim. O grande debate de 2000 sobre o Balrog continua vivo.
 
 Há uma passagem na Sociedade diz:
 
->"O inimigo [de Gandalf] parou outra vez, enfrentando-o, e a sombra à sua volta [do Balrog] se espalhou como duas grandes asas." (pág. 351)
+>"O inimigo [de Gandalf] parou outra vez, enfrentando-o, e a sombra à sua volta [do Balrog] se espalhou como duas grandes asas." (p. 351)
 
 Sem ambiguidade: se uma sombra que é *como* asas não *são* asas. Eles são asas metafóricas.
 
-No entanto, nem dois parágrafos depois, Tolkien escreve:
+No entanto, na mesma página, nem dois parágrafos depois, Tolkien escreve:
 
->"[O Balrog] avançou devagar para a ponte, e de repente saltou a uma enorme altura, e suas asas se abriram de parede a parede" (pág. 351)
+>"[O Balrog] avançou devagar para a ponte, e de repente saltou a uma enorme altura, e suas asas se abriram de parede a parede".
 
 Sem ambiguidade: asas.
 
@@ -203,14 +203,14 @@ Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases an
 &nbsp;
 &nbsp;
 
-### O que você pensa sobre seus pensamentos?
+## O que você pensa sobre seus pensamentos?
 
 Quem sabe de onde eles vêm, eles simplesmente aparecem. ¯\\\_(ツ)\_/¯
 
 &nbsp;
 &nbsp;
 
-### Como vai você?
+## Como vai você?
 
 Muito bem, obrigado.
 
@@ -219,7 +219,7 @@ E você?
 &nbsp;
 &nbsp;
 
-### Quais são suas dicas para melhorar a capacidade de leitura?
+## Quais são suas dicas para melhorar a capacidade de leitura?
 
 Gaste menos tempo na internet.
 
@@ -238,21 +238,21 @@ Na vida, não há soluções mágicas, apenas trade-offs.
 &nbsp;
 &nbsp;
 
-### Você fica frustrado como todos os meses têm números diferentes de dias?
+## Você fica frustrado como todos os meses têm números diferentes de dias?
 
 Isso torna planilhas muito desordenadas, então sim.
 
 &nbsp;
 &nbsp;
 
-### Qual sua opinião sobre coalas?
+## Qual sua opinião sobre coalas?
 
 Eles dormem 20 horas por dia - não teremos uma civilização de coalas com esse tipo de ética.
 
 &nbsp;
 &nbsp;
 
-### Que conselho você daria para uma vida de sucesso?
+## Que conselho você daria para uma vida de sucesso?
 
 Estabeleça um ciclo de autoavaliação em sua vida.
 
@@ -265,21 +265,21 @@ Esse é o melhor conselho que tenho. Para obter mais conselhos técnicos, recome
 &nbsp;
 &nbsp;
 
-### Quanto tempo você sobreviveria a um apocalipse zumbi?
+## Quanto tempo você sobreviveria a um apocalipse zumbi?
 
 Eu não iria. Se um apocalipse zumbi no estilo Walking Dead acontecer, o curso de ação correto é o suicídio.
 
 &nbsp;
 &nbsp;
 
-### Devemos criar uma linguagem universal?
+## Devemos criar uma linguagem universal?
 
 Já fizemos isso, ela só não é muito universal.
 
 &nbsp;
 &nbsp;
 
-### Cachorros-quentes são sanduíches?
+## Cachorros-quentes são sanduíches?
 
 Não, claro que não. 
 

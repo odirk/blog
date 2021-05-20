@@ -101,3 +101,10 @@ Existem razões pelas quais ela não foi desenvolvida mais, mas se algum grego r
 Muito bem, obrigado.
 
 E você?
+
+&nbsp;
+&nbsp;
+
+## Devemos criar uma linguagem universal?
+
+Já fizemos isso, ela só não é muito universal.

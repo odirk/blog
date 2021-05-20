@@ -1,7 +1,7 @@
 ---
 title: "Opiniões sortidas #01"
 date: "2021-05-20"
-tags: ["opiniões-impopulares", "FAQ"]
+tags: ["opiniões-impopulares"]
 description: "Opiniões (geralmente) maiores que um tweet, mas curtas demais para um post."
 showToc: true
 TocOpen: false
@@ -13,23 +13,23 @@ Olá, Internet. É hora de perguntas e respostas.
 &nbsp;
 &nbsp;
 
-## O que fazer se um livro/filme/música que eu gosto foi criado por alguém "mau"?
+## O que fazer se um livro/filme/música que eu gosto foi criado por alguém "ruim"?
 
 Acho que, na maioria dos casos, deveríamos nos sentir bem com o que gostamos, independentemente de quem seja o criador, o que ele fez ou no que acreditou.
 
 Charlie Chaplin era pedófilo. John Lennon e Picasso eram abusivos. Walt Disney era antissemita. E a lista não para de crescer. 
 
-Isso porque artistas são frequentemente pessoas confusas e instáveis, que fazem ou dizem coisas ruins por não terem filtro. 
+Isso porque artistas são frequentemente pessoas confusas e instáveis, que fazem ou dizem coisas ruins por não terem muito filtro. 
 
 (Em realidade, a *maioria* das pessoas também tem opiniões obtusas que você desaprovaria se soubesse sobre elas. ~~Não é todo mundo que tem um blog~~). 
 
 O fato de que muitas das grandes artes emergem de mentes perturbadas não deveria ser uma surpresa.
 
-Em muitos casos, também estamos falando de artistas que viveram em épocas diferentes - períodos em que, quase certamente, os *seus* pais/avós/bisavós também estavam fazendo ou dizendo algo que os tornariam preconceituosos pelos padrões de hoje.
+Em muitos casos, também estamos falando de pessoas que viveram em épocas diferentes - períodos em que, quase certamente, os seus pais/avós/bisavós *também* estavam fazendo ou dizendo algo que os tornariam preconceituosos pelos padrões de hoje.
 
-Reconheço que podem haver exceções. Imagine se descobrissem que a Xuxa molestava crianças. Talvez quando uma pessoa realmente é *muito* identificada com o personagem, e sabendo o que você sabe agora, a arte perde seu charme. Eu acho que essas são as raras exceções, não a regra.
+Mas podem haver exceções. Imagine se descobrissem que a Xuxa molestava crianças. Talvez quando uma pessoa realmente é *muito* identificada com o personagem, e sabendo o que você sabe agora, a arte perde seu charme. Eu acho que essas são as raras exceções, não a regra.
 
-Por fim, eu diria que há duas visões "certas" para se ter aqui: (1) a de que você pode apreciar a arte de qualquer pessoa, mesmo as que você desaprova; e (2) a visão oposta, de que determinados fatos estragam completamente a arte. O que não é aceitável é (3) "A arte de uma pessoa que eu não gosto deve ser banida para que ninguém tenha permissão de consumi-la." Há muito número 3 acontecendo agora.
+Por fim, eu diria que há duas visões "certas" para se ter aqui: (1) a de que você pode apreciar a arte de qualquer pessoa, mesmo as que você desaprova; e (2) a visão oposta, de que determinados fatos estragam completamente a arte. O que não é aceitável é (3) "A arte de uma pessoa que eu não gosto deve ser banida para que ninguém tenha permissão de consumi-la." Há muito do número 3 acontecendo agora.
 
 &nbsp;
 &nbsp;
@@ -49,8 +49,6 @@ Acho que a opção de 30 centímetros seria divertida por um tempo. Mas, quando 
 
 `“There are two novels that can change a bookish fourteen-year old's life: The Lord of the Rings and Atlas Shrugged. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.” -John Rogers`
 
-&nbsp;
-&nbsp;
 
 > "Mas eu gosto do livro :pleading_face:"
 
@@ -126,7 +124,7 @@ Parte de mim acha que é um investimento óbvio para aprender a programar, mas o
 
 Houve um tempo em que era importante saber como realmente usar 1s e 0s e agora não há necessidade disso. Então, talvez, as pessoas que estão nascendo hoje nunca precisarão aprender a programar? 
 
-Eu gosto de acreditar nessa narrativa, porque significaria (a) me isentar da responsabilidade de aprender a programar e (b) que eu cometi um erro de "apenas" duas décadas por não aprender a programar na juventude, e não um por toda a minha vida.
+Eu prefiro acreditar nessa narrativa, porque significaria (a) me isentar da responsabilidade de aprender a programar e (b) que eu cometi um erro de "apenas" duas décadas por não aprender a programar na juventude, e não um por toda a minha vida.
 
 Eu provavelmente devo aprender a programar.
 
@@ -140,7 +138,7 @@ Realidade menos expectativas.
 &nbsp;
 &nbsp;
 
-## Você já admitiu que, apesar de saber o quão errado é apoiar o consumo de animais indefesos, você o faz porque é agradável e socialmente permissível. Onde mais em sua vida você se permite ser um idiota?
+## Você já me falou que, apesar de saber o quão errado é apoiar o consumo de animais indefesos, você o faz porque é agradável e socialmente permissível. Onde mais em sua vida você se permite ser um idiota?
 
 Boa pergunta, Peter Singer. Vamos ver...
 
@@ -201,7 +199,7 @@ No entanto, na mesma página, nem dois parágrafos depois, Tolkien escreve:
 
 Sem ambiguidade: asas.
 
-Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases anteriores? Bem, agora isso virou uma discussão sobre o quão grande é a sala que essas asas reais (ou metafóricas) se estendem. :thinking_face:
+Ou talvez não? Essas asas são as asas metafóricas de apenas algumas frases anteriores? Bem, agora isso virou uma discussão sobre o quão grande é a sala que essas asas reais (ou metafóricas) se estendem :thinking_face:.
 
 &nbsp;
 &nbsp;
@@ -261,14 +259,7 @@ Esse é o melhor conselho que tenho. Para obter mais conselhos técnicos, recome
 
 ## Quanto tempo você sobreviveria a um apocalipse zumbi?
 
-Eu não iria. Se um apocalipse zumbi no estilo Walking Dead acontecer, o curso de ação correto é o suicídio.
-
-&nbsp;
-&nbsp;
-
-## Devemos criar uma linguagem universal?
-
-Já fizemos isso, ela só não é muito universal.
+Eu não iria. Se um apocalipse zumbi no estilo Walking Dead acontecer, o curso de ação correto está na ponta de uma faca.
 
 &nbsp;
 &nbsp;

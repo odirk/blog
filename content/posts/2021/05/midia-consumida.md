@@ -17,23 +17,23 @@ Eu sei, não foram muitas coisas. Passei boa parte do mês mais triste e sem von
 
 - [A terra inabitável: Uma história do futuro](https://www.amazon.com.br/terra-inabit%C3%A1vel-Uma-hist%C3%B3ria-futuro/dp/8535932399), Wallace-Wells. Tematica interessante, mas apresentada com pouco rigor científico. (4);
 - [Viagem ao redor da garrafa: Um ensaio sobre escritores e a bebida](https://www.amazon.com.br/Viagem-Redor-Garrafa-Olivia-Laing/dp/8569474032), Laing. (6.5);
-- [O estrangeiro](https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869), Camus. (10).
+- [O estrangeiro](https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869), Camus. Aparenta ser um livro simples, mas é cuidadosamente planejado e escrito. É uma criação densa e rica, cheia de significados e qualidades formais não aparentes à primeira vista. (10).
 
 &nbsp;
 &nbsp;
 
 ### Álbuns
 
-- Porter Robinson - [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM?si=KAoOgZG7Ql6v8gZGRBoPCg) (Eletro). (8);
+- Porter Robinson - [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM?si=KAoOgZG7Ql6v8gZGRBoPCg) (Eletro). (9);
 - Jeff Rosenstock - [SKA DREAM](https://open.spotify.com/album/62q3iMl7Lfpw19xxWzr52x?si=lO3nvkosQqCISKoMM5bZJQ) (Ska). (7);
 - Weezer - [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz?si=gaykqGDnSTSTnP5vlVTkQg) (Rock). (5);
 - St. Vincent - [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM?si=P8LgltnRRFqI5wVdF1HOlA) (Rock). (8);
 - Sons of Kemet - [Black to the Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B?si=pO7q5uRkTvCF_AkFMV_U2w) (Jazz). (7);
-- Mdou Moctar - [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2?si=AXnPXt-oQbKoBJoTGCgAfw) (Rock) (9);
+- Mdou Moctar - [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2?si=AXnPXt-oQbKoBJoTGCgAfw) (Rock). (9);
 
 {{< youtube y23ewhFf_hs >}}
 
-- Olivia Rodrigo - [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j?si=LfX6p4j3SeG-sGJx_c9K0Q) (Pop/R&B) (7.5).
+- Olivia Rodrigo - [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j?si=LfX6p4j3SeG-sGJx_c9K0Q) (Pop/R&B). (7.5).
 
 &nbsp;
 &nbsp;
@@ -41,7 +41,7 @@ Eu sei, não foram muitas coisas. Passei boa parte do mês mais triste e sem von
 ### Filmes
 
 - [Godzilla vs. Kong](https://www.imdb.com/title/tt5034838/) (2021). É o dumb-fun que eu precisava. (7);
-- [Ashes and Diamonds](https://www.imdb.com/title/tt0052080/) (1958). A caracterização é muito boa e se reflete na ganância, autossatisfação, consistência, serenidade e compaixão dos personagens (8).
+- [Ashes and Diamonds](https://www.imdb.com/title/tt0052080/) (1958). A caracterização é muito boa e se reflete na ganância, ssatisfação e compaixão dos personagens (8).
   
 &nbsp;
 &nbsp;

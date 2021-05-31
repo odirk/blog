@@ -17,7 +17,7 @@ Eu sei, não foram muitas coisas. Passei boa parte do mês mais triste e sem von
 
 - [A terra inabitável: Uma história do futuro](https://www.amazon.com.br/terra-inabit%C3%A1vel-Uma-hist%C3%B3ria-futuro/dp/8535932399), Wallace-Wells. Tematica interessante, mas apresentada com pouco rigor científico. (4);
 - [Viagem ao redor da garrafa: Um ensaio sobre escritores e a bebida](https://www.amazon.com.br/Viagem-Redor-Garrafa-Olivia-Laing/dp/8569474032), Laing. (6.5);
-- [O estrangeiro](https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869), Camus. Aparenta ser um livro simples, mas é cuidadosamente planejado e escrito. É uma criação densa e rica, cheia de significados e qualidades formais não aparentes à primeira vista. (10).
+- [O estrangeiro](https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869), Camus. Aparenta ser um livro simples, mas é cuidadosamente planejado e escrito. É uma criação densa e rica, cheia de significados e qualidades formais não aparentes à primeira vista. (9).
 
 &nbsp;
 &nbsp;
@@ -48,7 +48,7 @@ Eu sei, não foram muitas coisas. Passei boa parte do mês mais triste e sem von
 
 ### Séries
 
-- [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). (7.5);
+- [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). (8);
 - [Final Space](https://www.imdb.com/title/tt6317068/), (S03). (7);
 - [Modern Family](https://www.imdb.com/title/tt1442437/), (S06~10). They really jumped the shark, didn't they? (5.5);
 - [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S01~02). Pela sétima vez :smiling_face_with_tear:. (9);

@@ -5,7 +5,7 @@ tags: ["tech"]
 description: "Because new isn't always better"
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 ---
 
 *sigh*

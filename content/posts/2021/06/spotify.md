@@ -23,7 +23,7 @@ Eu não entendo a lógica da atualização. Parece que eles estão tentando esco
 
 ## 13 Reasons Why
 
-**1.** Por que esconder os álbuns dentro de uma aba da Your Library?
+#### 1. Por que esconder os álbuns dentro de uma aba da Your Library?
 
 Antigamente os álbuns eram um botão fixo no menu de navegação à esquerda. Bastava um clique para ir para lá.
 
@@ -72,7 +72,7 @@ No design anterior, você podia ver isso no topo da página do artista na seçã
 
 7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música (que tende a ser o item mais comprido). O título da música frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
 
-{{< figure align=center src="spotify/introspective.png" >}}
+{{< figure align=center src="/spotify/introspective.png" >}}
 
 8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
 
@@ -80,7 +80,7 @@ No design anterior, você podia ver isso no topo da página do artista na seçã
 
 10.  Não entendo o Find More na parte inferior de uma playlist. Quando você clica, uma barra de pesquisa é exibida? 
 
-{{< figure align=center src="spotify/find-more.png" >}}
+{{< figure align=center src="/spotify/find-more.png" >}}
 
 11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 

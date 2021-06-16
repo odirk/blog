@@ -23,7 +23,7 @@ Um software que não era bom, ficou ruim.
 
 ## 13 Reasons Why
 
-### 1. Por que esconder os álbuns dentro de uma aba da Your Library?
+### 1. Por que esconder os álbuns?
 
 Antigamente os álbuns eram um botão fixo no menu de navegação à esquerda. Bastava um clique para ir para lá.
 
@@ -44,9 +44,7 @@ Antigamente todos os álbuns eram carregados instantaneamente. E, se você usass
 
 Agora apenas os primeiros 50 álbuns são carregados. Quando você rola a página para baixo, os próximos 50 serão carregados (mas apenas se você chegar ao final dos primeiros 50). 
 
-Dependendo do número de álbuns salvos, quando você está rolando para baixo usando a roda do mouse, 
-
-A UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Isso é um enorme dissabor quando você tem centenas de álbuns na bilbioteca. 
+Dependendo do número de álbuns salvos, quando você está rolando para baixo usando a roda do mouse, a UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Agora imagine quando você tem centenas de álbuns na bilbioteca. 
 
 Além do mais, como apenas 50 álbuns são carregados de cada vez, eu não posso arrastar a barra de rolagem para a letra inicial que eu gostaria de ir (diferentemente da versão mobile). 
 
@@ -69,7 +67,7 @@ Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 &nbsp;
 &nbsp;
 
-### 4. Sem barra de pesquisa persistente.
+### 4. Sem barra de pesquisa persistente
 
 POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?
 
@@ -78,9 +76,11 @@ POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?
 &nbsp;
 &nbsp;
 
-### 5. Não consigo ver quando novos álbuns/singles foram lançados.
+### 5. Não consigo ver quando novos álbuns/singles foram lançados
 
-No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
+No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. 
+
+Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
 
 &nbsp;
 &nbsp;
@@ -114,7 +114,7 @@ Ocupam metade da tela e são feios de doer. Parece que eles estão tentando esco
 &nbsp;
 &nbsp;
 
-### 9. Clicar no meu perfil no canto superior direito me leva a um menu. 
+### 9. Clicar no meu perfil no canto superior direito me leva a um menu
 
 Deveria me levar direto ao perfil.
 
@@ -123,7 +123,7 @@ Acho que mais apropriado trocar o botão de perfil por uma :gear:, já que o men
 &nbsp;
 &nbsp;
 
-### 10. Não entendo o Find More na parte inferior de uma playlist. 
+### 10. Não entendo o Find More na parte inferior de uma playlist
 
 Quando você clica, uma barra de pesquisa é exibida? 
 
@@ -132,7 +132,7 @@ Quando você clica, uma barra de pesquisa é exibida?
 &nbsp;
 &nbsp;
 
-### 11. O Friend Activity possui informações repetidas.
+### 11. O Friend Activity possui informações repetidas
 
 O ponto azul na parte superior dos perfis na barra do Friend Activity e o ícone de escuta ativa após o nome são redundantes. 
 
@@ -141,7 +141,7 @@ Além disso, as barras estáticas são menos interessantes do que os alto-falant
 &nbsp;
 &nbsp;
 
-### 12. Eles não sabem o que fazer com o Friend Activity.
+### 12. Eles não sabem o que fazer com o Friend Activity (?)
 
 Eles condensaram o título da música e o artista na mesma linha no feed da atividade, **o que torna difícil de ler**, só para que mais pessoas apareçam na lista. 
 
@@ -166,7 +166,7 @@ No fim, esse feed "informativo" é pouco explorado e acaba meio sem propósito, 
 &nbsp;
 &nbsp;
 
-### 13. Eu não gosto de como eles apresentam as músicas dentro de um álbum. 
+### 13. Eu não gosto de como eles apresentam as músicas dentro de um álbum
 
 Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? 
 
@@ -187,17 +187,17 @@ Sendo bem sincero, eu considero deixar o serviço e ir do [Apple Music](https://
 
 Ainda não bati o martelo nessa decisão, mas é algo bem tentador.
 
-As únicas coisas que ainda me prendem no serviço são o Spotify Connect e a integração facilitada com o Last.fm, que são duas funções que eu uso bastante. Se a Apple anunciasse funções equivalentes, eu mudaria em um segundo.
+As únicas coisas que ainda me prendem no serviço são o **Spotify Connect** e a integração facilitada com o **Last.fm**, que são duas funções que eu uso bastante. Se a Apple anunciasse funções equivalentes, eu mudaria em um segundo.
 
 Se fosse para ficar no Spotify, eu vejo as seguintes soluções.
 
-Eu cheguei a baixar a última versão do design antigo para fazer um downgrade, mas eu precisaria fazer uns ajustes para que ela fosse permanente (já que o software se atualiza automaticamente).
+Eu cheguei a baixar a última versão do design antigo para fazer um downgrade, mas eu precisaria fazer uns ajustes para que ela fosse permanente (já que o software se atualiza automaticamente :roll_eyes:).
 
-Seria necessário instalar a versão antiga e alterar o chmode dos arquivos para read-only. Nada difícil, só mildly annoying. Assim o Spotify não se atualizaria sozinho (aliás, é um absurdo que não exista a opção para desligar as atualizações automáticas).
+Seria necessário instalar a versão antiga e alterar o chmod dos arquivos para read-only. Nada difícil, só mildly annoying. Assim o Spotify não se atualizaria sozinho (aliás, é um absurdo que não exista a opção para desligar as atualizações automáticas).
 
 Mas, considerando que eles estão forçando essa atualização aos usuários, é bem provável que as versões antigas estejam condenadas a uma obsolescência planejada. Vejo isso como uma solução paliativa.
 
-Outra alternativa que encontrei foi o [Spicetify](https://github.com/khanhas/spicetify-cli). 
+Outra alternativa que encontrei foi o [**Spicetify**](https://github.com/khanhas/spicetify-cli). 
 
 Ele injeta CSS's para customizar a versão de desktop, além de oferecer umas extensões que corrigem outras reclamações que eu tenho com o Spotify (p. ex. o Shuffle).
 
@@ -205,7 +205,11 @@ Por enquanto estou usando ele. É interessante.
 
 Resolve alguns problemas de design que eu mencionei, mas outros (como a questão do carregamento de álbuns) não.
 
-O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vão~~ podem quebrar com qualquer atualização do software original do Spotify, o que vai lhe levar novamente para a estaca zero.
+O tema que eu uso se parece com isso:
+
+{{< figure src="https://raw.githubusercontent.com/morpheusthewhite/spicetify-themes/v2/Dribbblish/nord-dark.png" title="Você pode redimensionar o feed e menu (e customizá-lo)." >}}
+
+O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vão~~ podem quebrar com qualquer atualização do software original do Spotify, **o que vai lhe levar novamente para a estaca zero**.
 
 *sigh*.
 

@@ -23,7 +23,7 @@ Eu não entendo a lógica da atualização. Parece que eles estão tentando esco
 
 ## 13 Reasons Why
 
-1. Por que esconder os álbuns dentro de uma aba da Your Library?
+**1.** Por que esconder os álbuns dentro de uma aba da Your Library?
 
 Antigamente os álbuns eram um botão fixo no menu de navegação à esquerda. Bastava um clique para ir para lá.
 
@@ -35,7 +35,7 @@ Soa total como *problema de primeiro mundo*, mas se você tem o hábito de ouvir
 
 Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação.
 
-2. Por que diabos os álbuns não ficam salvos no cache do programa?
+**2.** Por que diabos os álbuns não ficam salvos no cache do programa?
 
 Antigamente todos os álbuns eram carregados instantaneamente. E, se você usasse o atalho Cmd/Ctrl + End, você iria para o final da lista. Fim.
 

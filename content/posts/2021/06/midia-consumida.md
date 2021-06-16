@@ -14,41 +14,43 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 ### Livros
 
 - [A terra inabitável: Uma história do futuro](https://www.amazon.com.br/terra-inabit%C3%A1vel-Uma-hist%C3%B3ria-futuro/dp/8535932399), Wallace-Wells. Tematica interessante, mas apresentada com pouco rigor científico. (4);
-- [Viagem ao redor da garrafa: Um ensaio sobre escritores e a bebida](https://www.amazon.com.br/Viagem-Redor-Garrafa-Olivia-Laing/dp/8569474032), Laing. (6.5);
-- [O estrangeiro](https://www.amazon.com.br/estrangeiro-Albert-Camus/dp/8501014869), Camus. Aparenta ser um livro simples, mas é cuidadosamente planejado e escrito. É uma criação densa e rica, cheia de significados e qualidades formais não aparentes à primeira vista. (9).
+- [Na pior em Paris e Londres](https://www.amazon.com.br/Na-pior-em-Paris-Londres/dp/8535921605), Orwell. Lido por recomendação de Anthony Bordain, em [Cozinha Confidencial](https://www.amazon.com.br/Cozinha-confidencial-Anthony-Bourdain/dp/8592754038). Uma quase autobiografia da vida dele, vivendo na pobreza, em Paris e Londres. Recomendado para quem quiser ler uma descrição vívida de como é viver nas margens da sociedade. (8);
+- [Os sentidos do lulismo](https://www.amazon.com.br/Os-sentidos-lulismo-Andr%C3%A9-Singer/dp/8535921583), Singer. Interessante genalogia do PT, fundamental para entender a vinculação às classes mais baixas. (7);
+- [O mito de Sísifo](https://www.amazon.com.br/Mito-S%C3%ADsifo-Albert-Camus/dp/8501111643/), Camus.
+
 
 &nbsp;
 &nbsp;
 
 ### Álbuns
 
-- Porter Robinson - [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM?si=KAoOgZG7Ql6v8gZGRBoPCg) (Eletro). (9);
-- Jeff Rosenstock - [SKA DREAM](https://open.spotify.com/album/62q3iMl7Lfpw19xxWzr52x?si=lO3nvkosQqCISKoMM5bZJQ) (Ska). (7);
-- Weezer - [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz?si=gaykqGDnSTSTnP5vlVTkQg) (Rock). (5);
-- St. Vincent - [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM?si=P8LgltnRRFqI5wVdF1HOlA) (Rock). (8);
-- Sons of Kemet - [Black to the Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B?si=pO7q5uRkTvCF_AkFMV_U2w) (Jazz). (7);
-- Mdou Moctar - [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2?si=AXnPXt-oQbKoBJoTGCgAfw) (Rock). (9);
-
-{{< youtube y23ewhFf_hs >}}
-
-- Olivia Rodrigo - [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j?si=LfX6p4j3SeG-sGJx_c9K0Q) (Pop/R&B). (7.5).
+- Erika de Casier - [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one?si=Gxyt5gMNRBCaxjee6K2R4A)
+- Japanese Breakfest
 
 &nbsp;
 &nbsp;
 
 ### Filmes
 
-- [Godzilla vs. Kong](https://www.imdb.com/title/tt5034838/) (2021). É o dumb-fun que eu precisava. (7);
-- [Ashes and Diamonds](https://www.imdb.com/title/tt0052080/) (1958). A caracterização é muito boa e se reflete na ganância, ssatisfação e compaixão dos personagens (8).
-  
+- [Chicago](https://www.imdb.com/title/tt0299658/) (2002). xxx. (8);
+- [Bo Burnham: Inside](https://www.imdb.com/title/tt14544192/) (2021). Extraordinário. Uma comédia musical extravagante de um homem só. Uma das respostas mais sinceras à pandemia. Recomendado. (9.5);
+
+{{< youtube xHotXbGZiFY >}}
+
+- [Cruella](https://www.imdb.com/title/tt3228774/) (2021). Bem legal. As atuações das duas Emmas estão ótimas, no nível certo de over-the-top. A produção e figurinos são ótimos. O problema é que eu meio que cansei desses filmes da Disney, estão saturando o mercado e eu acabei assistindo esse filme na obrigação. Mas ele é bem divertido, vale a pena conferir. (7);
+- [Shiva Baby](https://www.imdb.com/title/tt11317142/) (2020). xxx. 8
+- [Top Secret!](https://www.imdb.com/title/tt0088286/) (1984). 7
+
 &nbsp;
 &nbsp;
 
 ### Séries
 
-- [Bobs Burgers](https://www.imdb.com/title/tt1561755/), (S11). (8);
-- [Final Space](https://www.imdb.com/title/tt6317068/), (S03). (7);
-- [Modern Family](https://www.imdb.com/title/tt1442437/), (S06~10). They really jumped the shark, didn't they? (5.5);
-- [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S01~02). Pela sétima vez :smiling_face_with_tear:. (9);
-- [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). (6);
-- [Adventure Time: Distant Lands](https://www.imdb.com/title/tt11165358/), (S01). (8).
+- [Final Space](https://www.imdb.com/title/tt6317068/), (S03). Segunda metade da temporada melhora consideravelmente (8);
+- [Modern Family](https://www.imdb.com/title/tt1442437/), (S11). Nossa, fraquíssima essa última temporada (4);
+- [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S03). (9);
+- [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). O que foram esses últimos episódios focados no CJ :O Salvaram a temporada (7);
+- [Cheers](https://www.imdb.com/title/tt0083399/), (S01). ;
+- [The Kominsky Method](https://www.imdb.com/title/tt7255502/), (S03). (6.5);
+- [How to with John Wilson](https://www.imdb.com/title/tt10801534/), (S01). Viúvas de [Nathan For You](https://www.imdb.com/title/tt2297757/), rejoice! (9);
+- [Clarkson's Farm](https://www.imdb.com/title/tt10541088/), (S01).

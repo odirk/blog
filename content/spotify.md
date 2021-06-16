@@ -1,96 +1,140 @@
 ---
-title: "Spotify"
-# date: "2021-05-20"
+title: "Sobre redesign do Spotify"
+date: "2021-06-16"
 tags: ["tech"]
-# description: "Opiniões (geralmente) maiores que um tweet, mas curtas demais para um post."
-showToc: true
+description: "Because new isn't always better"
+showToc: false
 TocOpen: false
 draft: true
 ---
 
-idk if it's the new UI thing or i'm just dumb, but on the old one when i was on artist's profile i could see and play every song and now i gotta click through the albums
+*sigh*
 
-Now once I arrive on the artist profile I have to click twice (first into "Discography" and then into a specific album) to even see any songs and I can only view the songs in one album at a time.
+Por que, Spotify? Por que?
 
-I can't even comprehend what the thinking was here. Are they trying to hide the songs? It was so much easier how it was before, having it all laid out right there on the artist page.
+Quem liderou esse novo projeto de interface é um imbecil. Remover funcionalidades e aumentar o número de cliques para realizar ações comuns é vergonhoso.
 
----
+É desconcertante o quão ruim é essa nova UI.
 
-Weird design choice to couple song title and artist together into one column on a playlist but keep album, date added, and song length unique. The two most important filter criteria are the most annoying to filter by. Who decided that?
+Eu não entendo a lógica da atualização. Parece que eles estão tentando esconder as músicas.
 
-And give just as much screen real estate to Album and Date Added as the track title, which is guaranteed to be longer. Track title is almost always cut off and you can't even hover over it in now playing to scroll through it anymore.
+&nbsp;
+&nbsp;
 
----
+## 13 Reasons Why
 
-My biggest problem with this new change is that when I click away from a playlist I'm currently listening to, go to another list and then back, it sends me on the top of the playlist, not where I've been/the active song.
+1. Por que esconder os álbuns dentro de uma aba da Your Library?
 
-I cannot emphasize enough how much I hate this. Such a simple functionality, but it makes all the difference in how much I enjoy listening to music. I have several playlists with 300+ songs in it, and I just want to not look for the one currently playing.
+Antigamente os álbuns eram um botão fixo no menu de navegação à esquerda. Bastava um clique para ir para lá.
 
----
+Agora você deve primeiro clicar em Your Library (primeiro clique) e depois clicar em "Albums" (segundo clique). 
 
-can't see exactly when new albums/singles were released
+Soa total como *problema de primeiro mundo*, mas se você tem o hábito de ouvir primariamente álbuns (como eu), é um saco ser obrigado a clicar o dobro das vezes para fazer a mesma coisa. 
 
-    Previous design you could see this at the top of the artist page in the Latest Release section. Now it's under the Discography section as "Latest Release" and clicking into it only shows you the release year
+> É um aumento de 100% de cliques :woozy_face:
 
-No persistent search bar
-WHY IS THE SEARCH BAR HIDDEN BEHIND A CLICK NOW? 
+Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação.
 
-Specific "Made For You" page now hidden in it's own card under the Search page
+2. Por que diabos os álbuns não ficam salvos no cache do programa?
 
----
+Antigamente todos os álbuns eram carregados instantaneamente. E, se você usasse o atalho Cmd/Ctrl + End, você iria para o final da lista. Fim.
 
-Whoever lead the new ui project must have failed their first year UI/UX course. Removing functionality and increasing the # clicks to do common actions like searching is embarrassing
+Agora apenas os primeiros 50 álbuns são carregados. Quando você rola a página para baixo, os próximos 50 serão carregados (mas apenas se você chegar ao final dos primeiros 50). 
 
----
+Dependendo do número de álbuns salvos, quando você está rolando para baixo usando a roda do mouse, 
 
-Clicking on my profile on the top right takes me to a menu instead of just straight to my profile. Horrible. Atrocious. And WACK.
+A UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Isso é um enorme dissabor quando você tem centenas de álbuns na bilbioteca. 
 
-I HATE the tall, subtle black rectangles they put around the images in the Top Artists, Public Playlists, etc. sections of my profile. Totally unnecessary and shrinks the images of the playlist covers, album artwork, and band profile pictures. WACK.
+Além do mais, como apenas 50 álbuns são carregados de cada vez, eu não posso clicar e arrastar a barra de rolagem para até aonde eu gostaria de ir (diferentemente da versão mobile). 
 
-The combining of song title and artist in the same column in playlists. It completely convolutes that information. The columns should go song title, artist, album, song length, date added. WACK.
+E o pior, como a listagem dos álbuns não fica salva no cache, toda vez que eu reabro os álbuns, eu sou obrigado a me arrastar por toda biblioteca novamente. Que inferno.
 
-I don’t understand the Find More thing at the bottom of a playlist. When you click it it just pulls up a search bar? Totally unnecessary. And totally WACK.
+```
+Update:
+Yay! Eles consertaram isso!
+```
 
-The black boundaries around the back/forward buttons and your profile at the top. Remove them from the back/foreward buttons and just put the circular profile icon in the top right. WACK.
+3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
 
-The Create Playlist and Liked Songs options are pinned above your list of playlists. The Create Playlist could just be a plus icon on the top right, while Liked Songs should just be underneath Your Library with a similar style icon, or kept within the Your Library section. WACK.
+Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 
-The lack of songs being listed underneath albums in the Artist Page. They kind of address this with the See Discography section and being able to toggle between song and album view. That actually seems like a pretty decent solution to me as I do like the more condensed Artist Page, but need to use the new UI more before I decide if I like this change. Also very much wish a similar toggle was possible in playlists, allowing you to toggle between songs and album covers. WACK?
+4. Sem barra de pesquisa persistente.
 
-The menu bar next to Following on an artist page. I should just be able to follow/unfollow by clicking the Following text as a button (I can still follow this way but cannot unfollow). Radio, Report, and Share could just be icons after the Following button. WACK.
+**POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?**
 
-Followers and Following have become their own dedicated sections on your profile page (while also still being available through clicking on that same information under your name.) This information is not that important and doesn’t really deserve it’s own space, in my opinion. WACK.
+> Side note: Cmd/Ctrl + L ainda funciona.
 
-The blue dot on top of profiles in the Friend Activity bar AND the actively listening icon after the name is redundant. Also the static bars are much less interesting than the animated speakers. WACK.
+5. Não consigo ver quando novos álbuns/singles foram lançados.
 
-The top of my homepage has a section called Good Evening and has basically the same stuff in it as the Recently Played section just below it. WACK.
+No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
 
-I wish the Discover, New Releases, and Made for You features (that are now in the Search section) had their own dedicated group within Search. Those are seperate from genres and I use them differently. WACK.
+6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
 
-In Your Library, the sort by tab calls artists “creators"? Just kinda weird. That should just say artists. It already says artists in the menu at the top. WACK. (Again, cannot STAND the black boxes around the albums, artists, and playlists. Hate them so much. Very WACK indeed.)
+7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música (que tende a ser o item mais comprido). O título da música frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
 
-I really don’t like how they present the songs within an album. I kind of like that they include the more concrete number of plays for each song but at the same time I don’t really care? The bars were much cleaner, and they could have just let you hover over the little bars that used to show a song’s popularity and see that information. Including the artist under the song title when you’re already in their album is redundant and like I brought up already, is a poor way of presenting that information. Should go song title, song length, plays. WACK.
+{{< figure align=center src="spotify/introspective.png" >}}
 
-The gap between the Friend Activity title and the actual Friend Activity feed is too large. I also think the word “Activity” should be capitalized. WACK.
+8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
 
-They also condensed the song title and artist into the same line within the Friend Activity feed which makes it hard to read. WACK.
+9. Clicar no meu perfil no canto superior direito me leva a um menu ao invés de ir direto para perfil.
 
-If I’m going through my Public Playlists, click on one of my playlists, then go back, it takes me back to the top of my playlists instead of where I was. WACK.
+10.  Não entendo o Find More na parte inferior de uma playlist. Quando você clica, uma barra de pesquisa é exibida? 
 
-There is so much space on top of a playlist or album to include the play, like, download, etc. icons but instead they put them underneath the header in their own big chunk of space. They feel like they take up too much space and the list of songs starts too far down the page. They should either be smaller or included in the header. WACK.
+{{< figure align=center src="spotify/find-more.png" >}}
 
-Expanding the album art in the bottom left doesn’t fill up the entire space of the playlist bar. WACK.
+11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 
-The 3 dot menu bar underneath your profile header only has two things in it (edit profile and copy link to profile), both of which can easily be done without needing to use the menu bar (clicking on your name and right clicking on your name, respectively.) It’s totally unnecessary. WACK.
+12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
 
-The More Like ’This Artist’ sections on the home page also include playlists and albums. I feel like those should just include other artists. WACK.
+13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
 
-The adding of album artwork within playlists. They’re not really big enough to give you much information, and they make the body of the playlist too big and clunky. WACK.
+&nbsp;
+&nbsp;
 
----
+## O que vou fazer agora
 
-albuns dentro de library, sem pin proprio
+Sei lá, cara.
 
----
+Fiquei bem decepcionado com as mudanças, tanto que estou ouvindo bem menos música do que antigamente.
 
-albuns nao ficam salvos no cache!
+> Ótimo para o Spotify, que continua recebendo minha mensalidade e paga menos royalties para os artistas.
+
+Sendo bem sincero, eu considero deixar o serviço e ir do [Apple Music](https://music.apple.com/br/). O catálago de músicas é parecido, o valor mensal é até um pouco mais baixo (R$ 16,90), e, mais importante, eles transmitem áudio **sem perda de qualidade** ([Lossless](https://www.apple.com/br/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)).
+
+Ainda não bati o martelo nessa decisão, mas é algo bem tentador.
+
+As únicas coisas que ainda me prendem no serviço são o Spotify Connect e a integração facilitada com o Last.fm, que são duas funções que eu uso bastante. Se a Apple anunciasse funções equivalentes, eu mudaria em um segundo.
+
+Se fosse para ficar no Spotify, eu vejo as seguintes soluções.
+
+Eu cheguei a baixar a última versão do design antigo para fazer um downgrade. Precisaria instalar ela e alterar o chmode dos arquivos para read-only. Assim o Spotify não se atualizaria sozinho (aliás, é um absurdo que não exista a opção para desligar as atualizações automáticas).
+
+Mas, considerando que eles estão forçando essa atualização aos usuários, é bem provável que as versões antigas estejam condenadas a uma obsolescência planejada. Vejo isso como uma solução paliativa.
+
+Outra alternativa que encontrei foi o [Spicetify](https://github.com/khanhas/spicetify-cli). 
+
+Ele injeta CSS's para customizar a versão de desktop, além de oferecer umas extensões que corrigem outras reclamações que eu tenho com o Spotify (p. ex. o Shuffle).
+
+Por enquanto estou usando ele. É interessante.
+
+Resolve alguns problemas de design que eu mencionei, mas outros (como a questão do carregamento de álbuns) não.
+
+O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vão~~ podem quebrar com qualquer atualização do software original do Spotify, o que vai lhe levar novamente para a estaca zero.
+
+*sigh*
+
+Aff.
+
+Eu li [o post dos desenvolvedores a respeito da atualização](https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/) e, do ponto de vista deles, faz sentido integrar os sistemas dos clientes web e desktop.
+
+O problema é que a atualização da versão desktop foi para pior. E essa era uma preocupação da equipe deles:
+
+```There were risks, of course. Desktop had (and has) many more users than Web Player, and Spotify’s Desktop client is the place most of Spotify’s “power users” call home. We knew we would have a lot of work to do to bring our Web Player up to those power users’ exacting standards.```
+
+Não é à toa que vários usuários estão sugerindo na [página de suporte](https://community.spotify.com/t5/Ideas/ct-p/newideas) a reinclusão de várias funcionalidades antigas.
+
+Mas sei lá, eu não estou com altas esperanças delas voltarem.
+
+Se os engenheiros arrumassem os três primeiros itens desse post eu já me daria por satisfeito.
+
+Enquanto isso não acontece, quem sabe eu não vou testando o Apple Music.

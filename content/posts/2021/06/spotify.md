@@ -33,7 +33,7 @@ Soa total como *problema de primeiro mundo*, mas se você tem o hábito de ouvir
 
 > É um aumento de 100% de cliques :woozy_face:
 
-Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação para colocar seus artistas/álbuns/podcasts que desejam ter à mão.
+Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação para colocar seus artistas/álbuns/podcasts que desejem ter à mão.
 
 &nbsp;
 &nbsp;

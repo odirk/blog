@@ -12,11 +12,11 @@ draft: false
 
 Por que, Spotify? Por que?
 
-Quem liderou esse novo projeto de interface é um imbecil. Remover funcionalidades e aumentar o número de cliques para realizar ações comuns é vergonhoso.
-
-É desconcertante o quão ruim é essa nova UI.
+Quem liderou esse novo projeto de interface merece um prêmio. Remover funcionalidades e aumentar o número de cliques para realizar ações comuns é vergonhoso.
 
 Eu não entendo a lógica da atualização. 
+
+Um software que não era bom, ficou ruim.
 
 &nbsp;
 &nbsp;
@@ -132,24 +132,34 @@ Quando você clica, uma barra de pesquisa é exibida?
 &nbsp;
 &nbsp;
 
-### 11. O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. 
+### 11. O Friend Activity possui informações repetidas.
+
+O ponto azul na parte superior dos perfis na barra do Friend Activity e o ícone de escuta ativa após o nome são redundantes. 
 
 Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 
 &nbsp;
 &nbsp;
 
-### 12. Eles também condensaram o título da música e o artista na mesma linha no feed da atividade, o que torna difícil de ler.
+### 12. Eles não sabem o que fazer com o Friend Activity.
 
-Aliás, quando é que o Spotify pretende realmente implementar funções sociais no serviço?
+Eles condensaram o título da música e o artista na mesma linha no feed da atividade, **o que torna difícil de ler**, só para que mais pessoas apareçam na lista. 
+
+Por que? Não é como se o Spotify fosse realmente uma rede social.
 
 O Friend Activity nada mais é que um BBB das pessoas que você segue.
 
-Por que não implementar mensagens/reações?
+É uma função com tantas oportunidades perdidas.
+
+Por que não implementar mensagens/reações para interagir com os seguidores?
 
 Por que eu não posso sabem quem segue as minhas playlists?
 
 Por que eu não posso bloquear usuários da minha conta?
+
+Então por que dificultar a leitura do feed condensando as informações?
+
+E como eles ousam colocar a título da música antes do artista!! Que sacrilégio.
 
 No fim, esse feed "informativo" é pouco explorado e acaba meio sem propósito, meio que um apêndice do serviço.
 
@@ -158,7 +168,9 @@ No fim, esse feed "informativo" é pouco explorado e acaba meio sem propósito, 
 
 ### 13. Eu não gosto de como eles apresentam as músicas dentro de um álbum. 
 
-Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
+Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? 
+
+As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
 
 &nbsp;
 &nbsp;
@@ -169,7 +181,7 @@ Sei lá, cara.
 
 Fiquei bem decepcionado com as mudanças, tanto que estou ouvindo bem menos música do que antigamente.
 
-> Ótimo para o Spotify, que continua recebendo minha mensalidade e paga menos royalties para os artistas.
+O que é ótimo para o Spotify, que continua recebendo minha mensalidade e paga menos royalties para os artistas. ~~Seria isso proposital?~~
 
 Sendo bem sincero, eu considero deixar o serviço e ir do [Apple Music](https://music.apple.com/br/). O catálago de músicas é parecido, o valor mensal é até um pouco mais baixo (R$ 16,90), e, mais importante, eles transmitem áudio **sem perda de qualidade** ([Lossless](https://www.apple.com/br/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)).
 
@@ -179,7 +191,9 @@ As únicas coisas que ainda me prendem no serviço são o Spotify Connect e a in
 
 Se fosse para ficar no Spotify, eu vejo as seguintes soluções.
 
-Eu cheguei a baixar a última versão do design antigo para fazer um downgrade. Precisaria instalar ela e alterar o chmode dos arquivos para read-only. Assim o Spotify não se atualizaria sozinho (aliás, é um absurdo que não exista a opção para desligar as atualizações automáticas).
+Eu cheguei a baixar a última versão do design antigo para fazer um downgrade, mas eu precisaria fazer uns ajustes para que ela fosse permanente (já que o software se atualiza automaticamente).
+
+Seria necessário instalar a versão antiga e alterar o chmode dos arquivos para read-only. Nada difícil, só mildly annoying. Assim o Spotify não se atualizaria sozinho (aliás, é um absurdo que não exista a opção para desligar as atualizações automáticas).
 
 Mas, considerando que eles estão forçando essa atualização aos usuários, é bem provável que as versões antigas estejam condenadas a uma obsolescência planejada. Vejo isso como uma solução paliativa.
 
@@ -193,9 +207,7 @@ Resolve alguns problemas de design que eu mencionei, mas outros (como a questão
 
 O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vão~~ podem quebrar com qualquer atualização do software original do Spotify, o que vai lhe levar novamente para a estaca zero.
 
-*sigh*
-
-Aff.
+*sigh*.
 
 Eu li [o post dos desenvolvedores a respeito da atualização](https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/) e, do ponto de vista deles, faz sentido integrar os sistemas dos clientes web e desktop.
 

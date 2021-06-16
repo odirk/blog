@@ -33,7 +33,10 @@ Soa total como *problema de primeiro mundo*, mas se você tem o hábito de ouvir
 
 > É um aumento de 100% de cliques :woozy_face:
 
-Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação.
+Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação para colocar seus artistas/álbuns/podcasts que desejam ter à mão.
+
+&nbsp;
+&nbsp;
 
 ### 2. Por que diabos os álbuns não ficam salvos no cache do programa?
 
@@ -45,7 +48,7 @@ Dependendo do número de álbuns salvos, quando você está rolando para baixo u
 
 A UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Isso é um enorme dissabor quando você tem centenas de álbuns na bilbioteca. 
 
-Além do mais, como apenas 50 álbuns são carregados de cada vez, eu não posso clicar e arrastar a barra de rolagem para até aonde eu gostaria de ir (diferentemente da versão mobile). 
+Além do mais, como apenas 50 álbuns são carregados de cada vez, eu não posso arrastar a barra de rolagem para a letra inicial que eu gostaria de ir (diferentemente da versão mobile). 
 
 E o pior, como a listagem dos álbuns não fica salva no cache, toda vez que eu reabro os álbuns, eu sou obrigado a me arrastar por toda biblioteca novamente. Que inferno.
 
@@ -54,35 +57,62 @@ Update:
 Yay! Eles consertaram isso!
 ```
 
-### 3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
+&nbsp;
+&nbsp;
+
+### 3. O Spotify não lembra de onde você saiu das páginas
+
+Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
 
 Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
+
+&nbsp;
+&nbsp;
 
 ### 4. Sem barra de pesquisa persistente.
 
 POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?
 
-```
-Side note: Cmd/Ctrl + L ainda funciona.
-```
+```Side note: Cmd/Ctrl + L ainda funciona.```
+
+&nbsp;
+&nbsp;
 
 ### 5. Não consigo ver quando novos álbuns/singles foram lançados.
 
 No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
 
-### 6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. 
+&nbsp;
+&nbsp;
+
+### 6. Por que unir o título da música e o artista em uma coluna? 
+
+Enquanto mantém o álbum, a data adicionada e a duração da música em colunas exclusivas. 
 
 Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
 
-### 7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música?
+&nbsp;
+&nbsp;
+
+### 7. Os espaçamentos das colunas são mal distribuídos
+
+Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música?
 
 O título tende a ser o item mais comprido. Por isso, ele frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
 
 {{< figure align=center src="/spotify/introspective.png" >}}
 
-### 8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
+&nbsp;
+&nbsp;
+
+### 8. Todas páginas são feias
+
+Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
 
 Ocupam metade da tela e são feios de doer. Parece que eles estão tentando esconder as músicas.
+
+&nbsp;
+&nbsp;
 
 ### 9. Clicar no meu perfil no canto superior direito me leva a um menu. 
 
@@ -90,17 +120,26 @@ Deveria me levar direto ao perfil.
 
 Acho que mais apropriado trocar o botão de perfil por uma :gear:, já que o menu oferece opções de conta, configurações, etc.
 
-### 10.  Não entendo o Find More na parte inferior de uma playlist. 
+&nbsp;
+&nbsp;
+
+### 10. Não entendo o Find More na parte inferior de uma playlist. 
 
 Quando você clica, uma barra de pesquisa é exibida? 
 
 {{< figure align=center src="/spotify/find-more.png" >}}
 
-### 11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. 
+&nbsp;
+&nbsp;
+
+### 11. O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. 
 
 Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 
-### 12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
+&nbsp;
+&nbsp;
+
+### 12. Eles também condensaram o título da música e o artista na mesma linha no feed da atividade, o que torna difícil de ler.
 
 Aliás, quando é que o Spotify pretende realmente implementar funções sociais no serviço?
 
@@ -114,7 +153,10 @@ Por que eu não posso bloquear usuários da minha conta?
 
 No fim, esse feed "informativo" é pouco explorado e acaba meio sem propósito, meio que um apêndice do serviço.
 
-### 13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. 
+&nbsp;
+&nbsp;
+
+### 13. Eu não gosto de como eles apresentam as músicas dentro de um álbum. 
 
 Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
 

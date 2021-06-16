@@ -35,7 +35,7 @@ Soa total como *problema de primeiro mundo*, mas se você tem o hábito de ouvir
 
 Solução: tragam os álbuns de volta para o menu (d'oh). Ou permitam que o usuário possa editar o menu de navegação.
 
-**2.** Por que diabos os álbuns não ficam salvos no cache do programa?
+### 2. Por que diabos os álbuns não ficam salvos no cache do programa?
 
 Antigamente todos os álbuns eram carregados instantaneamente. E, se você usasse o atalho Cmd/Ctrl + End, você iria para o final da lista. Fim.
 
@@ -54,39 +54,39 @@ Update:
 Yay! Eles consertaram isso!
 ```
 
-3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
+#### 3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
 
 Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 
-4. Sem barra de pesquisa persistente.
+#### 4. Sem barra de pesquisa persistente.
 
 **POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?**
 
 > Side note: Cmd/Ctrl + L ainda funciona.
 
-5. Não consigo ver quando novos álbuns/singles foram lançados.
+#### 5. Não consigo ver quando novos álbuns/singles foram lançados.
 
 No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
 
-6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
+#### 6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
 
-7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música (que tende a ser o item mais comprido). O título da música frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
+#### 7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música (que tende a ser o item mais comprido). O título da música frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
 
 {{< figure align=center src="/spotify/introspective.png" >}}
 
-8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
+#### 8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
 
-9. Clicar no meu perfil no canto superior direito me leva a um menu ao invés de ir direto para perfil.
+#### 9. Clicar no meu perfil no canto superior direito me leva a um menu ao invés de ir direto para perfil.
 
-10.  Não entendo o Find More na parte inferior de uma playlist. Quando você clica, uma barra de pesquisa é exibida? 
+#### 10.  Não entendo o Find More na parte inferior de uma playlist. Quando você clica, uma barra de pesquisa é exibida? 
 
 {{< figure align=center src="/spotify/find-more.png" >}}
 
-11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
+#### 11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 
-12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
+#### 12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
 
-13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
+#### 13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
 
 &nbsp;
 &nbsp;

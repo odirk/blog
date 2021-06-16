@@ -16,14 +16,14 @@ Quem liderou esse novo projeto de interface é um imbecil. Remover funcionalidad
 
 É desconcertante o quão ruim é essa nova UI.
 
-Eu não entendo a lógica da atualização. Parece que eles estão tentando esconder as músicas.
+Eu não entendo a lógica da atualização. 
 
 &nbsp;
 &nbsp;
 
 ## 13 Reasons Why
 
-#### 1. Por que esconder os álbuns dentro de uma aba da Your Library?
+### 1. Por que esconder os álbuns dentro de uma aba da Your Library?
 
 Antigamente os álbuns eram um botão fixo no menu de navegação à esquerda. Bastava um clique para ir para lá.
 
@@ -54,39 +54,69 @@ Update:
 Yay! Eles consertaram isso!
 ```
 
-#### 3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
+### 3. Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra página e depois volto, ela me envia para o topo da playlist/álbum, não onde eu não estava quando saí.
 
 Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 
-#### 4. Sem barra de pesquisa persistente.
+### 4. Sem barra de pesquisa persistente.
 
-**POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?**
+POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?
 
-> Side note: Cmd/Ctrl + L ainda funciona.
+```
+Side note: Cmd/Ctrl + L ainda funciona.
+```
 
-#### 5. Não consigo ver quando novos álbuns/singles foram lançados.
+### 5. Não consigo ver quando novos álbuns/singles foram lançados.
 
 No design anterior, você podia ver isso no topo da página do artista na seção Latest Release. Agora está na seção Discografia, e só clicando nele você vê o ano de lançamento.
 
-#### 6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
+### 6. Por que unir o título da música e o artista em uma coluna, mas manter o álbum, a data adicionada e a duração da música em colunas exclusivas. 
 
-#### 7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música (que tende a ser o item mais comprido). O título da música frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
+Isso confunde. As colunas devem ser: título da música, artista, álbum, duração e data adicionada.
+
+### 7. Por que dar a mesma quantidade de espaço na tela ao Álbum e à Data Adicionada quanto ao título da música?
+
+O título tende a ser o item mais comprido. Por isso, ele frequentemente fica cortado e você não pode passar o mouse sobre ele para revelar o título completo.
 
 {{< figure align=center src="/spotify/introspective.png" >}}
 
-#### 8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
+### 8. Eu odeio os retângulos pretos altos enormes que eles colocam ao redor das imagens nas páginas dos artistas, playlists, meu perfil, etc. 
 
-#### 9. Clicar no meu perfil no canto superior direito me leva a um menu ao invés de ir direto para perfil.
+Ocupam metade da tela e são feios de doer. Parece que eles estão tentando esconder as músicas.
 
-#### 10.  Não entendo o Find More na parte inferior de uma playlist. Quando você clica, uma barra de pesquisa é exibida? 
+### 9. Clicar no meu perfil no canto superior direito me leva a um menu. 
+
+Deveria me levar direto ao perfil.
+
+Acho que mais apropriado trocar o botão de perfil por uma :gear:, já que o menu oferece opções de conta, configurações, etc.
+
+### 10.  Não entendo o Find More na parte inferior de uma playlist. 
+
+Quando você clica, uma barra de pesquisa é exibida? 
 
 {{< figure align=center src="/spotify/find-more.png" >}}
 
-#### 11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
+### 11.  O ponto azul na parte superior dos perfis na barra do Friend Activity **E** o ícone de escuta ativa após o nome são redundantes. 
 
-#### 12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
+Além disso, as barras estáticas são menos interessantes do que os alto-falantes animados.
 
-#### 13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
+### 12.  Eles também condensaram o título da música e o artista na mesma linha no feed da atividade dos amigo, o que torna difícil de ler.
+
+Aliás, quando é que o Spotify pretende realmente implementar funções sociais no serviço?
+
+O Friend Activity nada mais é que um BBB das pessoas que você segue.
+
+Por que não implementar mensagens/reações?
+
+Por que eu não posso sabem quem segue as minhas playlists?
+
+Por que eu não posso bloquear usuários da minha conta?
+
+No fim, esse feed "informativo" é pouco explorado e acaba meio sem propósito, meio que um apêndice do serviço.
+
+### 13.  Eu não gosto de como eles apresentam as músicas dentro de um álbum. 
+
+Eu meio que gosto que eles incluam o número mais concreto de execuções, mas ao mesmo tempo eu não me importo? As barras de popularidade eram muito mais elegantes (e poderiam mostrar o número exato se você pairasse o mouse sobre ela).
 
 &nbsp;
 &nbsp;

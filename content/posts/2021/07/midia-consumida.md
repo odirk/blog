@@ -1,9 +1,9 @@
 ---
-title: "Mídia consumida (Junho)"
-date: "2021-06-30"
+title: "Mídia consumida (Julho)"
+date: "2021-07-31"
 tags: ["media-diet", "film", "TV", "books", "música"]
 description: "O que ando fazendo no meu tempo livre?"
-draft: false
+draft: true
 ---
 
 Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi desde o início do mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
@@ -23,7 +23,7 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 &nbsp;
 &nbsp;
 
-### Álbuns novos
+### Álbuns
 
 - Erika de Casier - [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one?si=Gxyt5gMNRBCaxjee6K2R4A) (R&B). (7.5);
 - Japanese Breakfast - [Jubilee](https://open.spotify.com/album/0ajoNtBO6xHfWEkORtRCAv?si=z3yGcZY2SCO1afK0zS0Mqw) (Rock). (7);
@@ -31,7 +31,7 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 - Angélique Kidjo - [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5?si=TE682HiaT1eYojOfirI6jg) (R&B). (7.5);
 - Tyler, The Creator - [Call Me If You Get Lost](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9?si=fWVtNJCDS1OHQO7G8x5HTA) (Rap). (8);
 - Marina - [Ancient Dreams in a Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd?si=gAZ5oiFkSWGOTPoA34rxEA) (Pop). (6).
-  
+
 Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-06-01&to=2021-06-30).
 
 &nbsp;
@@ -54,11 +54,6 @@ Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/a
 
 ### Séries
 
-- [Final Space](https://www.imdb.com/title/tt6317068/), (S03). Segunda metade da temporada melhora consideravelmente. (8);
-- [Modern Family](https://www.imdb.com/title/tt1442437/), (S11). Nossa, fraquíssima essa última temporada. (4);
 - [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S03). :smiling_face_with_tear: (10);
 - [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). *Oof*, o que foram esses últimos episódios focados no CJ? :clap: (7);
 - [Cheers](https://www.imdb.com/title/tt0083399/), (S01~03). A origem de Frasier! Divertido, apesar de algumas piadas serem bem datadas. (7);
-- [The Kominsky Method](https://www.imdb.com/title/tt7255502/), (S03). Sei não, achei meio sem graça sem o Alan Arkin. Pelo menos conseguiram encerrar a história. (6);
-- [How to with John Wilson](https://www.imdb.com/title/tt10801534/), (S01). Viúvas de [Nathan For You](https://www.imdb.com/title/tt2297757/), rejoice! (8);
-- [Clarkson's Farm](https://www.imdb.com/title/tt10541088/), (S01). Jeremy Clarkson compra uma fazenda e tenta torná-la produtiva. Highly entertaining. (8).

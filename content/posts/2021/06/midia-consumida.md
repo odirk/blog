@@ -17,7 +17,7 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 - [Na pior em Paris e Londres](https://www.amazon.com.br/Na-pior-em-Paris-Londres/dp/8535921605), Orwell. Lido por recomendação de Anthony Bordain, em [Cozinha Confidencial](https://www.amazon.com.br/Cozinha-confidencial-Anthony-Bourdain/dp/8592754038). Uma quase autobiografia da vida dele, vivendo na pobreza, em Paris e Londres. Recomendado para quem quiser ler uma descrição vívida de como é viver nas margens da sociedade. (8);
 - [Os sentidos do lulismo](https://www.amazon.com.br/Os-sentidos-lulismo-Andr%C3%A9-Singer/dp/8535921583), Singer. Interessante genealogia do PT, fundamental para entender a vinculação às classes mais baixas. (7);
 - [O mito de Sísifo](https://www.amazon.com.br/Mito-S%C3%ADsifo-Albert-Camus/dp/8501111643/), Camus. “In order to understand the world, one has to turn away from it on occasion." (9).
-- [Paris é uma festa](https://www.amazon.com.br/Paris-uma-festa-Ernest-Hemingway/dp/8528618005), Hemingway. (7.5);
+- [Paris é uma festa](https://www.amazon.com.br/Paris-uma-festa-Ernest-Hemingway/dp/8528618005), Hemingway. Outra autobiografia (também em Paris!) que só faz aumentar a vontade de viajar. (7.5);
 - [Torto arado](https://www.amazon.com.br/Torto-arado-Itamar-Vieira-Junior/dp/6580309318), Vieira Junior. Excelente! Romance com uma estrutura clássica, narrativa com vários núcleos e arcos, do ponto de vista de duas irmãs. Recomendado. (9).
 
 &nbsp;

@@ -46,7 +46,7 @@ Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/a
 
 - [Cruella](https://www.imdb.com/title/tt3228774/) (2021). Bem legal. As atuações das duas Emmas estão ótimas, no nível certo de over-the-top. A produção e figurinos são ótimos. O problema é que eu meio que cansei desses filmes da Disney, estão saturando o mercado e eu acabei assistindo esse filme na obrigação. Mas ele é bem divertido, vale a pena conferir. (7);
 - [Shiva Baby](https://www.imdb.com/title/tt11317142/) (2020). Dolorosamente desconfortável, uma filme bem engraçado que faz você se arrepiar. (8);
-- [Top Secret!](https://www.imdb.com/title/tt0088286/) (1984).  Não é como Apertem os Cintos o Piloto Sumiu, mas Top Secret! é uma comédia-pastelão mais engraçada que muito filme atual. (7);
+- [Top Secret!](https://www.imdb.com/title/tt0088286/) (1984).  Não é como [Apertem os Cintos... o Piloto Sumiu!](https://www.imdb.com/title/tt0080339/), mas Top Secret! é uma comédia-pastelão mais engraçada que muito filme atual. (7);
 - [In the heights](https://www.imdb.com/title/tt1321510/) (2021).  Do começo ao fim, eu me diverti muito. (8).
 
 &nbsp;

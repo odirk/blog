@@ -30,7 +30,7 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 - Bo Burnham - [Inside](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3?si=r44ubIOeTnWblWJIHTnrQw) (Comédia). (8);
 - Angélique Kidjo - [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5?si=TE682HiaT1eYojOfirI6jg) (R&B). (7.5);
 - Tyler, The Creator - [Call Me If You Get Lost](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9?si=fWVtNJCDS1OHQO7G8x5HTA) (Rap). (8);
-- Marina - [Ancient Dreams in a Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd?si=gAZ5oiFkSWGOTPoA34rxEA) (Pop). (6);
+- Marina - [Ancient Dreams in a Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd?si=gAZ5oiFkSWGOTPoA34rxEA) (Pop). (6).
 
 &nbsp;
 &nbsp;

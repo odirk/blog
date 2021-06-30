@@ -14,9 +14,7 @@ Por que, Spotify? Por que?
 
 Quem liderou esse novo projeto de interface merece um prêmio. Remover funcionalidades e aumentar o número de cliques para realizar ações comuns é vergonhoso.
 
-Eu não entendo a lógica da atualização. 
-
-Um software que não era bom, ficou ruim.
+Conseguiram transformar um software que não era bom em ruim.
 
 &nbsp;
 &nbsp;
@@ -44,7 +42,7 @@ Antigamente todos os álbuns eram carregados instantaneamente. E, se você usass
 
 Agora apenas os primeiros 50 álbuns são carregados. Quando você rola a página para baixo, os próximos 50 serão carregados (mas apenas se você chegar ao final dos primeiros 50). 
 
-Dependendo do número de álbuns salvos, quando você está rolando para baixo usando a roda do mouse, a UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Agora imagine quando você tem centenas de álbuns na bilbioteca. 
+Dependendo do número de álbuns salvos, quando você está rolando para baixo usando a roda do mouse, a UX é prejudicada porque o programa leva frações de segundo para carregar o próximo lote de álbuns. Agora imagine quando você tem centenas de álbuns na biblioteca. 
 
 Além do mais, como apenas 50 álbuns são carregados de cada vez, eu não posso arrastar a barra de rolagem para a letra inicial que eu gostaria de ir (diferentemente da versão mobile). 
 
@@ -64,6 +62,10 @@ Quando saio de uma playlist/álbum que estou ouvindo no momento, vou para outra 
 
 Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 
+```
+Update: Consertado!
+```
+
 &nbsp;
 &nbsp;
 
@@ -71,7 +73,7 @@ Uma funcionalidade tão simples, mas faz toda a diferença em playlists grandes.
 
 POR QUE A BARRA DE PESQUISA ESTÁ ESCONDIDA ATRÁS DE UM CLIQUE?
 
-```Side note: Cmd/Ctrl + L ainda funciona.```
+```Felizmente o Cmd/Ctrl + L ainda funciona.```
 
 &nbsp;
 &nbsp;
@@ -183,7 +185,7 @@ Fiquei bem decepcionado com as mudanças, tanto que estou ouvindo bem menos mús
 
 O que é ótimo para o Spotify, que continua recebendo minha mensalidade e paga menos royalties para os artistas. ~~Seria isso proposital?~~
 
-Sendo bem sincero, eu considero deixar o serviço e ir do [Apple Music](https://music.apple.com/br/). O catálago de músicas é parecido, o valor mensal é até um pouco mais baixo (R$ 16,90), e, mais importante, eles transmitem áudio **sem perda de qualidade** ([Lossless](https://www.apple.com/br/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)).
+Sendo bem sincero, eu considero deixar o serviço e ir do [Apple Music](https://music.apple.com/br/). O catálogo de músicas é parecido, o valor mensal é até um pouco mais baixo (R$ 16,90), e, mais importante, eles transmitem áudio **sem perda de qualidade** ([Lossless](https://www.apple.com/br/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/)).
 
 Ainda não bati o martelo nessa decisão, mas é algo bem tentador.
 
@@ -209,17 +211,17 @@ O tema que eu uso se parece com isso:
 
 {{< figure src="https://raw.githubusercontent.com/morpheusthewhite/spicetify-themes/v2/Dribbblish/nord-dark.png" title="Você pode redimensionar o feed e menu (e customizá-lo)." >}}
 
-O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vão~~ podem quebrar com qualquer atualização do software original do Spotify, **o que vai lhe levar novamente para a estaca zero**.
+O grande senão desse enjambre é que você acaba empilhando uma penca de CSS que ~~vai~~ pode quebrar com qualquer atualização do software original do Spotify, **o que vai lhe levar novamente para a estaca zero**.
 
 *sigh*.
 
 Eu li [o post dos desenvolvedores a respeito da atualização](https://engineering.atspotify.com/2021/04/07/building-the-future-of-our-desktop-apps/) e, do ponto de vista deles, faz sentido integrar os sistemas dos clientes web e desktop.
 
-O problema é que a atualização da versão desktop foi para pior. E essa era uma preocupação da equipe deles:
+O problema é que a atualização da versão desktop foi para pior, apesar de ter sido uma preocupação da equipe deles:
 
 ```There were risks, of course. Desktop had (and has) many more users than Web Player, and Spotify’s Desktop client is the place most of Spotify’s “power users” call home. We knew we would have a lot of work to do to bring our Web Player up to those power users’ exacting standards.```
 
-Não é à toa que vários usuários estão sugerindo na [página de suporte](https://community.spotify.com/t5/Ideas/ct-p/newideas) a reinclusão de várias funcionalidades antigas.
+Não é à toa que vários usuários estão sugerindo na [página de suporte](https://community.spotify.com/t5/Ideas/ct-p/newideas) a inclusão de várias funcionalidades antigas.
 
 Mas sei lá, eu não estou com altas esperanças delas voltarem.
 

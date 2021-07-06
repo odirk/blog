@@ -8,7 +8,7 @@ TocOpen: true
 draft: true
 ---
 
-Vou prefaciar dizendo que a maioria das minhas opiniões impopulares mudaram à medida que fui envelhecedo. 
+Vou prefaciar dizendo que a maioria das minhas opiniões impopulares mudaram com o tempo. 
 
 Agora que estou mais velho, acho que muitas pessoas na adolescência e na faixa dos 20 anos podem discordar desta opinião: toda música é boa.
 

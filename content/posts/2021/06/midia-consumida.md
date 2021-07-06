@@ -57,7 +57,7 @@ Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/a
 - [Final Space](https://www.imdb.com/title/tt6317068/), (S03). Segunda metade da temporada melhora consideravelmente. (8);
 - [Modern Family](https://www.imdb.com/title/tt1442437/), (S11). Nossa, fraquíssima essa última temporada. (4);
 - [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S03). :smiling_face_with_tear: (10);
-- [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). *Oof*, o que foram esses últimos episódios focados no CJ? :clap: (7);
+- [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). *Oof*, o que foram esses últimos episódios focados no CW? :clap: (7);
 - [Cheers](https://www.imdb.com/title/tt0083399/), (S01~03). A origem de Frasier! Divertido, apesar de algumas piadas serem bem datadas. (7);
 - [The Kominsky Method](https://www.imdb.com/title/tt7255502/), (S03). Sei não, achei meio sem graça sem o Alan Arkin. Pelo menos conseguiram encerrar a história. (6);
 - [How to with John Wilson](https://www.imdb.com/title/tt10801534/), (S01). Viúvas de [Nathan For You](https://www.imdb.com/title/tt2297757/), rejoice! (8);

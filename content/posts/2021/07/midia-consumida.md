@@ -13,25 +13,27 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 
 ### Livros
 
-- [A terra inabitável: Uma história do futuro](https://www.amazon.com.br/terra-inabit%C3%A1vel-Uma-hist%C3%B3ria-futuro/dp/8535932399), Wallace-Wells. Temática interessante, mas apresentada com pouco rigor científico. (4);
+- [Sobre a breviedade da vida](https://www.amazon.com.br/Sobre-brevidade-vida-firmeza-s%C3%A1bio/dp/8582850506), Sêneca. Leitura anual em comemoração ao meu aniversário :tada:. Short but sweet. (9);
+- Os três mosqueteiros, Dumas.
 
 &nbsp;
 &nbsp;
 
 ### Álbuns
 
-- Erika de Casier - [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one?si=Gxyt5gMNRBCaxjee6K2R4A) (R&B). (7.5);
+- Julian Lage - [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC?si=uS1OYqGXS1qgsfIMzMA8Yg) (Jazz). undoubtedly one of the greatest Westerns ever made. (8);
+- Feu! Chatterton - [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi?si=PmfdHek_R9y55qKAD39pew) (Rock). XXX. (X);
 
-Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-06-01&to=2021-06-30).
+Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-07-01&to=2021-07-31).
 
 &nbsp;
 &nbsp;
 
 ### Filmes
 
-- [Bo Burnham: Inside](https://www.imdb.com/title/tt14544192/) (2021). Extraordinário. Uma comédia musical extravagante de um homem só. Uma das respostas mais sinceras à pandemia. Recomendado. (9.5);
+- [The Searchers](https://www.imdb.com/title/tt0049730/) (1956). XXX (10);
 
-{{< youtube xHotXbGZiFY >}}
+> {{< youtube xHotXbGZiFY >}}
 
 &nbsp;
 &nbsp;
@@ -39,6 +41,9 @@ Veja aqui o [relatório completo](https://www.last.fm/user/GabrielDuro/library/a
 ### Séries
 
 - [BoJack Horseman](https://www.imdb.com/title/tt3398228/), (S03). :smiling_face_with_tear: (10);
-- [Mythic Quest: Raven's Banquet](https://www.imdb.com/title/tt8879940/), (S02). *Oof*, o que foram esses últimos episódios focados no CJ? :clap: (7);
-- [Cheers](https://www.imdb.com/title/tt0083399/), (S01~03). A origem de Frasier! Divertido, apesar de algumas piadas serem bem datadas. (7);
+- [Cheers](https://www.imdb.com/title/tt0083399/), (S01~03). (7);
 - [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S07). (6.5);
+- Tuca & Bertie
+- Rick and Morty
+- Feel Good
+- Master of None

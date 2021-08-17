@@ -14,7 +14,7 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 ### Livros
 
 - [Sobre a breviedade da vida](https://www.amazon.com.br/Sobre-brevidade-vida-firmeza-s%C3%A1bio/dp/8582850506), Sêneca. Leitura anual em comemoração ao meu aniversário :tada:. Short but sweet. (9);
-- [Os três mosqueteiros](https://www.amazon.com.br/Os-Tr%C3%AAs-Mosqueteiros-Cole%C3%A7%C3%A3o-Cl%C3%A1ssicos/dp/8537806048), Dumas. XXX. (X);
+- [O corcunda de Notre Dame]
 
 &nbsp;
 &nbsp;
@@ -22,8 +22,9 @@ Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está
 ### Álbuns novos
 
 - Julian Lage - [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC?si=uS1OYqGXS1qgsfIMzMA8Yg) (Jazz). XXX. (8);
+- Lingua Ignota - [Sinner Get Ready](https://open.spotify.com/album/06wtf2TCkmyTgS1yZGiSr5?si=bISTHEzBSdWQtGzQZsMhtw)
 
-Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-07-01&to=2021-07-31) o relatório completo.
+Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-08-01&to=2021-08-31) o relatório completo.
 
 &nbsp;
 &nbsp;

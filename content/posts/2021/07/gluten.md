@@ -19,7 +19,7 @@ Tudo que eu aprendi sobre esse assunto é por que uma pessoa próxima de mim foi
 
 Eu estou ciente da existência de alguns proponentes da "dieta sem glúten" para pessoas que não são celícas e eu acho isso uma tamanha baboseira, sem lastro científico convincente.
 
-> "Mas eu emagreço quando deixo de comer glúten!"\
+> `"Mas eu emagreço quando deixo de comer glúten!"`\
 Você emagrece por que está se alimentando com produtos menos caloricamente densos. Chocante, eu sei.
 
 A ideia para escrever esse artigo é reunir alguns aprendizados que tive nesses últimos meses de uma maneira semi-inteligível, para que outros não cometam os mesmos erros que eu.

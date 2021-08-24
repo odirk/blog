@@ -12,14 +12,12 @@ Estou com uma TV nova da Samsung há uns meses e percebi que ela fica motrando a
 
 Minha primeira reação foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei por ela e eles não têm o direito de ganhar ainda mais dinheiro às minhas custas.
 
-&nbsp;
-&nbsp;
+---
 
 {{< youtube RfprRZQxWps >}}
 > Fucking double dippers, Jerry!
 
-&nbsp;
-&nbsp;
+---
 
 Eu verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção pareceu muito tediosa e demorada.
 
@@ -39,7 +37,7 @@ Esse endereço deve estar escrito na lateral de seu roteador (geralmente é [htt
 
 ### 2. Acesse a página de DNS
 
-Localize a página sobre o DNS. Na NET/Claro, fica dentro do menu nas *Configurações avançadas*.
+Localize a página sobre o DNS. Na NET/Claro, fica dentro do menu nas *Configurações avançadas*, em *Rede*.
 
 > O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e isso funciona contra as propagandas da Samsung e com outras incoveniências também.
 

@@ -41,7 +41,7 @@ Esse endereço deve estar escrito na lateral de seu roteador (geralmente é [htt
 
 Localize a página sobre o DNS. (Na Claro ficam dentro das *Configurações avançadas*).
 
-O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e eles funcionam contra as propagandas da Samsung.
+> O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e eles funcionam contra as propagandas da Samsung.
 
 Adicione os seguintes endereços na página:
 

@@ -10,14 +10,7 @@ Estou com uma TV nova da Samsung há uns meses e percebi que ela fica motrando a
 
 {{< figure align=center src="/samsung/ad.jpg" title="Enfurecedor, não é?" >}}
 
-Minha primeira reação foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei por ela e eles não têm o direito de ganhar ainda mais dinheiro às minhas custas.
-
----
-
-{{< youtube RfprRZQxWps >}}
-> Fucking double dippers, Jerry!
-
----
+Minha primeira reação foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei por ela e eles não têm o direito de ganhar ainda mais dinheiro às minhas custas. (["You double-dipped the chip!"](https://www.youtube.com/watch?v=RfprRZQxWps)
 
 Eu verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção pareceu muito tediosa e demorada.
 

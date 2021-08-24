@@ -12,20 +12,33 @@ Estou com uma tv nova da Samsung há uns meses e percebi que existem anúncios d
 
 Minha primeira resposta foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei o preço pela TV e eles não têm o direito de fazer nada na TV.
 
+&nbsp;
+&nbsp;
+
 {{< youtube RfprRZQxWps >}}
 > Fucking double dippers, Jerry!
+
+&nbsp;
+&nbsp;
 
 Eu até verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção parecia tediosa e exigiu mais tempo.
 
 Mas, para minha surpresa, bloquear anúncios na sua smart foi muito simples. Basta filtrar um monte de domínios ou alterar o DNS no seu roteador de internet. Para fazer isso, siga as etapas abaixo:
 
-1. Abra a página de configuração do seu roteador. Para isso, abra a página de configuração do roteador em um navegador da web em um computador/celular conectado à sua rede.
+&nbsp;
+&nbsp;
+
+### 1. Acesse o router
+
+Abra a página de configuração do seu roteador. Para isso, abra a página de configuração do roteador em um navegador da web em um computador/celular conectado à sua rede.
 
 Esse endereço deve estar escrito na lateral de seu roteador (geralmente é http://192.168.0.1), junto com login e senha.
 
-2. Localize a página sobre o DNS. (Na Claro ficam dentro das *Configurações avançadas*).
+### 2. Acesse a página de DNS
 
-3. O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e eles funcionam contra as propagandas da Samsung.
+Localize a página sobre o DNS. (Na Claro ficam dentro das *Configurações avançadas*).
+
+O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e eles funcionam contra as propagandas da Samsung.
 
 Adicione os seguintes endereços na página:
 
@@ -36,6 +49,8 @@ Adicione os seguintes endereços na página:
 
 {{< figure align=center src="/samsung/claro.png" >}}
 
-4. Clique em salvar e é só isso!
+### 3. Salve as alterações
+
+Clique em salvar e é só isso!
 
 As propagandas ainda vão continuar aparecendo por alguns dias (pois estão salvas na televisão), mas todas elas deixarão de aparecer dentro de alguns dias. :tada:

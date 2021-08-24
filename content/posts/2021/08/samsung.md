@@ -23,14 +23,14 @@ Minha primeira reação foi de total indiganação, como a Samsung pode exibir a
 
 Eu verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção pareceu muito tediosa e demorada.
 
-Mas, para minha surpresa, bloquear anúncios na sua smart é muito simples do que esperava. Basta seguir as etapas abaixo:
+Mas, para minha surpresa, bloquear anúncios na sua TV é muito simples do que esperava. Basta seguir as etapas abaixo:
 
 &nbsp;
 &nbsp;
 
 ### 1. Acesse o router
 
-Abra a página de configuração do seu roteador. Para isso, acesse o endereço do roteador em um navegador em um computador/celular conectado à sua rede.
+Abra a página de configuração do seu roteador. Para isso, acesse o endereço do roteador em um navegador em um dispositivo conectado à sua rede.
 
 Esse endereço deve estar escrito na lateral de seu roteador (geralmente é [http://192.168.0.1](http://192.168.0.1)), junto com login e senha.
 
@@ -39,7 +39,7 @@ Esse endereço deve estar escrito na lateral de seu roteador (geralmente é [htt
 
 ### 2. Acesse a página de DNS
 
-Localize a página sobre o DNS. (Na Claro ficam dentro das *Configurações avançadas*).
+Localize a página sobre o DNS. Na NET/Claro, fica dentro do menu nas *Configurações avançadas*.
 
 > O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e isso funciona contra as propagandas da Samsung e com outras incoveniências também.
 

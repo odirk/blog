@@ -6,11 +6,11 @@ description: "I'm sorry, Dave. I'm afraid I can't do that."
 draft: false
 ---
 
-Estou com uma TV nova da Samsung há uns meses e percebi que existem anúncios da Samsung na barra de input (aquela em que você escolhe a fonte de entrada ou acessa apps).
+Estou com uma TV nova da Samsung há uns meses e percebi que ela fica motrando anúncios na barra de input (aonde você escolhe a fonte de entrada ou acessa apps).
 
 {{< figure align=center src="/samsung/ad.jpg" title="Enfurecedor, não é?" >}}
 
-Minha primeira resposta foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei por ela e eles não têm o direito de ganhar mais dinheiro (às minhas custas) com de anunciantes.
+Minha primeira reação foi de total indiganação, como a Samsung pode exibir anúncios na minha TV sem o meu consentimento? Eu paguei por ela e eles não têm o direito de ganhar ainda mais dinheiro às minhas custas.
 
 &nbsp;
 &nbsp;
@@ -21,7 +21,7 @@ Minha primeira resposta foi de total indiganação, como a Samsung pode exibir a
 &nbsp;
 &nbsp;
 
-Eu verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção pareceu tediosa e demorada.
+Eu verifiquei se é possível formatar o sistema operacional da TV e instalar algo de código aberto mais orientado para privacidade, mas essa opção pareceu muito tediosa e demorada.
 
 Mas, para minha surpresa, bloquear anúncios na sua smart é muito simples do que esperava. Basta seguir as etapas abaixo:
 
@@ -41,7 +41,7 @@ Esse endereço deve estar escrito na lateral de seu roteador (geralmente é [htt
 
 Localize a página sobre o DNS. (Na Claro ficam dentro das *Configurações avançadas*).
 
-> O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e eles funcionam contra as propagandas da Samsung e outras incoveniências.
+> O [AdGuard](https://adguard.com/pt_br/adguard-dns/overview.html) possui servidores de DNS que bloqueiam propagandas na web, e isso funciona contra as propagandas da Samsung e com outras incoveniências também.
 
 Adicione os seguintes endereços na página:
 
@@ -59,4 +59,4 @@ Adicione os seguintes endereços na página:
 
 Clique em salvar e é só isso!
 
-As propagandas ainda vão continuar aparecendo por alguns dias (pois estão salvas na televisão), mas todas **elas deixarão de aparecer em breve**. :tada:
+As propagandas ainda vão continuar aparecendo por um ou dois dias (pois estão salvas na televisão), mas **elas deixarão de aparecer em breve**. :tada:

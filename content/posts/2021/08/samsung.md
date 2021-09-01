@@ -1,7 +1,7 @@
 ---
 title: "Bloqueando propagandas em Smart TVs"
 date: "2021-08-24"
-tags: ["tech"]
+tags: ["tech", "privacidade"]
 description: "'I'm sorry, Dave. I'm afraid I can't do that.'"
 draft: false
 ---

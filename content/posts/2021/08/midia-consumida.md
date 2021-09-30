@@ -3,7 +3,7 @@ title: "Mídia consumida (Agosto)"
 date: "2021-08-31"
 tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
-draft: false
+draft: true
 ---
 
 Seguem os filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi desde o início do mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)

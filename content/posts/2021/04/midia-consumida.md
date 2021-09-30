@@ -1,9 +1,9 @@
 ---
 title: "Mídia consumida (Abril)"
 date: "2021-04-30"
-tags: ["media-diet", "film", "TV", "books", "música"]
+tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
-draft: false
+draft: true
 ---
 
 Puta merda, que falta de ir ao cinema.

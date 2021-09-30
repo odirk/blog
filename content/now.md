@@ -17,9 +17,7 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 &nbsp;
 &nbsp;
 
-### Culinária
-
-:cook:
+### Culinária :cook:
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 

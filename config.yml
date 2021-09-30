@@ -123,14 +123,14 @@ menu:
           name: archive
           url: /archives/
           weight: 30
-        - identifier: about
-          name: about
-          url: /about/
-          weight: 10
           - identifier: now
           name: now
           url: /now/
           weight: 20
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 10
 outputs:
     home:
         - HTML

@@ -78,11 +78,7 @@ Eu comecei uma pequena horta no meu apartamento!
 
 Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol pela manhã) para plantar uns temperos.
 
-Até agora eu tenho:
-
-Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (cebolette), salsa, manjericão.
-
-[pic]
+{{< figure align=center src="/horta.JPG" title="Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (cebolette), salsa, manjericão." >}}
 
 Not bad, huh?
 

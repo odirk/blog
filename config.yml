@@ -42,7 +42,7 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/static/favico.ico"
+        favicon: "/static/favicon.ico"
         favicon16x16: "/static/favicon-16x16.png"
         favicon32x32: "/static/favicon-32x32.png"
         apple_touch_icon: "/static/apple-touch-icon.png"
@@ -81,7 +81,7 @@ params:
         - name: lastfm
           url: "https://www.last.fm/user/GabrielDuro"
         - name: spotify
-          url: "https://open.spotify.com/user/odirk?si=66f1322e394a4b0c"
+          url: "https://open.spotify.com/user/odirk"
         - name: email
           url: "mailto:www@odirk.org"
 

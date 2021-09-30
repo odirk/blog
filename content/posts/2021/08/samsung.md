@@ -1,9 +1,9 @@
 ---
-title: "Bloqueando propagandas em Smart TVs"
+title: "As propagandas estão fora de controle"
 date: "2021-08-24"
 tags: ["tech", "privacidade"]
 description: "'I'm sorry, Dave. I'm afraid I can't do that.'"
-draft: false
+draft: true
 ---
 
 Estou com uma TV nova da Samsung há uns meses e percebi que ela fica motrando anúncios na barra de input (aonde você escolhe a fonte de entrada ou acessa apps).

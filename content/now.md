@@ -42,15 +42,17 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-Recentemente comprei uma termocirculadora e ando fazendo várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
+1. Recentemente comprei uma termocirculadora e ando fazendo várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
 
-Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
+2. Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
 
 > O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:).
 
 A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
 
 [^1]: [citation needed] :upside_down_face:
+
+3. Licores
 
 &nbsp;
 &nbsp;
@@ -82,7 +84,7 @@ Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol 
 
 Not bad, huh?
 
-A ideia é utilizá-las no meu dia-a-dia.
+Vou esperar elas crescerem um pouco antes de depenar as coitadas, mas ideia é utilizá-las no meu dia-a-dia.
 
 &nbsp;
 &nbsp;

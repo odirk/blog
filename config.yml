@@ -42,7 +42,7 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/static/favico.png"
+        favicon: "/static/favico.ico"
         favicon16x16: "/static/favicon-16x16.png"
         favicon32x32: "/static/favicon-32x32.png"
         apple_touch_icon: "/static/apple-touch-icon.png"
@@ -112,7 +112,7 @@ params:
 menu:
     main:
         - identifier: search
-          name: search
+          name: busca
           url: /search/
           weight: 50
         - identifier: tags
@@ -120,15 +120,15 @@ menu:
           url: /tags/
           weight: 40
         - identifier: archive
-          name: archive
+          name: arquivo
           url: /archives/
           weight: 30
         - identifier: now
-          name: now
+          name: agora
           url: /now/
           weight: 20
         - identifier: about
-          name: about
+          name: sobre
           url: /about/
           weight: 10
 outputs:

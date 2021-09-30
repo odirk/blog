@@ -78,7 +78,7 @@ Eu comecei uma pequena horta no meu apartamento!
 
 Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol pela manhã) para plantar uns temperos.
 
-{{< figure align=center src="/horta.JPG" title="Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (cebolette), salsa, manjericão." >}}
+{{< figure align=center src="/horta.JPG" title="Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (ciboulette), salsa, manjericão." >}}
 
 Not bad, huh?
 
@@ -94,7 +94,7 @@ Estou correndo umas 4~5x por semana, durante 50 minutos.
 &nbsp;
 &nbsp;
 
-### So Long
+### :dolphin: So Long
 
 Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. Aproveite de toda a beleza que a vida lhe oferece, principalmente nesse ano estressante. 
 

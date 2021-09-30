@@ -8,6 +8,13 @@ ShowReadingTime: false
 draft: false
 ---
 
+Essa página foi inspirada por [Derek Sivers](https://nownownow.com/about). 
+
+Vou atualizando essa página de tempos em tempos. É só olhar a data do post :wink:
+
+&nbsp;
+&nbsp;
+
 ### :desert_island: O que estou lendo/assistindo/ouvindo/jogando
 
 Saiba mais [aqui](https://odirk.org/midia-consumida).
@@ -19,13 +26,13 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-Recentemente comprei uma termocirculadora e ando fazendo várias receitas em **[sous vide](https://pt.wikipedia.org/wiki/Sous_vide)**. O *[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)* tem sido de tremenda ajuda.
+Recentemente comprei uma termocirculadora e ando fazendo várias receitas em **[sous vide](https://pt.wikipedia.org/wiki/Sous_vide)**. O [Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494) tem sido de tremenda ajuda.
 
-Em outra frente, estou bem interessado em lactofermentação. *[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)* é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
+Em outra frente, estou bem interessado em lactofermentação. [The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184) é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
 
-> O “lacto” não de é lactose, é de lactobacilos (yep, tipo o Yakult :rofl:).
+> O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:).
 
-A lactofermentação é a forma mais antiga de preservação de alimentos do mundo<sup>[citation needed]</sup>. Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
+A lactofermentação é a forma mais antiga de preservação de alimentos do mundo <sup>[citation needed]</sup>. Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
 
 &nbsp;
 &nbsp;
@@ -78,9 +85,3 @@ Estou correndo umas 4~5x por semana, durante 50 minutos.
 Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. Aproveite de toda a beleza que a vida lhe oferece, principalmente nesse ano estressante. 
 
 2022 está virando a esquina. E eu acredito que será um ótimo ano!
-
----
-
-Essa página foi inspirada por [Derek Sivers](https://nownownow.com/about). 
-
-Vou atualizando essa página de tempos em tempos. É só olhar a data do post :wink:

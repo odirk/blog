@@ -32,7 +32,7 @@ Em outra frente, estou bem interessado em lactofermentação. [The Noma Guide to
 
 > O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:).
 
-A lactofermentação é a forma mais antiga de preservação de alimentos do mundo <sup>[citation needed]</sup>. Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
+A lactofermentação é a forma mais antiga de preservação de alimentos do mundo <sup>citation needed</sup>. Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
 
 &nbsp;
 &nbsp;

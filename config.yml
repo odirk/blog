@@ -78,6 +78,10 @@ params:
           url: "https://twitter.com/odirk"
         - name: instagram
           url: "https://instagram.com/odirk"
+        - name: lastfm
+          url: "https://www.last.fm/user/GabrielDuro"
+        - name: spotify
+          url: "https://open.spotify.com/user/odirk?si=66f1322e394a4b0c"
         - name: email
           url: "mailto:www@odirk.org"
 

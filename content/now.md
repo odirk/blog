@@ -8,14 +8,26 @@ ShowReadingTime: false
 draft: false
 ---
 
-Essa página foi inspirada por [Derek Sivers](https://nownownow.com/about). 
+A maioria dos sites tem um link que diz “sobre”. Ele vai para uma página que informa algo sobre o passado da pessoa.
+
+A maioria dos sites tem um link que diz “contato”. Ele vai para uma página que informa como entrar em contato com essa pessoa.
+
+Portanto, um site com um link que diz “agora” leva a uma página que informa em que essa pessoa está interessada neste momento de sua vida.
+
+> As atualizações do Twitter e do Facebook não fazem isso?
+
+Não. Se eu me pergunto como alguém está hoje em dia, não me ajuda ver que ele saiu de férias na semana passada, que está chateado com algo no noticiário ou até mesmo conseguiu um novo emprego. Esse não é o quadro geral.
+
+Pense no que você diria a um amigo **que não via há um ano**.
+
+É para isso que serve essa página. Você não pode ter essa visão geral de nenhum outro canal que eu conheço.
 
 Vou atualizando essa página de tempos em tempos. É só olhar a data do post :wink:
 
 &nbsp;
 &nbsp;
 
-### :desert_island: O que estou lendo/assistindo/ouvindo/jogando
+### :desert_island: O que estou lendo/assistindo/ouvindo no meu tempo livre
 
 Saiba mais [aqui](https://odirk.org/midia-consumida).
 
@@ -26,15 +38,15 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-Recentemente comprei uma termocirculadora e ando fazendo várias receitas em **[sous vide](https://pt.wikipedia.org/wiki/Sous_vide)**. O [Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494) tem sido de tremenda ajuda.
+Recentemente comprei uma termocirculadora e ando fazendo várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
 
-Em outra frente, estou bem interessado em lactofermentação. [The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184) é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
+Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
 
 > O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:).
 
 A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
 
-[^1]: [citation needed] :)
+[^1]: [citation needed] :upside_down_face:
 
 &nbsp;
 &nbsp;

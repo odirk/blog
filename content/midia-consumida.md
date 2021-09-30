@@ -4,8 +4,8 @@ date: "2021-09-30"
 tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
 showToc: true
-TocOpen: true
-ShowReadingTime: false
+TocOpen: false
+ShowReadingTime: true
 draft: false
 ---
 

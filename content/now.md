@@ -8,16 +8,14 @@ ShowReadingTime: false
 draft: false
 ---
 
-### O que estou lendo/assistindo/ouvindo/jogando
-
-:desert_island:
+### :desert_island: O que estou lendo/assistindo/ouvindo/jogando
 
 Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 &nbsp;
 &nbsp;
 
-### Culinária :cook:
+### :cook: Culinária
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
@@ -32,9 +30,7 @@ A lactofermentação é a forma mais antiga de preservação de alimentos do mun
 &nbsp;
 &nbsp;
 
-### Meditação
-
-:lotus_position:
+### :lotus_position: Meditação
 
 Decidi que vou (tentar) aprender a meditar.
 
@@ -51,9 +47,9 @@ Practical. Specific instructions on how to meditate and what to think about whil
 &nbsp;
 &nbsp;
 
-### Horta
+### :herb: Horta
 
-:herb: Eu comecei uma pequena horta no meu apartamento!
+Eu comecei uma pequena horta no meu apartamento!
 
 Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol pela manhã) para plantar uns temperos.
 
@@ -70,9 +66,9 @@ A ideia é utilizá-las no meu dia-a-dia.
 &nbsp;
 &nbsp;
 
-### Saúde
+### :man_running: Saúde
 
-:man_running: Estou correndo umas 4~5x por semana, durante 50 minutos.
+Estou correndo umas 4~5x por semana, durante 50 minutos.
 
 &nbsp;
 &nbsp;

@@ -18,9 +18,9 @@ Portanto, um site com um link que diz “agora” leva a uma página que informa
 
 > "As atualizações do Twitter e do Facebook não fazem isso?"
 
-Eu acho que não. 
+Olha, eu acho que não. 
 
-Se eu me pergunto como alguém está hoje em dia, não me ajuda ver que ela saiu de férias na semana passada, que está chateada com algo no noticiário ou até mesmo conseguiu um novo emprego. Esse não é o quadro geral.
+Se eu quero saber como alguém está hoje em dia, não me ajuda ver que ela saiu de férias na semana passada, que está chateada com algo no noticiário ou até mesmo conseguiu um novo emprego. Esse não é o quadro geral.
 
 Pense no que você diria a um amigo **que não via há um ano**.
 

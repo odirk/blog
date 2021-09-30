@@ -42,7 +42,7 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/static/favico.ico"
+        favicon: "/static/favico.png"
         favicon16x16: "/static/favicon-16x16.png"
         favicon32x32: "/static/favicon-32x32.png"
         apple_touch_icon: "/static/apple-touch-icon.png"

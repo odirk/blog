@@ -42,17 +42,41 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-1. Recentemente comprei uma termocirculadora e ando fazendo várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
+1. **Sous vide**
 
-2. Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
+Sous vide é um método de coacção à vácuo e em baixas temperaturas. 
 
-> O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:).
+Na última década, esse método de cozinhar alimentos em um banho-maria controlado espalhou-se dos restaurantes com estrelas Michelin, como o Alinea em Chicago e o Per Se em Nova York, para franquias como Chipotle e Starbucks. E agora ele entrou na cozinha doméstica.
 
-A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Isso altera o sabor e a consistência do alimento.
+Para isso, eu fui presenteado com uma termocirculadora por uma fã dos meus dotes culinários ~~(minha avó)~~ e ando testando várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
+
+A diferença dele é que, com o sous vide, (geralmente) não há risco de passar do ponto. É uma técnica revolucionária para alimentos sensíveis à temperatura, como peixe ou bife. 
+
+A baixa temperatura de cozimento garante que a carne permaneça suculenta; nunca estará seca. E atingir a temperatura precisa para esses resultados cria resultados excepcionalmente consistentes que não podem ser alcançados com métodos tradicionais. 
+
+O cozimento longo e lento quebra o colágeno para tornar extremamente macios até mesmo cortes difíceis, como músculo ou paleta de porco. 
+
+Também facilita a função de cozinhar uma refeição grande, já que grandes quantidades podem ser preparadas com horas de antecedência e mantidas na temperatura perfeita até a hora de servir.
+
+Muito em breve devo estrear alguns pratos nas mesas mais próximas.
+
+2. **Lactofermentação**
+
+Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
+
+> O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:)
+
+A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Basicamente, isso propicia um apodrecimento controlado do alimento que altera o sabor e a consistência.
 
 [^1]: [citation needed] :upside_down_face:
 
-3. Licores
+Ainda é uma ideia bem incipiente, maaas é algo que vai rolar em breve. Até já comprei os apetrechos. Só queero dominar um pouco mais da teoria antes de partir para a prática. (meu estômago agradece).
+
+Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o Noma é o que é justamente por essa técnica :)
+
+3. **Licores**
+   
+
 
 &nbsp;
 &nbsp;

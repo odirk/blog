@@ -42,7 +42,7 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-1. **Sous vide**
+**1. Sous vide**
 
 Sous vide é um método de coacção à vácuo e em baixas temperaturas. 
 
@@ -60,7 +60,7 @@ Também facilita a função de cozinhar uma refeição grande, já que grandes q
 
 Muito em breve devo estrear alguns pratos nas mesas mais próximas.
 
-2. **Lactofermentação**
+**2. Lactofermentação**
 
 Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
 
@@ -72,9 +72,9 @@ A lactofermentação é a forma mais antiga de preservação de alimentos do mun
 
 Ainda é uma ideia bem incipiente, maaas é algo que vai rolar em breve. Até já comprei os apetrechos. Só queero dominar um pouco mais da teoria antes de partir para a prática. (meu estômago agradece).
 
-Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o Noma é o que é justamente por essa técnica :)
+Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o [Noma](https://en.wikipedia.org/wiki/Noma_(restaurant)) é o que é muito por essa técnica :)
 
-3. **Licores**
+**3. Licores**
    
 
 
@@ -120,8 +120,8 @@ Estou correndo umas 4~5x por semana, durante 50 minutos.
 &nbsp;
 &nbsp;
 
-### :dolphin: So Long
+### :dolphin: So Long and thanks for all the fish
 
-Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. Aproveite de toda a beleza que a vida lhe oferece, principalmente nesse ano estressante. 
+Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. 
 
-2022 está virando a esquina. E eu acredito que será um ótimo ano!
+2022 está virando a esquina, e eu acredito que será um ótimo ano!

@@ -86,7 +86,7 @@ Pesquisei alternativas, achei [essa marca](https://www.amazon.com.br/Licor-Lim%C
 
 Fiquei frustado com as alternaticas e decidi resolver o problema sozinho. 
 
-Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca de limão em álcool e xarope de açúcar. O quão difícil pode ser? Não é, é ridicularmente fácil.
+Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca de limão em álcool e xarope de açúcar. O quão difícil pode ser? Turns out que é ridiculamente fácil.
 
 É só cuidar para limpar bem os ingredientes e esterilizar os recipientes e deu. Compre um [raspador de limão adequado](https://www.amazon.com.br/Raspador-Tramontina-Utilit%C3%A0-25623180-Branco/dp/B01N4VUCB3) e é só deixar a infusão agir com o tempo.
 

@@ -56,9 +56,9 @@ A baixa temperatura de cozimento garante que a carne permaneça suculenta; nunca
 
 O cozimento longo e lento quebra o colágeno para tornar extremamente macios até mesmo cortes difíceis, como músculo ou paleta de porco. 
 
-Também facilita a função de cozinhar uma refeição grande, já que grandes quantidades podem ser preparadas com horas de antecedência e mantidas na temperatura perfeita até a hora de servir.
+Para a alegria dos amigos mais chegados, ela também facilita a função de cozinhar uma refeição grande. Grandes quantidades de comida podem ser preparadas com horas de antecedência e mantidas na temperatura perfeita até a hora de servir.
 
-Muito em breve devo estrear alguns pratos nas mesas mais próximas.
+Muito em breve nos pratos mais próximos.
 
 **2. Lactofermentação**
 
@@ -76,7 +76,31 @@ Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o
 
 **3. Licores**
    
+Sim, também trabalhamos com ideias simples e pouco ambiciosas!
 
+Na minha família, gostamos de beber licores depois das refeições do fim de semana.
+
+Um restaurante de Porto Alegre fazia (ainda faz, na verdade) um limoncello caseiro, muito apreciado entre nós. Infelizmente esse produto sofreu com a [reduflação](https://pt.wikipedia.org/wiki/Redufla%C3%A7%C3%A3o), e o preço que costumávamos pagar em uma garrafa de 1L estava comprando uma de 250mL, o que é uma pena.
+
+Pesquisei alternativas, achei [essa marca](https://www.amazon.com.br/Licor-Lim%C3%A3o-Siciliano-Cello-Limoncello/dp/B07ZJWMNJX) na Amazon, mas a qualidade do produto é lastimável. Não percam seu tempo.
+
+Fiquei frustado com as alternaticas e decidi resolver o problema sozinho. 
+
+Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca de limão em álcool e xarope de açúcar. O quão difícil pode ser? Não é, é ridicularmente fácil.
+
+É só cuidar para limpar bem os ingredientes e esterilizar os recipientes e deu. Compre um [raspador de limão adequado](https://www.amazon.com.br/Raspador-Tramontina-Utilit%C3%A0-25623180-Branco/dp/B01N4VUCB3) e é só deixar a infusão agir com o tempo.
+
+Desde a primeira tentativa eu equiparei o produto do restaurante. Desde então, sigo misturando frutas, ervas e temperos. É um tremendo sucesso :D
+
+Em antecipação ao verão, estou preparando um licor de capirinha (limão taiti, cachaça e açúcar mascavo), enquanto espero as outras frutas da estação aparecerem no mercado.
+
+**4. Massas, pães e pizzas**
+
+Aham, eu continuo fazendo isso. Só não ando me aprofundando muito mais nisso.
+
+Acho que a minha curva de aprendizado começou a embarrigar, então eu prefiro gastar meu tempo aprendendo outras técnicas do que tendo um ganho marginal nessas.
+
+Único adendo que eu faço a esse aprendizado é sobre a panificação sem glúten. Escrevi um pouco mais sobre isso [aqui](https://odirk.org/posts/2021/07/gluten/).
 
 &nbsp;
 &nbsp;

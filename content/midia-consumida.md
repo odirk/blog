@@ -18,7 +18,7 @@ Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqu
 
 ### Livros
 
-- [O conde de Monte Cristo](https://www.amazon.com.br/conde-Monte-Cristo-edi%C3%A7%C3%A3o-Cl%C3%A1ssicos/dp/853780827X), Dumas. "Esperar e ter esparaça" :smiling_face_with_tear: (9);
+- [O conde de Monte Cristo](https://www.amazon.com.br/conde-Monte-Cristo-edi%C3%A7%C3%A3o-Cl%C3%A1ssicos/dp/853780827X), Dumas. "Esperar e ter esperança." :smiling_face_with_tear: (9);
 - [Mastering the Market Cycle: Getting the Odds on Your Side](https://www.amazon.com.br/Mastering-Market-Cycle-Getting-Odds/dp/1328479250), Marks. (6.5);
 
 &nbsp;
@@ -41,7 +41,7 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-10-01&
 
 ### Filmes
 
-- [Todo sobre mi madre](https://www.imdb.com/title/tt0185125/) (1999). (7.5)
+- [Todo sobre mi madre](https://www.imdb.com/title/tt0185125/) (1999). (7.5);
 - [The Circus](https://www.imdb.com/title/tt0018773/) (1928). (8);
 - [The Many Saints of Newark](https://www.imdb.com/title/tt8110232/) (2021). (7);
 - [Dune](https://www.imdb.com/title/tt1160419/) (2021). (7.5);
@@ -55,11 +55,11 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-10-01&
 - [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S12).  (6.5);
 - [Archer](https://www.imdb.com/title/tt1486217/), (S12). (8); 
 - [The Morning Show](https://www.imdb.com/title/tt7203552/), (S02). (8.5);
-- [Anthony Bourdain's a Cook's Tour](https://www.imdb.com/title/tt0306306/), (S01~02). (7)
+- [Anthony Bourdain's a Cook's Tour](https://www.imdb.com/title/tt0306306/), (S01~02). (7);
 - [Seinfeld](https://www.imdb.com/title/tt0098904/), (S05). (9);
 - [Bob's Burgers](https://www.imdb.com/title/tt1561755/), (S12). (7);
 - [Succession](https://www.imdb.com/title/tt7660850/), (S03). (8);
-- [M*A*S*H](https://www.imdb.com/title/tt0068098/), (S01). (6.5).
+- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S01). (6.5).
 
 &nbsp;
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 title: "Mídia consumida (2021)"
-date: "2021-09-30"
+date: "2021-10-31"
 tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
 showToc: true
@@ -10,6 +10,56 @@ draft: false
 ---
 
 Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi, separado por mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
+
+&nbsp;
+&nbsp;
+
+## Outubro
+
+### Livros
+
+- [O conde de Monte Cristo](https://www.amazon.com.br/conde-Monte-Cristo-edi%C3%A7%C3%A3o-Cl%C3%A1ssicos/dp/853780827X), Dumas. "Esperar e ter esparaça" :smiling_face_with_tear: (9);
+- [Mastering the Market Cycle: Getting the Odds on Your Side](https://www.amazon.com.br/Mastering-Market-Cycle-Getting-Odds/dp/1328479250), Marks. (6.5);
+
+&nbsp;
+&nbsp;
+
+### Álbuns novos
+
+- Illuminati Hotties - [Let Me do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) (Rock). (8);
+- Badbadnotgood - [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) (Jazz). (8);
+- James Blake - [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j). (Pop/R&B). (8);
+- Remi Wolf - [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) (Rock). (7);
+- Parquet Courts - [Sympathy for Life](https://open.spotify.com/album/3pimNTNgv34WFrdooDB0TT) (Rock). (6);
+- Explosions In The Sky - [Big Bend](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) (Rock). (6.5); 
+- Lana Del Rey - [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) (Pop/R&B). (3);
+
+Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-10-01&to=2021-10-31) o relatório completo.
+
+&nbsp;
+&nbsp;
+
+### Filmes
+
+- [Todo sobre mi madre](https://www.imdb.com/title/tt0185125/) (1999). (7.5)
+- [The Circus](https://www.imdb.com/title/tt0018773/) (1928). (8);
+- [The Many Saints of Newark](https://www.imdb.com/title/tt8110232/) (2021). (7);
+- [Dune](https://www.imdb.com/title/tt1160419/) (2021). (7.5);
+
+&nbsp;
+&nbsp;
+
+### Séries
+
+- [Cheers](https://www.imdb.com/title/tt0083399/), (S11). (7);
+- [Anthony Bordain: Parts Unknown](https://www.imdb.com/title/tt2845786/), (S12).  (6.5);
+- [Archer](https://www.imdb.com/title/tt1486217/), (S12). (8); 
+- [The Morning Show](https://www.imdb.com/title/tt7203552/), (S02). (8.5);
+- [Anthony Bourdain's a Cook's Tour](https://www.imdb.com/title/tt0306306/), (S01~02). (7)
+- [Seinfeld](https://www.imdb.com/title/tt0098904/), (S05). (9);
+- [Bob's Burgers](https://www.imdb.com/title/tt1561755/), (S12). (7);
+- [Succession](https://www.imdb.com/title/tt7660850/), (S03). (8);
+- [M*A*S*H](https://www.imdb.com/title/tt0068098/), (S01). (6.5).
 
 &nbsp;
 &nbsp;
@@ -46,7 +96,7 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-09-01&
 
 ### Filmes
 
-- [Annette](https://www.imdb.com/title/tt6217926/) (2021). Um dos filmes mais originais de 2021. Annette isn't the most accessible movie for many audiences, especially if they're not attuned to the melodrama of rock operas. But even if you spend the first 30 minutes going, "What is happening?", be assured that Carax's movie wins you over in the end. (8);
+- [Annette](https://www.imdb.com/title/tt6217926/) (2021). Um dos filmes mais originais de 2021. (8);
 - [Entre tinieblas](https://www.imdb.com/title/tt0085496/) (1983). (7);
 - [Jacky au royaume des filles](https://www.imdb.com/title/tt2382422/) (2014). Premissa interessante com um final revelador. (7);
 - [F9: The Fast Saga](https://www.imdb.com/title/tt5433138/) (2021). Oof, esse é ruim. Pelo visto eu perdi vários filmes da franquia. (Agora eles fazem parte de uma equipe de espionagem??). Enfim, está visto, mas não recomendo. (4);

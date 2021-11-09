@@ -1,7 +1,7 @@
 ---
 title: "Opiniões sortidas #01"
 date: "2021-05-20"
-tags: ["opiniões-impopulares"]
+tags: ["opinião impopular"]
 description: "Opiniões (geralmente) maiores que um tweet, mas curtas demais para um post."
 showToc: true
 TocOpen: false

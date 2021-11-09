@@ -18,7 +18,7 @@ Tópicos de interesse frequentes incluem tecnologia, ciência, cultura, filmes, 
 
 Sou mais um nerd que ama a internet. Descobri ela em 1994 e nunca mais larguei. Já fiz um pouco de tudo *online*, já fui gamer, lamer, pirata, blogger, editor da wikipedia, administrador de um dos maiores portais de séries do mundo, etc. Cresci vadiando em fóruns e servidores de irc que já não existem mais - os bons tempos de faroeste na internet.
 
-Na vida real, sou [advogado de propriedade intelectual](https://gabrielduro.com.br). Você pode me encontrar no [Twitter](https://twitter.com/odirk) e [Instagram](https://instagram.com/odirk). Atualmente vivo em Porto Alegre. Não tenho planos para esse site.
+Na vida real, sou [advogado de propriedade intelectual](https://gabrielduro.com.br). Você pode me encontrar no [Twitter](https://twitter.com/odirk) e [Instagram](https://instagram.com/odirk). Atualmente vivo em Porto Alegre. 
 
 &nbsp;
 &nbsp;

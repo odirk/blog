@@ -42,6 +42,9 @@ Saiba mais [aqui](https://odirk.org/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
+&nbsp;
+&nbsp;
+
 **1. Sous vide**
 
 Sous vide é um método de coacção à vácuo e em baixas temperaturas. 
@@ -60,6 +63,9 @@ Para a alegria dos amigos mais chegados, ela também facilita a função de cozi
 
 Muito em breve nos pratos mais próximos.
 
+&nbsp;
+&nbsp;
+
 **2. Lactofermentação**
 
 Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide to Fermentation](https://www.amazon.com/Noma-Guide-Fermentation-lacto-ferments-Foundations/dp/1579657184)** é ótimo e tem dado várias ideias legais para começar a me aventurar na técnica.
@@ -73,6 +79,9 @@ A lactofermentação é a forma mais antiga de preservação de alimentos do mun
 Ainda é uma ideia bem incipiente, maaas é algo que vai rolar em breve. Até já comprei os apetrechos. Só queero dominar um pouco mais da teoria antes de partir para a prática. (meu estômago agradece).
 
 Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o [Noma](https://en.wikipedia.org/wiki/Noma_(restaurant)) é o que é muito por essa técnica :)
+
+&nbsp;
+&nbsp;
 
 **3. Licores**
    
@@ -93,6 +102,9 @@ Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca
 Desde a primeira tentativa eu equiparei o produto do restaurante. Desde então, sigo misturando frutas, ervas e temperos. É um tremendo sucesso :D
 
 Em antecipação ao verão, estou preparando um licor de capirinha (limão taiti, cachaça e açúcar mascavo), enquanto espero as outras frutas da estação aparecerem no mercado.
+
+&nbsp;
+&nbsp;
 
 **4. Massas, pães e pizzas**
 

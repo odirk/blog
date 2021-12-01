@@ -43,7 +43,11 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-11-01&
 - [Khane-ye doust kodjast? (Where Is the Friend's Home?)](https://www.imdb.com/title/tt0093342/) (1987). Lento, mas gratificante. Um filme inesquecível com momentos prodigiosos. É um poema (para amizade, honestidade, infância, pureza) mais do que um filme. (8.5);
 - [Nuit et brouillard (Night and Fog)](https://www.imdb.com/title/tt0048434/) (1956). É um dos melhores curtas que já vi sobre o holocausto. É contundente e inflexível na forma como aborda os horrores do extermínio em massa. (8.5);
 - [Stromboli, terra di Dio (Stromboli, Land of God)](https://www.imdb.com/title/tt0041931/) (1950). Ingrid e o vulcão. As melhores cenas de todas com o realismo de Rosellini são as [cenas de pesca](https://pt.wikipedia.org/wiki/Almadrava) e as atividades vulcânicas. A pesca era realmente uma atividade em grupo e o vulcão é bem próximo e pessoal. (6.5);
-- [No Time to Die](https://www.imdb.com/title/tt2382320/) (2021). Muito bom, talvez seja o melhor último Bond de um ator? O final do filme é um prato cheio para quem conhece bem a franquia, com muitas referências aos filmes antigos. [Ana de Armas](https://www.imdb.com/name/nm1869101/), apesar de aparecer pouco, rouba a cena. Seria ótimo se ela voltasse no futuro. Achei o [Remi Malek](https://www.imdb.com/name/nm1785339/) não muito convincente como vilão. Ranking dos filmes do Craig como Bond: Casino Royale>Skyfall>No Time to Die>Spectre>Quantum of Solace. (7);
+- [No Time to Die](https://www.imdb.com/title/tt2382320/) (2021). Muito bom, talvez seja o melhor último Bond de um ator? O final do filme é um prato cheio para quem conhece bem a franquia, com muitas referências aos filmes antigos. [Ana de Armas](https://www.imdb.com/name/nm1869101/), apesar de aparecer pouco, rouba a cena. Seria ótimo se ela voltasse no futuro. Achei o [Remi Malek](https://www.imdb.com/name/nm1785339/) não muito convincente como vilão. (7);
+```
+Ranking dos filmes do Craig como Bond: 
+Casino Royale>Skyfall>No Time to Die>Spectre>Quantum of Solace.
+```
 - [소공녀 (Microhabitat)](https://www.imdb.com/title/tt8191502/) (2017). Limpo, simples mas obsessivo. O filme é comovente e compassivo. Se você amou [Roma](https://www.imdb.com/title/tt6155172/) ou [Tokyo Story](https://www.imdb.com/title/tt0046438/), acho que vai adorar ele. (8.5);
 - [South Park: Post COVID](https://www.imdb.com/title/tt15005868/) (2021). Decepcionante. (4);
 

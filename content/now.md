@@ -33,7 +33,7 @@ Vou atualizando essa página de tempos em tempos. É só olhar a data do post :w
 
 ### :desert_island: O que estou lendo/assistindo/ouvindo no meu tempo livre
 
-Saiba mais [aqui](https://odirk.org/midia-consumida).
+Saiba mais [aqui](https://odirk.org/2021/midia-consumida).
 
 &nbsp;
 &nbsp;

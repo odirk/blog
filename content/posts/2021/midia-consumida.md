@@ -1,6 +1,6 @@
 ---
 title: "Mídia consumida (2021)"
-date: "2021-10-31"
+date: "2021-11-30"
 tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
 showToc: true
@@ -9,7 +9,55 @@ ShowReadingTime: true
 draft: false
 ---
 
-Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi, separado por mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
+Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi esse ano, separado por mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
+
+&nbsp;
+&nbsp;
+
+## Novembro
+
+### Livros
+
+- [Mindfulness in Plain English](https://www.amazon.com.br/Mindfulness-Plain-English-20th-Anniversary/dp/0861719069), Gunarantana. Iniciando minha jornada na meditação. O livro aborta mitos, realidades e benefícios da meditação e da prática de mindfulness. (8);
+- [História da Alimentação no Brasil](https://www.amazon.com.br/Hist%C3%B3ria-Alimenta%C3%A7%C3%A3o-Brasil-C%C3%A2mara-Cascudo/dp/8526015834), Cascudo. Cultura, história e gastronomia se unindo para formar uma abordagem única da mesa do brasileiro. (9);
+- [O Avesso das Coisas](https://www.amazon.com.br/avesso-das-coisas-Aforismos/dp/8535932720), Andrade. Coleção de aforismos, catalogados como um dicionário. (7.5);
+- [Walden](https://www.amazon.com.br/Walden-ou-Vida-nos-Bosques/dp/8552100134), Thoreau. Uma reflexão sobre a vida simples em ambientes naturais. Uma declaração pessoal sobre independência, experimento social, viagem de descoberta espiritual, sátira e autossuficiência. (7);
+
+&nbsp;
+&nbsp;
+
+### Álbuns novos
+
+- Silk Sonic - [An Evening with Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) (Pop/R&B). (6.5);
+- Sloppy Jane - [Madison](https://open.spotify.com/album/17FteLw9nXHusWd9vsVa2p) (Rock). (7);
+- Snail Mail - [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) (Rock). (8);
+- Adele - [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) (Pop/R&B). (7);
+
+Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-11-01&to=2021-11-30) o relatório completo.
+
+&nbsp;
+&nbsp;
+
+### Filmes
+
+- [Khane-ye doust kodjast? (Where Is the Friend's Home?)](https://www.imdb.com/title/tt0093342/) (1987). Lento, mas gratificante. Um filme inesquecível com momentos prodigiosos. É um poema (para amizade, honestidade, infância, pureza) mais do que um filme. (8.5);
+- [Nuit et brouillard (Night and Fog)](https://www.imdb.com/title/tt0048434/) (1956). É um dos melhores curtas que já vi sobre o holocausto. É contundente e inflexível na forma como aborda os horrores do extermínio em massa. (8.5);
+- [Stromboli, terra di Dio (Stromboli, Land of God)](https://www.imdb.com/title/tt0041931/) (1950). Ingrid e o vulcão. As melhores cenas de todas com o realismo de Rosellini são as [cenas de pesca](https://pt.wikipedia.org/wiki/Almadrava) e as atividades vulcânicas. A pesca era realmente uma atividade em grupo e o vulcão é bem próximo e pessoal. (6.5);
+- [No Time to Die](https://www.imdb.com/title/tt2382320/) (2021). Muito bom, talvez seja o melhor último Bond de um ator? O final do filme é um prato cheio para quem conhece bem a franquia, com muitas referências aos filmes antigos. [Ana de Armas](https://www.imdb.com/name/nm1869101/), apesar de aparecer pouco, rouba a cena. Seria ótimo se ela voltasse no futuro. Achei o [Remi Malek](https://www.imdb.com/name/nm1785339/) não muito convincente como vilão. Ranking dos filmes do Craig como Bond: Casino Royale>Skyfall>No Time to Die>Spectre>Quantum of Solace. (7);
+- [소공녀 (Microhabitat)](https://www.imdb.com/title/tt8191502/) (2017). Limpo, simples mas obsessivo. O filme é comovente e compassivo. Se você amou [Roma](https://www.imdb.com/title/tt6155172/) ou [Tokyo Story](https://www.imdb.com/title/tt0046438/), acho que vai adorar ele. (8.5);
+- [South Park: Post COVID](https://www.imdb.com/title/tt15005868/) (2021). Decepcionante. (4);
+
+&nbsp;
+&nbsp;
+
+### Séries
+
+- [The Morning Show](https://www.imdb.com/title/tt7203552/), (S02). (8.5);
+- [Seinfeld](https://www.imdb.com/title/tt0098904/), (S06). (9);
+- [Bob's Burgers](https://www.imdb.com/title/tt1561755/), (S12). (7);
+- [Succession](https://www.imdb.com/title/tt7660850/), (S03). (8.5);
+- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S02). (6.5);
+- [Big Mouth](https://www.imdb.com/title/tt6524350/), (S05). A série se esforça para redescobrir o equilíbrio entre humor e coração. Esta temporada tropeça um pouco, especialmente nos primeiros episódios, forçando demais com situaçõesque se tornam cansativas. Como de costume, as melhores risadas são cortesia dos monstros. (6).
 
 &nbsp;
 &nbsp;

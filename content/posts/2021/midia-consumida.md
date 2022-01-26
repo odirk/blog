@@ -46,7 +46,7 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-12-01&
 - [Tick, Tick... Boom!](https://www.imdb.com/title/tt8721424/) (2021). [Andrew Garfield](https://www.imdb.com/name/nm1940449/) vai ser nomeado ao Oscar. (8);
 - [Dune](https://www.imdb.com/title/tt0087182/) (1984). (7);
 - [Belfast](https://www.imdb.com/title/tt12789558/) (2021). (8.5);
-- [King Richard](https://www.imdb.com/title/tt9620288/) (2021). A melhor atuação do [Will Smith](https://www.imdb.com/name/nm0000226/)(?). (8);
+- [King Richard](https://www.imdb.com/title/tt9620288/) (2021). Talvez seja a melhor atuação do [Will Smith](https://www.imdb.com/name/nm0000226/). (8);
 - [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/) (2021). Cute. (7.5);
 - [The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) (2021). (7);
 - [South Park: Post Covid - The Return of Covid](https://www.imdb.com/title/tt16375288/) (2021). (5);

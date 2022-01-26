@@ -1,6 +1,6 @@
 ---
 title: "Mídia consumida (2021)"
-date: "2021-11-30"
+date: "2021-12-31"
 tags: ["media-diet"]
 description: "O que ando fazendo no meu tempo livre?"
 showToc: true
@@ -10,6 +10,64 @@ draft: false
 ---
 
 Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi esse ano, separado por mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)
+
+&nbsp;
+&nbsp;
+
+## Dezembro
+
+### Livros
+
+- [Alguma poesia](https://www.amazon.com.br/Alguma-poesia-Carlos-Drummond-Andrade/dp/8535922830), Andrade. (8);
+- [O caminho da servidão](https://www.amazon.com.br/Caminho-Servid%C3%A3o-F-Hayek/dp/8562816027), Hayek. Essa edição da LVM é horrível. (8);
+- [Antologia poética](https://www.amazon.com.br/Antologia-po%C3%A9tica-Carlos-Drummond-Andrade/dp/8535921192), Andrade. (7.5);
+- [As Troianas](https://www.amazon.com.br/As-Troianas-Eur%C3%ADpides/dp/655525081X), Eurípedes. (8);
+- [Adeus às armas](https://www.amazon.com.br/Adeus-%C3%A0s-armas-Ernest-Hemingway/dp/8528618323), Hemingway. (8.5).
+
+&nbsp;
+&nbsp;
+
+### Álbuns novos
+
+- Richard Dawson & Circle - [Henki](https://open.spotify.com/album/6X4ALVBUeQnMHR5tsK8ymx) (Rock). (7.5);
+- Deerhoof - [Actually, You Can](https://open.spotify.com/album/3WVpMRRKz9BVU4koPEFpnF) (Rock). (7);
+- Arca - [Kick III](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ?si=vM6gGoCFRxeUUriDCI58hQ) (Experimental). (8.5);
+- Taylor Swift - [Red (Taylor's Version)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) (Pop). (8);
+- Jazmine Sullivan - [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) (Pop/R&B). (8.5);
+- Dijon - [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) (Rock). (7.5).
+
+Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2021-12-01&to=2021-12-31) o relatório completo.
+
+&nbsp;
+&nbsp;
+
+### Filmes
+
+- [Tick, Tick... Boom!](https://www.imdb.com/title/tt8721424/) (2021). [Andrew Garfield](https://www.imdb.com/name/nm1940449/) vai ser nomeado ao Oscar. (8);
+- [Dune](https://www.imdb.com/title/tt0087182/) (1984). (7);
+- [Belfast](https://www.imdb.com/title/tt12789558/) (2021). (8.5);
+- [King Richard](https://www.imdb.com/title/tt9620288/) (2021). A melhor atuação do [Will Smith](https://www.imdb.com/name/nm0000226/)(?). (8);
+- [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/) (2021). Cute. (7.5);
+- [The Matrix Resurrections](https://www.imdb.com/title/tt10838180/) (2021). (7);
+- [South Park: Post Covid - The Return of Covid](https://www.imdb.com/title/tt16375288/) (2021). (5);
+- [Don't Look Up](https://www.imdb.com/title/tt11286314/) (2021). É como se [Idiocracy](https://www.imdb.com/title/tt0387808/) fosse feito hoje em dia. (6.5);
+- [Play It Safe](https://www.imdb.com/title/tt14039950/) (2021). (7);
+- [Happythankyoumoreplease](https://www.imdb.com/title/tt1481572/) (2010). (6).
+
+&nbsp;
+&nbsp;
+
+### Séries
+
+- [Seinfeld](https://www.imdb.com/title/tt0098904/), (S07~08). (9);
+- [Bob's Burgers](https://www.imdb.com/title/tt1561755/), (S12). (7);
+- [Succession](https://www.imdb.com/title/tt7660850/), (S03). (8.5);
+- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S02). (6.5);
+- [F is For Family](https://www.imdb.com/title/tt4326894/), (S05). (6.5);
+- [How to with John Wilson](https://www.imdb.com/title/tt10801534/), (S02). (8.5)
+- [It's Always Sunny in Philadelphia](https://www.imdb.com/title/tt0472954/), (S15). (7.5);
+- [The Grand Tour](https://www.imdb.com/title/tt5712554/), (S04). Carnage A Trois. (8);
+- [The Witcher](https://www.imdb.com/title/tt5180504/), (S02). (7).
 
 &nbsp;
 &nbsp;

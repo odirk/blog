@@ -98,6 +98,18 @@ Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca
 
 Desde a primeira tentativa eu equiparei o produto do restaurante. Desde então, sigo misturando frutas, ervas e temperos. É um tremendo sucesso :D
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
 <details>
   <summary>Clique ver os sabores</summary>
   

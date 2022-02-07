@@ -1,6 +1,6 @@
 ---
 title: "O que estou fazendo agora"
-date: "2021-09-30"
+date: "2022-02-07"
 description: "Pequenos projetos e interesses da minha vida pessoal"
 showToc: false
 searchHidden: true
@@ -42,18 +42,15 @@ Saiba mais [aqui](https://odirk.org/posts/2021/midia-consumida).
 
 Continuo cozinhando coisas ruins que são boas para você e coisas boas que são ruins para você.
 
-&nbsp;
-&nbsp;
-
 **1. Sous vide**
 
-Sous vide é um método de coacção à vácuo e em baixas temperaturas. 
+[Sous vide](https://pt.wikipedia.org/wiki/Sous_vide) é um método de coacção à vácuo e em baixas temperaturas. 
 
-Na última década, esse método de cozinhar alimentos em um banho-maria controlado espalhou-se dos restaurantes com estrelas Michelin, como o Alinea em Chicago e o Per Se em Nova York, para franquias como Chipotle e Starbucks. E agora ele entrou na cozinha doméstica.
+Na última década, esse método espalhou-se dos restaurantes com estrelas Michelin, como o Alinea em Chicago e o Per Se em Nova York, para franquias como Chipotle e Starbucks. E agora ele entrou na cozinha doméstica.
 
-Para isso, eu fui presenteado com uma termocirculadora por uma fã dos meus dotes culinários ~~(minha avó)~~ e ando testando várias receitas em [sous vide](https://pt.wikipedia.org/wiki/Sous_vide). O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
+Para isso, eu fui presenteado com uma termocirculadora por uma fã dos meus dotes culinários ~~(minha avó)~~ e ando testando várias receitas em sous vide. O **[Sous Vide for Everybody](https://www.amazon.com/Sous-Vide-Everybody-Foolproof-Technique/dp/1945256494)** tem sido de tremenda ajuda.
 
-A diferença dele é que, com o sous vide, (geralmente) não há risco de passar do ponto. É uma técnica revolucionária para alimentos sensíveis à temperatura, como peixe ou bife. 
+A diferença dele é que, com o sous vide, (geralmente) não há risco de passar do ponto.
 
 A baixa temperatura de cozimento garante que a carne permaneça suculenta; nunca estará seca. E atingir a temperatura precisa para esses resultados cria resultados excepcionalmente consistentes que não podem ser alcançados com métodos tradicionais. 
 
@@ -72,11 +69,11 @@ Em outra frente, estou bem interessado em lactofermentação. **[The Noma Guide 
 
 > O “lacto” não de é lactose, é de lactobacilos (sim, tipo o Yakult :rofl:)
 
-A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água salgada cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Basicamente, isso propicia um apodrecimento controlado do alimento que altera o sabor e a consistência.
+A lactofermentação é a forma mais antiga de preservação de alimentos do mundo.[^1] Envolve apenas sal, água e frutas/vegetais. A salmoura de água cria um ambiente anaeróbico (livre de oxigênio) onde apenas os lactobacilos ~~vivos~~ podem sobreviver. Basicamente, isso propicia um apodrecimento controlado do alimento que altera o sabor e a consistência.
 
 [^1]: [citation needed] :upside_down_face:
 
-Ainda é uma ideia bem incipiente, maaas é algo que vai rolar em breve. Até já comprei os apetrechos. Só queero dominar um pouco mais da teoria antes de partir para a prática. (meu estômago agradece).
+Ainda é uma ideia bem incipiente, maaas é algo que vai rolar em breve. Até já comprei os apetrechos. Só quero dominar um pouco mais da teoria antes de partir para a prática. (meu estômago agradece).
 
 Mas tem tudo para ser um sucesso, desde que eu siga o livro. Afinal de contas, o [Noma](https://en.wikipedia.org/wiki/Noma_(restaurant)) é o que é muito por essa técnica :)
 
@@ -101,7 +98,14 @@ Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca
 
 Desde a primeira tentativa eu equiparei o produto do restaurante. Desde então, sigo misturando frutas, ervas e temperos. É um tremendo sucesso :D
 
-Em antecipação ao verão, estou preparando um licor de capirinha (limão taiti, cachaça e açúcar mascavo), enquanto espero as outras frutas da estação aparecerem no mercado.
+<details>
+  <summary>Clique ver os sabores</summary>
+  
+  1. Limão siciliano
+  2. Bergamota
+  3. Capirinha (limão taiti, cachaça e açúcar mascavo)
+  4. Jabuticaba
+</details>
 
 &nbsp;
 &nbsp;
@@ -125,11 +129,13 @@ Decidi que vou (tentar) aprender a meditar.
 
 Livros que me recomendaram sobre o assunto:
 
-- Mindfulness in Plain English, Henepola Gunaratana. 
-Practical. Specific instructions on how to meditate and what to think about while you do.
+- **Mindfulness in Plain English**, Henepola Gunaratana. 
 
-- Why Buddhism is True, Robert Wright. 
-(Secular Buddhism, not Religious Buddhism). Why meditation works, specifically what it intends to solve. It defines the purpose of having a practice, and very clearly explains the benefits.
+Instruções práticas e específicas sobre como meditar.
+
+- **Why Buddhism is True**, Robert Wright. 
+
+(Budismo Secular, não Budismo Religioso). Por que a meditação funciona, especificamente o que ela pretende resolver. Ele define o propósito de ter uma rotina e explica muito claramente os benefícios.
 
 &nbsp;
 &nbsp;
@@ -142,7 +148,7 @@ Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol 
 
 {{< figure align=center src="/horta.JPG" title="Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (ciboulette), salsa, manjericão." >}}
 
-Not bad, huh?
+Nada mal, ein?
 
 Vou esperar elas crescerem um pouco antes de depenar as coitadas, mas ideia é utilizá-las no meu dia-a-dia.
 
@@ -160,4 +166,4 @@ Estou correndo umas 4~5x por semana, durante 50 minutos.
 
 Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. 
 
-2022 está virando a esquina, e eu acredito que será um ótimo ano!
+2022 está começando, e eu acredito que será um ótimo ano!

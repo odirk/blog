@@ -71,7 +71,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "odirk.org"
-        Content: humor de baixa qualidade, opniões obtusas e receitas com preparo superior a 2 horas
+        Content: humor de baixa qualidade, opniões obtusas, análises oportunistas e receitas com preparo superior a 2 horas
 
     socialIcons:
         - name: twitter

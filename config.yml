@@ -82,6 +82,8 @@ params:
           url: "https://www.last.fm/user/GabrielDuro"
         - name: spotify
           url: "https://open.spotify.com/user/odirk"
+        - name: other
+          url: "https://letterboxd.com/odirk/"
         - name: email
           url: "mailto:www@odirk.org"
 

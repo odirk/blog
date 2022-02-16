@@ -164,27 +164,27 @@ O que torna as *blockchains* especiais é que elas querem garantir consistência
 
 #### Estratégias para criar consenso
 
-Esse problema de consenso é de onde o *blockchain* recebem muito de sua reputação problemática. Também é o mesmo motivo que algumas *blockchains* consomem a mesma energia [quanto um país pequeno](https://digiconomist.net/bitcoin-energy-consumption).
+Esse problema quanto ao consenso é de onde a *blockchain* recebe muito de sua reputação problemática. Também é o mesmo motivo que algumas *blockchains* consomem a mesma energia [quanto um país pequeno](https://digiconomist.net/bitcoin-energy-consumption).
 
-O problema que as *blockchains* enfrentam é realmente muito difícil: como você garante que tem uma estrutura de dados consistente quando não tem um árbitro e nem todos os *nodes* se conhecem ou confiam uns nos outros? Como você pode proteger o sistema contra manipulação? E muito basicamente: como você decide quem cria o próximo bloco?
+O problema que as *blockchains* enfrentam é realmente muito difícil: como você garante, quando *nodes* que não se conhecem se relacionam, uma estrutura de dados consistente sem um árbitro? Como proteger o sistema contra manipulação? E muito basicamente: como decidir quem cria o próximo bloco?
 
-A abordagem que as *blockchains* mais populares atualmente (como Bitcoin ou Ethereum) usam é chamada de [Prova de Trabalho](https://pt.wikipedia.org/wiki/Prova_de_trabalho): para adicionar o próximo bloco à cadeia, você precisa resolver um problema um tanto difícil cuja solução todos podem verificar facilmente.
+A abordagem que as *blockchains* mais populares atualmente (como Bitcoin ou Ethereum) usam é chamada de [Prova de Trabalho](https://pt.wikipedia.org/wiki/Prova_de_trabalho): para adicionar o próximo bloco à cadeia, você precisa resolver um problema difícil cuja solução possa ser verificada facilmente.
 
-No Bitcoin, por exemplo, ao criar um bloco você pode adicionar algum texto extra a ele, pense nisso como um “comentário”: ele não altera funcionalmente as transações incluídas no bloco, mas é usado no cálculo do *hash* do bloco. Esse texto/comentário altera significativamente o hash. E dá à cadeia espaço suficiente para criar enigmas complexos o suficiente.
+No Bitcoin, por exemplo, ao criar um bloco você pode adicionar algum texto extra a ele, como um “comentário”: ele não altera funcionalmente as transações incluídas no bloco, mas é usado no cálculo do *hash* do bloco. Esse comentário altera significativamente o *hash*. E permite à cadeia espaço para criar enigmas suficientemente complexos.
 
-Digamos que você dê às pessoas o trabalho de “encontrar um hash que comece com 123”. Mesmo selecionando diferentes conjuntos de transações ou mudando sua sequência, talvez você não consiga corresponder à tarefa. O “comentário” extra dá espaço de manobra suficiente para tentar mais opções diferentes. As pessoas ainda terão que tentar muitas vezes adivinhar o texto certo para criar um bloco com essa propriedade, mas sempre será possível.
+Digamos que você dê às pessoas o trabalho de “encontrar um *hash* que comece com 123”. Mesmo selecionando diferentes conjuntos de transações ou mudando sua sequência, talvez você não consiga responder o problema. O comentário extra dá espaço de manobra para tentar mais opções diferentes. As pessoas ainda terão que tentar muitas vezes adivinhar o texto certo para criar um bloco com essa propriedade, mas sempre será possível.
 
-Depois de encontrar um "comentário" que criou o tipo certo de hash, todos os outros podem ver facilmente que a solução está correta e todos podem começar a corrida para criar o próximo bloco. Se você já ouviu falar sobre “mineração”, é isso que é: anexar um novo bloco à cadeia e obter a recompensa. (No Bitcoin, você obtém algumas moedas “do nada” para minerar um bloco e as pessoas que realmente desejam que suas transações sejam adicionadas aos blocos rapidamente também podem adicionar uma recompensa em bitcoin).
+Depois de encontrar um comentário que criou o tipo certo de *hash*, todos os outros podem ver facilmente que a solução está correta e todos podem começar a corrida para criar o próximo bloco. Se você já ouviu falar sobre “mineração”, é isso que ela é: anexar um novo bloco à cadeia e obter a recompensa. (No Bitcoin, você recebe algumas moedas para minerar um bloco).
 
-Portanto, a Prova de Trabalho é apenas adivinhar palavras e números muito rápido. Como criar o próximo bloco é recompensado na maioria das cadeias, há uma motivação para investir muito poder em encontrá-lo, e é por isso que quanto mais um Bitcoin vale, faz sentido queimar mais energia para criar o próximo bloco e seja recompensado com moedas.
+Portanto, a Prova de Trabalho é apenas adivinhar palavras e números muito rápido. Como criar o próximo bloco é recompensado na maioria das cadeias, há uma incentivo para poder em encontrá-lo, e é por isso que quanto mais um Bitcoin vale, faz sentido gastar mais energia para criar o próximo bloco e seja recompensado com moedas.
 
-Existem outras estratégias. A outra popular é chamada de [Prova de Participação](https://pt.wikipedia.org/wiki/Prova_de_participa%C3%A7%C3%A3o) e permite que a pessoa que tiver mais “tokens” (vamos falar sobre isso depois) decida qual será o próximo bloco. Esta consome menos energia, mas tem outros problemas (por exemplo, o desequilíbrio de poder inerente entre aqueles com poucos e muitos tokens).
+Existem outras estratégias. A outra popular é chamada de [Prova de Participação](https://pt.wikipedia.org/wiki/Prova_de_participa%C3%A7%C3%A3o) e permite que a pessoa que tiver mais “tokens” (vamos falar sobre isso em seguida) decida qual será o próximo bloco. Esta consome menos energia, mas tem outros problemas (por exemplo, o desequilíbrio inerente daqueles com poucos e outros com muitos *tokens*).
 
-Proof of Stake doesn’t exist and may never work. Leia mais [aqui](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/).
+> Vale lembrar que a Prova de Participação não existe e pode nunca funcionar. Leia mais [aqui](https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/).
 
-Os bancos de dados tradicionais não enfrentam esse desafio porque os clientes fazem login e o servidor de banco de dados pode apenas – como um árbitro – decidir quem terá seus dados gravados primeiro. A arquitetura descentralizada de blockchains requer a construção de consenso, porque, caso contrário, a “cadeia” se dividiria em diferentes e ilimitadas cadeias de blocos sem que ninguém soubesse em quem acreditar. um problema.
+Os bancos de dados tradicionais não enfrentam esse desafio porque o servidor de banco de dados pode apenas (como um árbitro) decidir quem terá seus dados gravados primeiro. A arquitetura descentralizada das *blockchains* requer a construção de consenso, porque, caso contrário, a “cadeia” se dividiria infinitamente sem que ninguém soubesse em quem acreditar.
 
-Você pode armazenar basicamente qualquer dado em blockchains. Mas a maioria das blockchains atualmente em uso armazena transações, o que significa o movimento de tokens ou valores de uma conta para outra.
+Você pode armazenar basicamente qualquer dado em *blockchains*. Mas a maioria das *blockchains* atualmente armazena transações, leia-se: o movimento de *tokens* ou valores de uma conta para outra.
 
 &nbsp;
 &nbsp;
@@ -193,113 +193,123 @@ Você pode armazenar basicamente qualquer dado em blockchains. Mas a maioria das
 
 Sabemos como funcionam as *blockchains*, mas ainda não está claro o que exatamente é, por exemplo, um Bitcoin. Não em um nível teórico, não vou entrar nas teorias de valor e dinheiro aqui, mas em um nível técnico.
 
-Blocos na *blockchain* do Bitcoin armazenam transações entre contas. Uma conta é criada gerando as chaves criptográficas secretas para ela e começa com 0 Bitcoin. Ao criar um novo bloco ou ao receber Bitcoins, a conta altera seu saldo. Bitcoins não são “coisas”, nem mesmo “coisas digitais”, mas sim uma abstração para a coisa que o *ledger* (livro-razão) rastreia. Você “tem” um Bitcoin se sua conta disser que você tem >1 BTC nele. Mas você não poderia tirá-lo como um objeto, como você poderia obter dinheiro do seu banco. Bitcoins são apenas uma abreviação narrativa para falar sobre números que se movem entre contas.
+Blocos na *blockchain* do Bitcoin armazenam transações entre contas. Uma conta é criada gerando as chaves criptográficas secretas para ela e começa com 0 Bitcoin. Ao criar um novo bloco ou ao receber Bitcoins, a conta altera seu saldo. 
 
-Mas nem todas as *blockchains* têm um modelo de dados tão simples quanto o Bitcoin. Ethereum, por exemplo – a outra grande *blockchain* que as pessoas usam – tem um conceito chamado “Smart Contracts”. O nome é meio enganoso porque eles não são contratos, mas apenas pedaços de código que são executados sob certas condições. Esses bits de código podem fazer todo tipo de coisa, até mesmo criar novos tipos de objetos digitais.
+Bitcoins não são “coisas”, nem mesmo “coisas digitais”, mas sim uma abstração para a coisa que o *ledger* (livro-razão) rastreia. Você tem um Bitcoin se sua conta disser que você tem >1 BTC nele. Mas você não poderia tirá-lo como um objeto, como você poderia obter dinheiro do seu banco. Bitcoins são apenas uma abreviação narrativa para falar sobre números que se movem entre contas.
 
-De certa forma, o *blockchain* do Bitcoin suporta um contrato inteligente, que é como enviar Bitcoins. No Ethereum, você pode criar novos contratos e funcionalidades implantando-os na própria cadeia. Assim, você pode criar um novo *token* chamado “Testcoin” no *blockchain* Ethereum que é tratado pelo seu contrato inteligente.
+Mas nem todas as *blockchains* têm um modelo de dados tão simples quanto o Bitcoin. Ethereum, por exemplo (a outra grande *blockchain* que as pessoas usam) tem um conceito chamado “Smart Contracts”. O nome é meio enganoso porque eles não são contratos, mas apenas pedaços de código que são executados sob certas condições. Esses bits de código podem fazer todo tipo de coisa, até mesmo criar novos tipos de objetos digitais.
 
-A maioria dos *tokens* são chamados de “fungíveis”: isso significa que não importa qual *token* você tenha, eles são todos iguais. Isso também significa que você pode dividi-los, enviar pedaços deles para algum lugar e depois “juntá-los” com outros pedaços de outros *tokens*. Eles são basicamente como o dinheiro tradicional: não importa qual nota de 10 reais você tem, você pode pegar apenas 0,50 reais dos seus 10 reais e os transferir.
+> De certa forma, o *blockchain* do Bitcoin suporta um contrato inteligente, que é como enviar Bitcoins. No Ethereum, você pode criar novos contratos e funcionalidades implantando-os na própria cadeia. Assim, você pode criar um novo *token* chamado “dirkcoin” no *blockchain* Ethereum que é tratado pelo seu contrato inteligente.
 
-Em algum momento, as pessoas descobriram que você poderia criar *tokens* diferentes, “não fungíveis”. Isso significa que você não pode simplesmente dividi-los e que importa se você tem o *token* com o número 1 ou 13. Isso é mais frequentemente usado para representar um bem físico ou outra coisa que deveria ser única: isso é o que NFTs são. As NFTs são especiais porque, de certa forma, vão contra uma verdade essencial do digital: a reprodutibilidade sem custo. Apenas uma pessoa pode ter um NFT específico em sua conta, não pode ser clonado razoavelmente. Você poderia criar um *token* diferente com o mesmo conteúdo, mas seria um objeto diferente em um *blockchain*. O falso seria instantaneamente visível basicamente.
+A maioria dos *tokens* são chamados de “fungíveis”: isso significa que não importa qual *token* você tenha, eles são todos iguais. Isso também significa que você pode dividi-los, enviar pedaços deles para algum lugar e depois “juntá-los” com outros pedaços de outros *tokens*. Eles são basicamente como o dinheiro tradicional: não importa qual 10 reais você tem, você pode pegar apenas 2 reais dos seus 10 reais e os transferir.
 
-As NFTs são como outros *tokens* em uma *blockchain*. Eles podem ser movidos entre contas e o contrato inteligente que os governa pode, por exemplo, impor que eles só se movam quando as condições exigidas no *blockchain* forem atendidas: a transferência só seria acionada quando o pagamento fosse concluído, por exemplo.
+Em algum momento, as pessoas descobriram que você poderia criar *tokens* diferentes, “não fungíveis”. Isso significa que você não pode simplesmente dividi-los e que importa se você tem o *token* com o número 1 ou 13.
+
+Isso é mais frequentemente usado para representar um bem físico ou algo que deveria ser único: isso é o que NFTs são. As NFTs são especiais porque, de certa forma, vão contra uma verdade essencial do digital: a reprodutibilidade sem custo. Apenas uma pessoa pode ter um NFT específico em sua conta, não podendo ser clonado. Você poderia criar um *token* diferente com o mesmo conteúdo, mas seria um objeto diferente na *blockchain*. O "falso" seria instantaneamente constatado.
+
+As NFTs são como outros *tokens* em uma *blockchain*. Eles podem ser movidos entre contas e o contrato inteligente que os governa pode, por exemplo, impor que eles só se movam quando as condições exigidas no *blockchain* forem atendidas: por exemplo, uma transferência só seria ordenada quando o pagamento fosse compensado.
 
 &nbsp;
 &nbsp;
 
 ### DAOs
 
-DAOs (organizações autônomas descentralizadas, em portugês) são basicamente contratos inteligentes com uma missão. Quando geralmente pensamos em uma organização, pensamos em pessoas com algum tipo de objetivo comum e um conjunto de regras que governam como a organização funciona. Isso geralmente inclui alguma forma de estrutura hierárquica de poder ou outras formas de tomar decisões comuns. DAOs tentam tirar o elemento humano da equação, implementando a ideologia “código é lei”.
+DAOs (organizações autônomas descentralizadas, em portugês) são basicamente contratos inteligentes com uma missão. 
 
-Uma DAO é um contrato inteligente que toma decisões sobre algo com base em informações e eventos. Uma ideia comum é, por exemplo, escrever um código que decida quando e onde investir dinheiro. As pessoas podem investir seus *tokens* na DAO, que então toma decisões sobre esses fundos de acordo com o código do contrato. Mas as DAOs podem basicamente ser implementadas para qualquer coisa que você possa imaginar.
+Quando geralmente pensamos em uma organização (empresas, associações, etc.), pensamos em pessoas com algum objetivo comum sendo governadas por um conjunto de regras (contratos, convenções, etc.). Essas regras costumam prever uma estrutura hierárquica de poder ou para tomada de decisões comuns. DAOs tentam tirar o elemento humano da equação, implementando a ideologia [código é lei](https://pt.wikipedia.org/wiki/Leis_e_C%C3%B3digo_do_Ciberespa%C3%A7o#C%C3%B3digo).
+
+Uma DAO é um contrato inteligente que toma decisões sobre algo com base em informações e eventos. Uma ideia geral é, por exemplo, escrever um código que decida como, quando e onde investir dinheiro. As pessoas podem investir seus *tokens* na DAO, que então toma decisões sobre esses fundos de acordo com o código do contrato. Mas as DAOs podem basicamente ser implementadas para qualquer coisa que você possa imaginar.
 
 As DAOs são relevantes porque, embora tecnologicamente sejam apenas contratos inteligentes, são uma forma de organização (que se poderia considerar uma forma de tecnologia social) que não era realmente usada dessa maneira antes das *blockchains*.
 
-Esta foi a parte muito básica sobre a tecnologia. Há muito mais detalhes, é claro, e *blockchains* com algumas outras propriedades, mas para a ideia geral. Agora, vamos tentar entender o que o Web3 realmente é.
+Esta foi a parte muito superficial sobre a tecnologia. Há muito mais detalhes, é claro, e *blockchains* com outras propriedades, mas essa é a ideia geral. Agora, vamos tentar entender o que o Web3 realmente é.
 
 &nbsp;
 &nbsp;
 
 ## O que é a Web3?
 
-Vamos falar da Web3. Se você pulou a parte de Tecnologia, bem-vindo de volta. vou tentar resumir o que a Web3 realmente é. 
+Ok, vamos falar da *Web3*. Se você pulou a parte de tecnologia, bem-vindo de volta! Vou tentar resumir o que a *Web3* é. 
 
-A Web3 não é um conjunto claramente definido de tecnologias, protocolos ou fluxos de trabalho, mas a Web2.0 também não era. Assim como a Web2.0, a Web3 tem certos fundamentos e pressupostos tecnológicos, mas também é um termo aspiracional, um conjunto de visões, ideologias e objetivos sobrepostos. De muitas maneiras, a Web3 está fazendo algo e chamando-o de Web3. Mas com todas as contradições e falta de clareza, algumas coisas são fundamentais para a Web3.
+A *Web3* não é um conjunto claramente definido de tecnologias, protocolos ou fluxos de trabalho, mas a *Web2.0* também não era. Assim como a *Web2.0*, a *Web3* tem certos fundamentos e pressupostos tecnológicos, mas também é um conjunto sobreposto de visões, ideologias e objetivos.
 
-Vou tentar uma primeira tentativa rápida de uma descrição:
+Vou tentar uma rápida descrição:
 
-> O Web3 é uma camada de infraestrutura e *back-end* baseada em *blockchain* sobre as tecnologias de rede existentes que visa reestruturar a Internet de maneira descentralizada e individual. \
+> A *Web3* é uma camada de infraestrutura e *back-end* baseada em *blockchain* sobre as tecnologias de rede existentes que visa reestruturar a Internet de maneira descentralizada e individual. \
 
 Os serviços necessários para que os indivíduos possam agir dentro dessa nova infraestrutura (como gerenciamento de identidade, armazenamento de conteúdo etc.) são fornecidos por contratos inteligentes descentralizados ou serviços construídos sobre eles. \
 
-Embora os *frontends* para usar a Internet Web3 ainda pareçam semelhantes aos atuais (aplicativos baseados em navegador), eles não recebem mais seu conteúdo de servidores centralizados, mas de provedores de conteúdo baseados em *blockchain*, dando aos indivíduos a propriedade executória dos dados e do conteúdo que criam ou compram."
+Embora os *frontends* para usar a Internet *Web3* ainda pareçam semelhantes aos atuais (aplicativos baseados em navegador), eles não recebem mais seu conteúdo de servidores centralizados, mas de provedores de conteúdo baseados em *blockchain*, dando aos indivíduos a propriedade dos dados e do conteúdo que criam ou compram.
 
-A Web3 não pretende que você jogue seu navegador fora. Na verdade, muitas coisas não deveriam mudar: você pode, por exemplo, escrever um comentário no artigo do blog de alguém. Mas esse comentário não ficará no servidor dessa pessoa, mas será armazenado em um blockchain e anexado a uma de suas identidades, o que significa que nunca poderá ser totalmente excluído. A postagem original pode não mostrar mais, mas ainda está disponível e vinculada ao conteúdo original.
+A *Web3* não pretende que você jogue seu navegador fora. Na verdade, muitas coisas não deveriam mudar: você pode, por exemplo, escrever um comentário em uma foto de alguém. Mas esse comentário não ficará no servidor dessa pessoa, ele será armazenado em uma *blockchain* e anexado a identidade do autor do comentário, o que significa que nunca poderá ser totalmente excluído. A foto original pode não existir mais, mas ainda está disponível e vinculada ao conteúdo original.
 
-A identidade é muito importante para esse conceito. Não em um tipo de identificação legal, mas em um “você tem um conjunto de identidades que você usa que pode ter conteúdo/tokens anexados a eles” porque os tokens só são realmente úteis quando eles têm um proprietário. Mas a Web3 meio que permite que todos tenham quantas identidades quiserem, anexem tokens a elas e atuem na Web, não é um sistema de “uma pessoa, uma identidade”.
+A identidade é muito importante para esse conceito. Não em um tipo de identificação legal, mas no sentido que você pode ter um conjunto de identidades para ter conteúdo/*tokens* anexados a elas. Mas a *Web3* permite que todos tenham quantas identidades quiserem, anexem tokens a elas e atuem na Web, não é um sistema de “uma pessoa, uma identidade”.
 
-A Web3 também investe muito em *tokens*: Tudo deveria ser um *token*. Um domínio? Deve ser um *token*. Uma postagem no blog? Deve ser um *token*. Sua conta em uma rede social? Deve ser um *token*. 
+A *Web3* também investe muito em *tokens*: Tudo deveria ser um *token*. Um domínio? Deve ser um *token*. Uma postagem no blog? Deve ser um *token*. Sua conta em uma rede social? Deve ser um *token*. A *Web3* transforma tudo o que é possível em *tokens* porque é isso que funciona bem em *blockchains*, mas também serve para garantir a sua propriedade permanente. 
 
-A Web3 transforma tudo o que é possível em *tokens* porque é isso que funciona bem em *blockchains*, mas também para permitir a propriedade “real”. Quando um domínio é uma NFT que alguém possui, nunca pode haver uma disputa sobre quem é o proprietário do domínio. Obviamente, é quem detém o *token* atualmente. Quem pode excluir ou modificar (como no upload de uma nova versão) de algum conteúdo? Obviamente, a pessoa que detém o respectivo *token*. (Também existem configurações em que, por meio de um contrato inteligente, várias pessoas mantêm um token e o contrato define as regras de como elas alcançam o consenso sobre a transferência do *token*.)
+Quando um domínio é uma NFT, nunca pode haver uma disputa sobre quem é o proprietário do domínio. Obviamente, é quem detém o *token* atualmente. Quem pode excluir ou modificar determinado conteúdo? Obviamente, a pessoa que detém o respectivo *token*. 
 
-Tudo isso pode soar um pouco estranho, mas algumas coisas soam bem, não é? Vamos mergulhar um pouco nas crenças e na política antes de mergulhar em algumas observações mais opinativas.
+> Também existem configurações em que, por meio de um contrato inteligente, várias pessoas mantêm um token e o contrato define as regras de consenso sobre a transferência do *token*.
+
+Tudo isso pode soar um pouco estranho, mas algumas coisas soam legais, não é? Vamos mergulhar um pouco nas ideologias antes de mergulhar em algumas observações mais opinativas.
 
 &nbsp;
 &nbsp;
 
-## As crenças e a política da Web3
+## As crenças e políticas da Web3
 
-Toda tecnologia, todo artefato tem política. Alguns artefatos têm visões políticas profundamente embutidas em sua estrutura e essência (uma arma tem a política da violência embutida, por exemplo). Outros artefatos herdam suas políticas das pessoas e comunidades que os projetam e usam. Ambos os tipos de política são muito óbvios com a Web3. Web3 não é uma mera atualização tecnológica da web atual, um *patch* para trazer alguns novos recursos e talvez corrigir alguns bugs, mas um completo redesenho técnico, mas ainda mais social e político.
+Toda tecnologia, todo artefato tem política. Alguns artefatos têm visões políticas profundamente embutidas em sua estrutura e essência (uma arma tem a política da violência embutida, por exemplo). Outros artefatos herdam suas políticas das pessoas e comunidades que os projetam e usam. 
 
-Às vezes, isso é mais difícil de ver porque os serviços Web3 ainda se parecem com os serviços antigos que conhecemos, mas sob uma forma nova ou, pelo menos, muito mais radical de uma ideologia já presente, moldou a estrutura das coisas.
+Ambos os tipos de política são muito óbvios com a *Web3*. Ela não é uma mera atualização tecnológica da web atual, um *patch* para trazer novos recursos e corrigir alguns bugs, mas um completo redesenho técnico, especialmente no campo social e político.
 
-Como em tudo que a lista de crenças importantes não está completa, selecionei as mais importantes.
+Isso é difícil de ver porque alguns serviços da *Web3* ainda se parecem com serviços que conhecemos, mas sob uma forma nova.
+
+Evidentemente, a seção a seguir não lista as características de maneira exaustiva, eu tomei a liberdade de selecionar as mais importantes na minha opinião.
 
 &nbsp;
 &nbsp;
 
 ### Descentralização
 
-A comunidade Web3 valoriza muito a descentralização. *Blockchains* foram desenvolvidas após a recente crise financeira global, quando os bancos “grandes demais para falir” quase arrastaram a economia global para o chão com eles. Isso é o que as *blockchains* foram fundamentalmente construídas para evitar, e essa é uma ideologia que a Web3 abraçou totalmente. Quando você olha para os sites do projeto Web3, quase sempre vê “descentralizado” como um dos principais recursos.
+A comunidade da *Web3* valoriza muito a descentralização. *Blockchains* foram desenvolvidas após a recente crise financeira global, quando os bancos “grandes demais para falir” quase arrastaram a economia global para o chão. As *blockchains* foram fundamentalmente construídas para evitar isso, e essa é uma ideologia que a *Web3* abraçou. Quando você olha para os sites com projetos de *Web3*, quase sempre vê “descentralizado” como um dos principais recursos.
 
-A descentralização é usada como um substituto, ou talvez mais precisamente uma pré-condição, para justiça e/ou igualdade. Os sistemas centralizados são vistos não apenas como não confiáveis e corruptos, mas também como um perigo para a liberdade, pois permitem remover ou bloquear conteúdo por qualquer motivo.
+A descentralização é usada como um substituto, ou talvez mais precisamente uma pré-condição, para justiça e/ou igualdade. Os sistemas centralizados são vistos não apenas como não confiáveis e corruptos, mas também como um perigo para a liberdade, pois permitem a remoção de conteúdo unilateralmente e sem motivação.
 
 &nbsp;
 &nbsp;
 
 ### Transparência
 
-Além da abordagem descentralizada, a Web3 adora transparência: todos podem olhar para as blockchains e ver qual é a verdade. Não há debate sobre a verdade e nenhuma informação oculta. Todos agentes sabem o mesmo e podem, portanto, agir de acordo. A transparência é o outro alicerce da Web3 que, em conexão com a descentralização, deve proteger as pessoas e a integridade da rede.
+Além da abordagem descentralizada, a *Web3* adora transparência: todos podem olhar para as *blockchains* e ver tudo. Não há debate sobre a verdade e nenhuma informação oculta. Todos agentes sabem o mesmo e podem, portanto, agir de acordo. A transparência é o outro alicerce da *Web3* que, em conexão com a descentralização, visa proteger as pessoas e a integridade da rede.
 
 &nbsp;
 &nbsp;
 
 ### Liberdade negativa e censura
 
-Web3 é baseada em uma definição negativa de liberdade. Isso não é um julgamento de valor, mas uma afirmação sobre como o conceito de liberdade é estruturado: na Web3, liberdade significa principalmente liberdade de restrição. A ideia de (possível) censura está ligada a muitas ideias da Web3, e a exclusão ou restrição de conteúdo é um dos principais casos que os defensores da Web3 apresentam para argumentar que a Web atual precisa ser substituída.
+*Web3* é baseada em uma definição negativa de liberdade. Isso não é um julgamento de valor, mas uma afirmação sobre como o conceito de liberdade é estruturado: na *Web3*, liberdade significa principalmente liberdade de restrição. A ideia de (possível) censura está ligada a muitas concepcões da *Web3*, e a exclusão ou restrição de conteúdo é um das principais bandeiras para argumentar que a Web atual precisa ser substituída.
 
-Essa visão libertária também se reflete em muito da construção social e política dos serviços da Web3: “O Estado” ou “O Governo” é basicamente visto como ignorante e mal-intencionado. Seguindo o caminho conceitual que a [Declaração da Independência do Ciberespaço](https://pt.wikipedia.org/wiki/A_Declara%C3%A7%C3%A3o_de_Independ%C3%AAncia_do_Ciberespa%C3%A7o) de John Perry Barlow delineou, a Web3 não vê os governos como atores-chave em seus espaços: os governos são vistos como uma ameaça à liberdade e, embora a Web3 obviamente não possa substituir diretamente estados e governos, o conceito das DAOs é frequentemente apresentado como uma maneira melhor de organizar as pessoas em vez das estruturas gigantes e lentas do aparato político. A Web3 vê as regras como algo previamente concordadas com um contrato inteligente.
+Essa visão libertária também se reflete da construção social e política dos serviços da *Web3*: “O Estado” é basicamente visto como ignorante e mal-intencionado. Seguindo o caminho conceitual que a [Declaração da Independência do Ciberespaço](https://pt.wikipedia.org/wiki/A_Declara%C3%A7%C3%A3o_de_Independ%C3%AAncia_do_Ciberespa%C3%A7o) delineou, a *Web3* não vê os governos como atores-chave em seus espaços: eles são vistos como uma ameaça à liberdade e, embora a *Web3* obviamente não possa diretamente substituí-los, o conceito das DAOs é frequentemente apresentado como uma maneira melhor de organizar as pessoas em vez das estruturas gigantes e lentas do aparato político.
 
 &nbsp;
 &nbsp;
 
 ### Código é lei
 
-Na Web3 não há espaço para “política” como em espaços onde as pessoas debatem algo e tentam encontrar uma decisão. Em vez disso, as estruturas são configuradas de maneira a remover esse elemento humano, codificando o que uma estrutura faz em seu contrato inteligente.
+Na *Web3* não há espaço para “política”, no sentido de espaços onde as pessoas debatem algo e para encontrar uma solução. Em vez disso, as estruturas são configuradas de maneira a remover o elemento humano, codificando em contratos inteligentes.
 
-Nossa web atual é construída em torno de muitos sistemas sociais e políticos. Quando, por exemplo, alguém ocupa um domínio para o qual outra pessoa possui a marca registrada, existem processos para “libertar” esse domínio do invasor. Mas esses processos são complexos, nem sempre justos ou iguais e geralmente um pouco confusos. Na Web3 é tudo sobre a propriedade do *token* correto. Essa é a lei. E não há debate sobre como a lei deveria ser ou poderia ser aplicada. Você possui o *token*, você possui a coisa que ele referencia.
+Nossa web atual é construída em torno de muitos sistemas sociais e políticos. Quando, por exemplo, alguém ocupa um domínio para o qual outra pessoa possui uma marca registrada, existem processos para “libertar” esse domínio do seu dono original. Mas esses processos são complexos, nem sempre justos ou iguais e geralmente um pouco confusos. 
 
-Essa crença elimina a necessidade de muito suporte que os sistemas tradicionais têm: se o que o contrato diz está certo e você enviou seus *tokens* para algum lugar, eles não são mais seus, se você fez essa negociação voluntariamente ou não.
+Na *Web3* é tudo sobre a propriedade do *token* correto. Essa é a lei. E não há debate sobre como a lei deveria ser ou poderia ser aplicada. Se você possui o *token*, você é dono da coisa a que se referencia.
 
 &nbsp;
 &nbsp;
 
 ## Então qual é o problema com a Web3?
 
-Ok, então você chegou até aqui. Vamos finalmente entender por que passo todo esse tempo escrevendo este longo artigo. Por que não posso simplesmente deixar as pessoas que querem construir o que querem? Por que continuo alertando e criticando a Web3 em voz alta e publicamente?
+Ótimo, você chegou até aqui! Vamos finalmente entender por que passo todo esse tempo escrevendo essa introdução. 
 
-Aqui estão minhas principais críticas, não em nenhuma ordem específica. Dependendo do caso em questão e da perspectiva, um conjunto diferente de argumentos pode se aplicar mais, mas no final todos eles se aplicam basicamente a tudo que é Web3.
+Aqui seguem as minhas principais críticas, em nenhuma ordem específica. Dependendo do caso em questão e da perspectiva, um conjunto diferente de argumentos pode se aplicar mais de uma delas, mas no final todos elas se aplicam basicamente a tudo que é *Web3*.
 
 Fique avisado, esta é a parte em que deixo de apresentar as coisas de maneira pseudo-neutra.
 
@@ -308,38 +318,45 @@ Fique avisado, esta é a parte em que deixo de apresentar as coisas de maneira p
 
 ### Mérito Técnico
 
-Um dos principais problemas que tenho com a Web3 dessa perspectiva é que é apenas uma tecnologia ruim.
+Um dos principais problemas que tenho com a *Web3* dessa perspectiva é que é apenas uma tecnologia ruim.
 
 &nbsp;
 &nbsp;
 
 #### Blockchains não processam nem escalam
 
-Ethereum – o blockchain que muitas coisas estão usando – tem o poder computacional de um [Apple II](https://pt.wikipedia.org/wiki/Apple_II). 
+Ethereum (a *blockchain* que muitas coisas estão usando) tem o poder computacional de um [Apple II](https://pt.wikipedia.org/wiki/Apple_II). 
 
-Ele usa tanta eletricidade quanto a Bélgica para isso[cit], mas do ponto de vista puramente em poder de processamento, essa coisa é lenta. 
+Ela usa tanta eletricidade quanto a Bélgica para isso[cit], mas do ponto de vista puramente em poder de processamento, essa coisa é lenta. 
 
 Por exemplo, um Raspberry Pi velho é mais rápido. E não é apenas o poder de processamento: como a rede precisa de tempo para criar consenso para cada bloco, adicionar transações é ridiculamente lento. 
 
-Atualmente, o Bitcoin pode fazer cerca de 4,5 transações por segundo. PARA TODO O BITCOIN. Ethereum é um pouco melhor e pode fazer cerca de 30 transações por segundo. Isso também é ridiculamente baixo. A rede Visa para processar cartões de crédito pode fazer até 24.000 transações por segundo (atualmente fazem cerca de 1.740 por segundo).
+Atualmente, o Bitcoin pode fazer cerca de 4,5 transações por segundo. **Para todo Bitcoin**. Ethereum é um pouco melhor e pode fazer cerca de 30 transações por segundo. Isso também é ridiculamente baixo. A rede Visa pode fazer até 24.000 transações por segundo (atualmente fazem cerca de 1.740 por segundo).
 
-Atualmente, os serviços Web3 existentes podem funcionar porque são apenas alguns nerds que os utilizam. Eles não são arquitetonicamente adequados para executar qualquer coisa em escala.
+Atualmente, os serviços *Web3* podem funcionar porque são apenas alguns nerds que os utilizam. Eles não são arquitetonicamente adequados para executar qualquer coisa em escala.
 
-Há maneiras de acelerá-los, é claro. Se você remover o requisito de formar um consenso, por exemplo, definindo um árbitro, as coisas ficam muito mais rápidas, mas agora você tem um banco de dados centralizado piorado.
+Uma transação Bitcoin geralmente precisa de 6 confirmações para ser processada. O tempo médio para minerar um bloco é de 10 minutos, então **você espera que uma transação leve em média uma hora**. No entanto, o recente boom de popularidade causou congestionamento na rede. O tempo médio para uma confirmação recentemente variou de 30 minutos a mais de 16 horas em casos extremos. https://coincentral.com/how-long-do-bitcoin-transfers-take/
+
+Na Ethereum, [o frenesi das NFTs já sobrecarregou a rede](https://stockhead.com.au/cryptocurrency/covidpunks-sell-out-clogging-ethereum-network-and-costing-users-thousands-in-gas-fees/). 
+
+Há maneiras de aceler isso, é claro. Se você remover o requisito de consenso, definindo um árbitro, as coisas ficam muito mais rápidas – mas agora você apenas tem um banco de dados centralizado e piorado.
 
 &nbsp;
 &nbsp;
 
 #### O que acontece na web3 fica na web3
 
-Não há concorrente do Facebook baseado em *blockhain*. A maior parte da discussão da web3 acontece no Discord, um serviço de bate-papo centralizado e executado em software proprietário. Não encontrei nenhuma iniciativa da web3 que ofereça um substituto sério para as plataformas existentes.
+Não há concorrente do Facebook baseado em *blockhain*. A maior parte da discussão da *Web3* acontece no [Discord](https://discord.com/), um software proprietário e centralizado para serviço de bate-papo centralizado. Não encontrei nenhuma iniciativa da *Web3* que ofereça um substituto sério para as plataformas existentes.
 
 A moderação de conteúdo é um problema difícil nessas plataformas sociais. Tanto que tivemos o Meta/Facebook permitindo a coordenação do [genocídio em Mianmar](https://www.theverge.com/2021/9/23/22689559/facebook-rohingya-myanmar-official-data-order-gambia-genocide-trial) à vista de todos. É verdade que a supressão da liberdade de expressão tem sido um problema atualmente, mas promover a violência e a misoginia é um problema maior e mais concreto.
 
 Em uma *blockchain*, a moderação de conteúdo é ainda mais difícil do que nas plataformas atuais. Afinal, a ideia das *blockchains* é que nada pode ser apagado delas. 
+
 Da mesma maneira que seria muito difícil para um governo impedir a mineração de Bitcoin, em um sistema distribuído seria muito difícil suprimir a propaganda de qualquer coisa horrível que um bando de pessoas odiosas quisesse.
 
-O Snapchat ficou grande porque prometia que as interações entre os usuários em sua plataforma desapareceriam rapidamente. Eles acharam que publicar algo na web já é permanente demais para adolescentes – eles não deveriam ser responsabilizados por algumas piadas inocentes que não parecem mais inocentes em algumas décadas. Blockchain é exatamente o oposto: qualquer coisa já feita em um blockhain é armazenada permanentemente para o mundo inteiro ver. Isso não me parece uma situação atraente para comunicação normal e transparente entre indivíduos.
+O Snapchat ficou famoso porque oferecia interações entre os usuários que desaparecessem rapidamente. A ideia geral é que publicar algo na web é permanente demais para adolescentes – eles não deveriam ser responsabilizados no futuro por algumas piadas feitas há algumas décadas. Blockchain proporciona exatamente o oposto: qualquer coisa já feita online é armazenada permanentemente para o mundo inteiro ver.
+
+[doxing]
 
 &nbsp;
 &nbsp;
@@ -348,114 +365,96 @@ O Snapchat ficou grande porque prometia que as interações entre os usuários e
 
 https://blog.wesleyac.com/posts/web3-centralized
 
-A graça é: a web3, como existe hoje e parece estar se desenvolvendo, é mais centralizada do que ela procura substituir.
+A piada é: a web3, como existe hoje e parece estar se desenvolvendo, é mais centralizada do que ela procura substituir.
 
-Uma das principais alegações que as *blockchains* tendem a fazer é que elas são descentralizadas. O problema é que "descentralização" não é um eixo único - embora qualquer pessoa possa ingressar na rede Ethereum ou Bitcoin, você só pode ingressar se concordar em seguir o mesmo protocolo que todos os outros *nodes* usam. 
+&nbsp;
+&nbsp;
 
-Se você ativar um *node* de Ethereum, mas definir a recompensa do bloco para algo com o qual a rede não concorda, não irá muito longe. A forma como este protocolo é decidido não é exatamente centralizado, mas também não é descentralizado. As *blockchains* estão focadas na construção de sistemas para consenso global, mas o consenso global é um objetivo que está fundamentalmente em desacordo com o objetivo da descentralização.
+**1. Centralização como protocolo**
 
-Compare isso com a web atual – qualquer um pode entrar e usar protocolo que quiser. Se você quiser fazer alterações nele, poderá fazê-lo unilateralmente, embora seja improvável que os clientes apoiem suas alterações, a menos que você faça um trabalho significativo. É trivial criar sua própria rede privada (na verdade, você provavelmente já tem uma própria rede privada no seu roteador doméstico).
+Uma das principais bandeiras é que as *blockchains* são descentralizadas; portanto, imunes a abusos. O problema é que "descentralização" não é um eixo único - embora qualquer pessoa possa ingressar na rede Ethereum ou Bitcoin, você só pode ingressar se concordar em seguir o mesmo protocolo que todos os outros *nodes* usam. 
+
+Se você ativar um *node* de Ethereum, mas definir a recompensa do bloco para algo com o qual a rede não concorda, você estará jogando trabalho fora. A forma como este protocolo é decidido não é exatamente centralizado, mas também não é descentralizado. As *blockchains* estão focadas na construção de sistemas para consenso global, mas o consenso global é um objetivo que está fundamentalmente em desacordo com o objetivo da descentralização.
+
+Compare isso com a web atual, qualquer um pode entrar e usar protocolo que quiser. Se você quiser fazer alterações nele, poderá fazer unilateralmente – embora seja improvável que os clientes apoiem suas alterações, a menos que você faça um trabalho significativo. É trivial criar sua própria rede privada (na verdade, você provavelmente já tem uma própria rede privada no seu roteador doméstico).
 
 O Ethereum é descentralizado apenas da maneira que não importa – você é livre para ingressar no sistema descentralizado, sob a condição de agir exatamente da mesma maneira que todos os outros atores desse sistema.
 
-Mas vamos voltar ao risco sistêmico – afinal, essa é razão pela qual eu me importo com a descentralização: evitar falhas globais. O Ethereum é significativamente pior a esse respeito do que a web - se eu executo meus próprios servidores web, estou relativamente isolado de falhas globais - estou em grande parte no controle de como o sistema que eu dirijo opera, e os custos e riscos são simples de entender. O principal risco global é o [BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol), mas, na prática, isso geralmente leva a falhas no nível do país ou do provedor, em vez de falhas verdadeiramente globais.
+&nbsp;
+&nbsp;
+
+**2. Centralização vs. risco sistêmico**
+
+Essa é razão pela qual eu me importo com a descentralização: evitar falhas globais. 
+
+O Ethereum é significativamente pior nesse respeito - se eu executo meus próprios servidores web, estou relativamente isolado de falhas globais - estou em grande parte no controle de como o sistema que eu dirijo opera, e os custos e riscos são simples de entender. O principal risco global é o [BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol), mas, na prática, isso geralmente leva a falhas no nível do país ou do provedor, em vez de falhas verdadeiramente globais.
 
 Compare isso com o Ethereum ou outras *blockchains*, onde, ao construir na plataforma, você está inerentemente se expondo ao risco de que seus custos de negócios ou tempos de transação possam aumentar drasticamente devido à volatilidade no mercado de criptoativos não relacionado a você. 
 
-Isso não é um problema hipotético - [o frenesi de NFTs pode interromper o resto da rede Ethereum](https://stockhead.com.au/cryptocurrency/covidpunks-sell-out-clogging-ethereum-network-and-costing-users-thousands-in-gas-fees/). 
+Isso não é um problema hipotético - [vamos lembrar do golpe dos COVIDpunks](https://stockhead.com.au/cryptocurrency/covidpunks-sell-out-clogging-ethereum-network-and-costing-users-thousands-in-gas-fees/). 
 
-E não podemos ignorar que diversas plataformas (como o OpenSea) hospedam as imagens NFT no [Google Cloud Plataform](https://pt.wikipedia.org/wiki/Google_Cloud_Platform) (uma plataforma centralizada que fica feliz em honrar as remoções do [DMCA](https://pt.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)) ou DAOs executando suas comunidades no Discord. 
+E não podemos ignorar que diversas plataformas (como o OpenSea) hospedam as imagens NFT no [Google Cloud Plataform](https://pt.wikipedia.org/wiki/Google_Cloud_Platform) (uma plataforma centralizada que honra as remoções via [DMCA](https://pt.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)) ou DAOs mantendo suas comunidades no Discord. 
 
-Isso mostra o quão pouco as pessoas que constroem essas coisas realmente se importam com a descentralização. É condenável que a tecnologia fundamental que essas pessoas escolhem seja mais centralizada do que a web.
+Isso mostra que as pessoas que constroem essas plataformas não se importam com a descentralização. É condenável que a tecnologia fundamental que essas pessoas escolhem seja mais centralizada do que a web.
 
-A razão pela qual isso bastante óbvia: a grande maioria dos DAOs e outros projetos da web3 são dinheiro rápido. É muito mais fácil pegar o dinheiro das pessoas na forma de ETH do que iniciar sua própria chain.
+A razão pela qual isso acontece é bastante óbvia: a grande maioria dos DAOs e outros projetos da *web3* são dinheiro rápido. É muito mais fácil pegar o dinheiro das pessoas na forma de ETH do que iniciar sua própria *chain*.
 
-Tenho certeza de que várias pessoas reclamarão que web3 não significa Ethereum e que existem muitos projetos web3 baseados em outras tecnologias. Isso é verdade, mas tudo o que vi sob a bandeira da web3 tem o mesmo problema: é descentralizado, pois muitas pessoas podem ingressar na rede, mas não descentralizado, pois as pessoas não podem criar facilmente suas próprias redes separadas das outras pessoas. Compare isso com a web, onde milhões de entidades administram suas próprias redes que são fundamentalmente independentes, em alguns casos federadas entre si, enquanto em outros permanecem completamente privadas e independentes.
+Tenho certeza de que várias pessoas vão reclamar que a *web3* não significa Ethereum e que existem muitos projetos *web3* baseados em outras tecnologias. Isso é verdade, mas tudo o que vi sob a bandeira da *web3* tem o mesmo problema: é descentralizado, pois muitas pessoas podem ingressar na rede, mas não descentralizado, pois as pessoas não podem criar facilmente suas próprias redes separadas das outras pessoas. Compare isso com a web atual, onde milhões de entidades administram suas próprias redes que são completamente independentes, em alguns casos federadas entre si, enquanto em outros permanecem completamente privadas e independentes.
 
-O problema aqui é a motivação: as pessoas que estão trabalhando na web3 geralmente querem ser pagas por isso, mas isso é fundamentalmente mais difícil fazer em sistemas verdadeiramente descentralizados do que de sistemas centralizados. Por causa disso, as pessoas acabam construindo sistemas que são centralizados em seu núcleo, com alguma estética de descentralização espalhada por cima, e chamam isso de web3.
+A questão aqui é que as pessoas que estão trabalhando na *web3* geralmente querem ser pagas por isso, mas isso é fundamentalmente mais difícil fazer em sistemas verdadeiramente descentralizados do que de sistemas centralizados. Por causa disso, as pessoas acabam construindo sistemas que são centralizados em seu núcleo, com alguma estética de descentralização espalhada por cima, e chamam isso de *web3*.
 
+&nbsp;
+&nbsp;
 
-
----
+**3. A conveniência da centralização**
 
 Existe uma razão pela qual as pessoas usam os mesmos sites (como Google, Facebook, etc) e isso se deve à conveniência que eles oferecem e ao alcance que podem proporcionar. Se isso é um problema, não é um problema técnico, mas econômico. 
 
 As grandes empresas têm mais capacidade de design e programação para oferecer serviços online do que indivíduos e projetos de código aberto sem fins lucrativos têm atualmente.
 
-Dito isso, há 20 anos não era exatamente difícil administrar seu próprio site e hoje é ainda mais simples. No entanto, interagir com um blockchain requer muito mais habilidade técnica do que isso. Os projetos de blockchain mais populares são grandes por causa dos portais centralizados como Coinbase e OpenSea.
+Vamos lembrar por que as plataformas centralizadas começaram a surgir:
 
-[MOXIE]
+   1. **As pessoas não querem rodar seus próprios servidores**. A premissa da web1 era que todos seriam editores e consumidores de conteúdo, bem como editores e consumidores de infraestrutura.
 
-As it happens, companies have emerged that sell API access to an ethereum node they run as a service, along with providing analytics, enhanced APIs they’ve built on top of the default ethereum APIs, and access to historical transactions. Which sounds… familiar. At this point, there are basically two companies. Almost all dApps use either Infura or Alchemy in order to interact with the blockchain. In fact, even when you connect a wallet like MetaMask to a dApp, and the dApp interacts with the blockchain via your wallet, MetaMask is just making calls to Infura!
+    Todos nós teríamos nosso próprio servidor com nosso próprio site, nosso próprio servidor de e-mail para nosso próprio e-mail, etc. No entanto, ninguém quer fazer isso. Nem mesmo os nerds querem isso nessa altura do campeonato.
 
-These client APIs are not using anything to verify blockchain state or the authenticity of responses. The results aren’t even signed. An app like Autonomous Art says “hey what’s the output of this view function on this smart contract,” Alchemy or Infura responds with a JSON blob that says “this is the output,” and the app renders it.
+    Interagir com uma *blockchain* requer muito mais habilidade técnica do que hospedar um site. Os projetos de *blockchain* mais populares só são grandes por causa dos portais centralizados como Coinbase e OpenSea.
 
-This was surprising to me. So much work, energy, and time has gone into creating a trustless distributed consensus mechanism, but virtually all clients that wish to access it do so by simply trusting the outputs from these two companies without any further verification. It also doesn’t seem like the best privacy situation. Imagine if every time you interacted with a website in Chrome, your request first went to Google before being routed to the destination and back. That’s the situation with ethereum today. All write traffic is obviously already public on the blockchain, but these companies also have visibility into almost all read requests from almost all users in almost all dApps.
+   2. **Um protocolo evolui mais devagar do que uma plataforma**. Mesmo depois de 30 anos, o e-mail ainda não é criptografado; enquanto isso, o WhatsApp passou de não criptografado para [e2ee](https://pt.wikipedia.org/wiki/Criptografia_de_ponta-a-ponta) em um ano. 
 
----
+    Isso não é uma questão de financiamento. Se algo é realmente descentralizado, é muito difícil mudar. Isso é um problema para toda tecnologia, porque o resto do ecossistema está se movendo muito rapidamente e, se você não acompanhar, irá falhar.
 
-Não vejo blockchains destruindo o Facebook tão cedo, nem que seja uma coisa boa por si só. O pior é que projetos de blockchain bem financiados realmente aumentam a desigualdade. O que não deveria ser uma surpresa, já que o aumento da desigualdade é um efeito (alguns diriam propósito) do capitalismo. E é claro que uma tecnologia de internet que trata de possuir coisas e ganhar dinheiro não mudará o funcionamento do capitalismo globalizado. Muito pelo contrário: se há dinheiro a ser ganho, ele atrai investimentos que devem trazer um alto retorno aos investidores, para que fiquem ainda mais ricos.
+    Quando a própria tecnologia tende à inércia do que ao movimento, isso é uma receita para o insucesso.
+
+&nbsp;
+&nbsp;
+
+**4. Centralização material**
+
+Existem empresas que vendem acesso à API para *nodes* de Ethereum. Atualmente, são basicamente duas: [Infura](https://infura.io/) e [Alchemy](https://www.alchemy.com/).
+
+O problema é que essas APIs não estão usando nada para verificar o estado do *blockchain* ou a autenticidade das respostas. Os resultados sequer são assinados. Um aplicativo diz “ei, qual é o output dessa função de visualização neste contrato inteligente”, e a Alchemy ou Infura responde com um blob JSON que diz “esta é o output e o aplicativo a renderiza.
+
+Isso é surpreendente. 
+
+Tanto trabalho, energia e tempo investidos na criação de um mecanismo de consenso distribuído, mas praticamente todos os clientes que desejam acessá-lo o fazem simplesmente confiando nos resultados dessas duas empresas **sem qualquer verificação adicional**. 
+
+Também não é a melhor situação para a privacidade dos usuários. Imagine se toda vez que você navegue em um site no Chrome, sua solicitação primeiro fosse para o Google antes de ser roteada para o destino e vice-versa. Essa é a situação com o Ethereum hoje. Obviamente, todo tráfego de gravação já é público na *blockchain*, mas **essas duas empresas também têm visibilidade de quase todas as solicitações de leitura de quase todos os usuários em quase todos os aplicativos**.
 
 &nbsp;
 &nbsp;
 
 #### Web3 é um desastre de segurança
 
-É muito desagradável se os dados do seu cartão de crédito são roubados. Você tem que pedir um novo cartão e ligar para o bancoe avisar que um monte de transações eram fraudulentas. É um incômodo. Mas existem sistemas para protegê-lo. Eles não são perfeitos, mas funcionam razoavelmente bem.
+É muito desagradável quando os dados do seu cartão de crédito são roubados. Você tem que pedir um novo cartão e ligar para o banco e avisar que um monte de transações foram fraudulentas. É um incômodo. Mas existem sistemas para protegê-lo. Eles não são perfeitos, mas funcionam razoavelmente bem.
 
-Com um sistema baseado em *blockchain*, todas essas proteções desaparecem porque não há a opção de “desfazer”. Se você tem as economias da sua vida em Bitcoin e alguém obtém acesso à sua chave, essas moedas se foram e você está sem sorte. 
+Com um sistema baseado em *blockchain*, todas essas proteções desaparecem porque não há a opção de “desfazer”. Se você tem as economias da sua vida em Bitcoin e alguém obtém acesso à sua chave, essas moedas vão desaparecer. 
 
-O quão fácil é clicar acidentalmente em um botão errado? Quantas pessoas clicam em e-mails de [phishing](https://pt.wikipedia.org/wiki/Phishing)? Quantas as pessoas já tiveram seus computadores infectados com um vírus? Esse risco é completamente indefensável. Precisamos de mais proteções para as pessoas, não menos.
+O quão fácil é clicar acidentalmente em um botão errado? Quantas pessoas clicam em e-mails de [phishing](https://pt.wikipedia.org/wiki/Phishing)? Quantas as pessoas já tiveram seus computadores infectados com um vírus?
 
-[assaltomacacos]
+[Isso já está acontecendo](https://forkast.news/headlines/monkey-kingdom-nft-hack/). Hackers [enviam tokens gratuitos às pessoas que as enganam para esvaziar suas carteiras](https://blog.coinbase.com/security-psa-airdrop-phishing-campaign-38b880c0298a).
 
-here’s an alert about hackers sending people free tokens that trick them into emptying out their entire wallets. https://blog.coinbase.com/security-psa-airdrop-phishing-campaign-38b880c0298a
-
----
-
-A crypto wallet like MetaMask, Rainbow, etc is “non-custodial” (the keys are kept client side), but it has the same problem as my dApps above: a wallet has to run on a mobile device or in your browser. Meanwhile, ethereum and other blockchains have been designed with the idea that it’s a network of peers, but not designed such that it’s really possible for your mobile device or your browser to be one of those peers.
-
-A wallet like MetaMask needs to do basic things like display your balance, your recent transactions, and your NFTs, as well as more complex things like constructing transactions, interacting with smart contracts, etc. In short, MetaMask needs to interact with the blockchain, but the blockchain has been built such that clients like MetaMask can’t interact with it. So like my dApp, MetaMask accomplishes this by making API calls to three companies that have consolidated in this space.
-
-For instance, MetaMask displays your recent transactions by making an API call to etherscan:
-
-GET https://api.etherscan.io/api?module=account&address=0x0208376c899fdaEbA530570c008C4323803AA9E8&offset=40&order=desc&action=txlist&tag=latest&page=1 HTTP/2.0                                                          
-
-…displays your account balance by making an API call to Infura:
-
-POST https://mainnet.infura.io/v3/d039103314584a379e33c21fbe89b6cb HTTP/2.0
-
-{
-    "id": 2628746552039525,
-    "jsonrpc": "2.0",
-    "method": "eth_getBalance",
-    "params": [
-        "0x0208376c899fdaEbA530570c008C4323803AA9E8",
-        "latest"
-    ]
-}
-
-…displays your NFTs by making an API call to OpenSea:
-
-GET https://api.opensea.io/api/v1/assets?owner=0x0208376c899fdaEbA530570c008C4323803AA9E8&offset=0&limit=50 HTTP/2.0                                                                                               
-
-Again, like with my dApp, these responses are not authenticated in some way. They’re not even signed so that you could later prove they were lying. It reuses the same connections, TLS session tickets, etc for all the accounts in your wallet, so if you’re managing multiple accounts in your wallet to maintain some identity separation, these companies know they’re linked.
-
-MetaMask doesn’t actually do much, it’s just a view onto data provided by these centralized APIs. This isn’t a problem specific to MetaMask – what other option do they have? Rainbow, etc are set up in exactly the same way. (Interestingly, Rainbow has their own data for the social features they’re building into their wallet – social graph, showcases, etc – and have chosen to build all of that on top of Firebase instead of the blockchain.)
-
-All this means that if your NFT is removed from OpenSea, it also disappears from your wallet. It doesn’t functionally matter that my NFT is indelibly on the blockchain somewhere, because the wallet (and increasingly everything else in the ecosystem) is just using the OpenSea API to display NFTs, which began returning 304 No Content for the query of NFTs owned by my address!
-
-&nbsp;
-&nbsp;
-
-#### problemas atualizacao
-
-A protocol moves much more slowly than a platform. After 30+ years, email is still unencrypted; meanwhile WhatsApp went from unencrypted to full e2ee in a year. People are still trying to standardize sharing a video reliably over IRC; meanwhile, Slack lets you create custom reaction emoji based on your face.
-
-This isn’t a funding issue. If something is truly decentralized, it becomes very difficult to change, and often remains stuck in time. That is a problem for technology, because the rest of the ecosystem is moving very quickly, and if you don’t keep up you will fail. There are entire parallel industries focused on defining and improving methodologies like Agile to try to figure out how to organize enormous groups of people so that they can move as quickly as possible because it is so critical.
-
-When the technology itself is more conducive to stasis than movement, that’s a problem. A sure recipe for success has been to take a 90’s protocol that was stuck in time, centralize it, and iterate quickly.
-
+Esse risco é completamente indefensável. Precisamos de mais proteções para as pessoas, não menos.
 
 &nbsp;
 &nbsp;
@@ -551,6 +550,13 @@ Existem partes de sua vida digital que atualmente você não pode realmente vend
 &nbsp;
 &nbsp;
 
+### Ciclo de hype
+
+https://en.wikipedia.org/wiki/Gartner_hype_cycle
+
+&nbsp;
+&nbsp;
+
 ## Considerações finais
 
 Eu entendo muitas das motivações que levam as pessoas a querer repensar a web. Os monopólios e os desequilíbrios de poder, a desigualdade e a injustiça.
@@ -601,3 +607,5 @@ https://portaldobitcoin.uol.com.br/jogos-blockchain-que-morreram-e-deixaram-milh
 https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-here-are-some-graphs-to-prove-it-c65718d4a1b8
 
 ted gioia
+
+

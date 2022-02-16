@@ -16,4 +16,5 @@ For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 
 1. [Fat Family - Jeito Sexy](https://www.youtube.com/watch?v=L6uUHqXmxfc) é [Diana King - Shy Guy](https://www.youtube.com/watch?v=szjaHbjhauk).
    
 2. Quando Jimmy Hendrix tocou em Woodstock, ele tinha uma cláusula contratual que ninguém mais poderia tocar depois dele. Devido a alguns problemas técnicos e de agendamento, [ele não tocou até as 9h da manhã de segunda-feira](https://www.history.com/news/remembering-richie-havens-ten-things-you-may-not-know-about-woodstock). A maioria das pessoas já tinha ido para casa e perdido seu set lendário.
-3. 
+3. O nome do [Boninho](https://pt.wikipedia.org/wiki/Boninho) é José Bonifácio.
+4. [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) ganhou o Nobel de Física em 1906 quando mostrou que os elétrons eram **partículas**. Seu filho, [G. P. Thomson](https://en.wikipedia.org/wiki/George_Paget_Thomson), ganhou o Prêmio Nobel de Física em 1937 por mostrar que os elétrons são **ondas**. 

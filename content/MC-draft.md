@@ -14,12 +14,45 @@ Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqu
 &nbsp;
 &nbsp;
 
+## Fevereiro
+
+## Livros
+
+robert wright
+
+&nbsp;
+&nbsp;
+
+## Álbuns novos
+
+Animal Collective - Time Skiffs
+black country, new road
+
+Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2022-02-01&to=2022-02-28) o relatório completo.
+
+&nbsp;
+&nbsp;
+
+## Filmes
+
+&nbsp;
+&nbsp;
+
+## Séries
+
+- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S03). (6.5);
+
+- Masters of the universe
+
+&nbsp;
+&nbsp;
+
 ## Janeiro
 
 ### Livros
 
-- [Mindfulness in Plain English](https://www.amazon.com.br/Mindfulness-Plain-English-20th-Anniversary/dp/0861719069), Gunarantana. Iniciando minha jornada na meditação. O livro aborta mitos, realidades e benefícios da meditação e prática de mindfulness (8);
-
+- [Anna Kariênina](https://www.amazon.com.br/Anna-Kari%C3%AAnina-Irineu-Franco-Perpetuo/dp/6555250577), Tolstói
+- [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.amazon.com.br/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212), Jorgenson.
 
 
 &nbsp;
@@ -27,8 +60,10 @@ Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqu
 
 ### Álbuns novos
 
-- Richard Dawson & Circle - Henki 
-h
+- FKA twigs - CAPRISONGS
+- Let's Eat Grandma - I'm All Ears
+- Marina Sena - De Primeira
+- Matthew Simmons - The midnight sun will never set
 
 Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2022-01-01&to=2022-01-31) o relatório completo.
 
@@ -37,23 +72,16 @@ Veja [aqui](https://www.last.fm/user/GabrielDuro/library/albums?from=2022-01-01&
 
 ### Filmes
 
-- [Tick, Tick... Boom!](https://www.imdb.com/title/tt8721424/) (2021). XXX. (X);
-
-coda
-ghostbusters
-mass
+- [CODA](https://www.imdb.com/title/tt10366460/) (2021);
+- [Ghostbusters: Afterlife](https://www.imdb.com/title/tt4513678/) (2021);
+- [Mass](https://www.imdb.com/title/tt11389748/) (2021).
 
 &nbsp;
 &nbsp;
 
 ### Séries
 
-- [Seinfeld](https://www.imdb.com/title/tt0098904/), (S07). (9);
-
-- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S02). (6.5);
-- [How to with John Wilson](https://www.imdb.com/title/tt10801534/) (S02)
-
-- Masters of the universe
-
-&nbsp;
-&nbsp;
+- [Seinfeld](https://www.imdb.com/title/tt0098904/), (S09). (9);
+- [M.A.S.H.](https://www.imdb.com/title/tt0068098/), (S02~03). (6.5);
+- [How to with John Wilson](https://www.imdb.com/title/tt10801534/) (S02);
+- [Dexter: New Blood](https://www.imdb.com/title/tt14164730/), (S01). (6).

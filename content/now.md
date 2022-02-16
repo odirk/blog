@@ -1,6 +1,6 @@
 ---
 title: "O que estou fazendo agora"
-# date: "2022-02-07"
+date: "2022-02-16"
 description: "Pequenos projetos e interesses da minha vida pessoal"
 showToc: false
 searchHidden: true
@@ -33,17 +33,13 @@ Vou atualizando essa página de tempos em tempos. É só olhar a data do post :w
 
 ### :desert_island: O que estou lendo/assistindo/ouvindo no meu tempo livre
 
-[:movie_camera: Filmes](https://letterboxd.com/odirk/) (acabei de começar o perfil, bear with me).
-
-[:tv: TV](https://www.tvtime.com/en/user/4683679/profile).
-
-[:musical_note: Músicas da semana passada](https://www.last.fm/user/GabrielDuro/listening-report/week).
-
-[:notes: Músicas do ano passado](https://www.last.fm/user/GabrielDuro/listening-report/year).
+- [:movie_camera: Filmes](https://letterboxd.com/odirk/) (acabei de começar o perfil, bear with me).
+- [:tv: TV](https://www.tvtime.com/en/user/4683679/profile).
+- [:musical_note: Músicas da semana passada](https://www.last.fm/user/GabrielDuro/listening-report/week). E [do ano passado](https://www.last.fm/user/GabrielDuro/listening-report/year).
 
 O que eu acompanhei ano passado está [aqui](https://odirk.org/posts/2021/midia-consumida). 
 
-> Achei que a manutenção do post foi trabalhosa demais no ano passado, por isso estou linkando esses serviços.
+> Achei que a manutenção do post foi trabalhosa demais no ano passado, então estou só linkando esses serviços.
 
 &nbsp;
 &nbsp;

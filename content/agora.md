@@ -118,11 +118,15 @@ Acho que a minha curva de aprendizado começou a embarrigar, então eu prefiro g
 
 ### :lotus_position: Meditação
 
-Decidi que vou (tentar) aprender a meditar.
+Comecei a meditar em dezembro do ano passado.
 
-É uma ideia que está no fundo da minha cabeça há um tempo, e agora eu decidi que vou tentar fazer.
+É uma ideia que está no fundo da minha cabeça há um tempo. 
 
-Livros que me recomendaram sobre o assunto:
+Várias pessoas que eu respeito muito juram de pés juntos sobre os benefícios, mas eu sempre achei algo esotérico demais para o meu gosto. 
+
+Agora eu decidi fazer e decidir por mim mesmo.
+
+Livros que me li sobre o assunto:
 
 - **Mindfulness in Plain English**, Henepola Gunaratana. 
 
@@ -130,7 +134,9 @@ Instruções práticas e específicas sobre como meditar.
 
 - **Why Buddhism is True**, Robert Wright. 
 
-(Budismo secular, não religioso). Por que a meditação funciona, especificamente o que ela pretende resolver. Ele define o propósito de ter uma rotina e explica muito claramente os benefícios.
+(Budismo secular, não religioso). Por que a meditação funciona, especificamente o que ela pretende resolver. Ele define o propósito de ter uma rotina e explica claramente os benefícios.
+
+
 
 &nbsp;
 &nbsp;
@@ -157,7 +163,7 @@ Estou correndo umas 4~5x por semana, durante 50 minutos.
 &nbsp;
 &nbsp;
 
-### :dolphin: So Long and thanks for all the fish
+### :dolphin: So long and thanks for all the fish
 
 Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. 
 

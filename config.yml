@@ -133,9 +133,9 @@ menu:
           name: agora
           url: /agora/
           weight: 20
-        - identifier: about
+        - identifier: sobre
           name: sobre
-          url: /about/
+          url: /sobre/
           weight: 10
 outputs:
     home:

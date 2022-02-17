@@ -6,7 +6,7 @@ description: "O que ando fazendo no meu tempo livre?"
 showToc: true
 TocOpen: false
 ShowReadingTime: true
-draft: false
+draft: true
 ---
 
 Seguem os jogos, filmes, livros, músicas e séries de que gostei (ou não). Aqui está tudo que eu consumi esse ano, separado por mês. (Não dê tanta atenção para as notas em parênteses - elas são tão subjetivas que às vezes nem eu concordo com elas.)

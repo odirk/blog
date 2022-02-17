@@ -8,21 +8,13 @@ ShowReadingTime: false
 draft: false
 ---
 
-### "Agora"?
+### Agora?
 
-A maioria dos sites tem um link que diz “sobre”. Ele leva para uma página que informa algo sobre a pessoa.
+Essa é uma página que informa no que estou interessado neste hoje em dia.
 
-A maioria dos sites tem um link que diz “contato”. Ele leva para uma página que informa como entrar em contato com essa pessoa.
+Um link simples. Fácil de lembrar. Fácil de digitar.
 
-Portanto, um site com um link que diz “agora” leva a uma página que informa em que essa pessoa está interessada neste momento de sua vida.
-
-> "As atualizações do Twitter e do Facebook não fazem isso?"
-
-Olha, eu acho que não. 
-
-Se eu quero saber como alguém está hoje em dia, não me ajuda ver que ela saiu de férias na semana passada, que está chateada com algo no noticiário ou até mesmo conseguiu um novo emprego. Esse não é o quadro geral.
-
-Pense no que você diria a um amigo **que não via há um ano**.
+É um bom lembrete para mim mesmo, quando estou me sentindo sem foco. Uma declaração pública de prioridades.
 
 É para isso que serve essa página. Você não pode ter essa visão geral de nenhum outro canal que eu conheço.
 

@@ -446,31 +446,20 @@ Também não é a melhor situação para a privacidade dos usuários. Imagine se
 
 #### Web3 é um desastre de segurança
 
-É muito desagradável quando os dados do seu cartão de crédito são roubados. Você tem que pedir um novo cartão e ligar para o banco e avisar que um monte de transações foram fraudulentas. É um incômodo. Mas existem sistemas para protegê-lo. Eles não são perfeitos, mas funcionam razoavelmente bem.
+É muito desagradável quando seu cartão de crédito é roubado. Você precisa ligar para o banco, pedir um cartão novo e avisar que um monte de transações foram fraudulentas. É um incômodo. Mas existem sistemas para protegê-lo. Eles não são perfeitos, mas funcionam razoavelmente bem.
 
 Com um sistema baseado em *blockchain*, todas essas proteções desaparecem porque não há a opção de “desfazer”. Se você tem as economias da sua vida em Bitcoin e alguém obtém acesso à sua chave, essas moedas vão desaparecer. 
 
-O quão fácil é clicar acidentalmente em um botão errado? Quantas pessoas clicam em e-mails de [phishing](https://pt.wikipedia.org/wiki/Phishing)? Quantas as pessoas já tiveram seus computadores infectados com um vírus?
+O quão fácil é clicar acidentalmente em um botão errado? Quantas pessoas clicam em e-mails de [phishing](https://pt.wikipedia.org/wiki/Phishing)? Quantas as pessoas já tiveram seus computadores infectados com algum vírus?
 
-[Isso já está acontecendo](https://forkast.news/headlines/monkey-kingdom-nft-hack/). Hackers [enviam tokens gratuitos às pessoas que as enganam para esvaziar suas carteiras](https://blog.coinbase.com/security-psa-airdrop-phishing-campaign-38b880c0298a).
+Lembram que contratos inteligentes são apenas pedaços de código que são executados sob certas condições? Bem, já existem hackers que [enviam tokens gratuitos às pessoas que as enganam para esvaziar suas carteiras](https://blog.coinbase.com/security-psa-airdrop-phishing-campaign-38b880c0298a). Isso acontece com [relativa frequência](https://forkast.news/headlines/monkey-kingdom-nft-hack/).
 
 Esse risco é completamente indefensável. Precisamos de mais proteções para as pessoas, não menos.
 
 &nbsp;
 &nbsp;
 
-#### A Web3 é apenas uma tentativa de encontrar um uso para blockchain
 
-Quando um engenheiro analisa um problema, primeiro ele reúne os requisitos. O que o sistema que eles precisam construir precisa fazer, como, para quem, etc. Depois eles vão olhar para as tecnologias existentes e ver qual tecnologia e plataforma se adapta melhor aos requisitos. Com o Web3 aconteceu o contrário. 
-
-As pessoas tinham *blockchain* que era realmente útil apenas para executar negociações de segurança não regulamentadas sem pagar impostos (“Bitcoin”), mas realmente queriam usá-lo em algum lugar. 
-
-Como nos +10 anos que as *blockchains* existem nenhum caso de uso real surgiu, eles basicamente reformularam um problema (a web é centralizada e controlada por algumas empresas), forçaram a *blockchain* nele e alegaram ter uma solução. Eles não fazem isso.
-
-https://twitter.com/maxwellstrachan/status/1485967336750395397
-
-&nbsp;
-&nbsp;
 
 ### NFTs não fazem o que afirmam fazer
 
@@ -495,7 +484,7 @@ Colocado de forma simples, o Problema do Oráculo diz que de dentro de um sistem
 
 A Web3 quer colocar todos tipos coisa em alguma *blockchain*, mas muito disso (como a propriedade de um objeto físico) só poderia ser integrado por meio de oráculos nos quais você precisa confiar. Aqui acaba o conceito de *descentralização*. O que acontece se as pessoas passarem o objeto no mundo físico sem atualizar o *blockchain*? :)
 
-A ideia de que você pode controlar o mundo externo apenas colocando referências a objetos e relações em uma estrutura de dados imutável não é apenas ingênua, ela vai contra qualquer curso de ciência da computação.
+A ideia de que você pode controlar o mundo externo apenas colocando referências a objetos e relações em uma estrutura de dados imutável é muito ingênua.
 
 &nbsp;
 &nbsp;
@@ -528,7 +517,7 @@ O propósito de um sistema é o que ele faz. Se o que um sistema faz são golpes
 
 A Web3 promete muitas coisas sob o guarda-chuva “descentralização”. Mas usa esse termo como um fetiche vazio, substituindo debates necessários sobre justiça, igualdade e *stake*. 
 
-Apenas gritar “é descentralizado” não muda necessariamente as relações de poder: o protocolo de e-mail é descentralizado. Meu servidor de e-mail tem os mesmos protocolos que o Google tem, mas a relação entre eles igual. Se o Google bloquear meu servidor de e-mail, não consigo mais me comunicar com a maior parte da Internet. 
+Apenas gritar “é descentralizado” não muda necessariamente as relações de poder: o protocolo de e-mail é descentralizado. Meu servidor de e-mail tem os mesmos protocolos que o Google tem, mas a relação entre eles não é igual. Se o Google bloquear meu servidor de e-mail, eu não consigo mais me comunicar com a maior parte da Internet. 
 
 A descentralização, sozinha, é uma ideia vazia. É uma cortina de fumaça para esconder que a comunidade Web3 não tem respostas para questões de justiça ou mesmo monopólios.
 
@@ -543,7 +532,7 @@ A transparência é tão vazia quanto: de que adianta ver para onde seus *tokens
 
 ### Web3 é apenas um novo espaço de acumulação
 
-Há uma razão para tantas pessoas gostarem da Web3. Grupos como a [Andreesen Horowitz](https://en.wikipedia.org/wiki/Andreessen_Horowitz) estão pressionando tanto a Web3: é um novo espaço para acumulação. Coisas que atualmente não são totalmente monetizadas podem finalmente se tornar veículos de acumulação de capital, podem finalmente tornar os VCs ainda mais ricos.
+Há uma razão para tantas pessoas gostarem da Web3. Capitalistas de risco, como a [Andreesen Horowitz](https://en.wikipedia.org/wiki/Andreessen_Horowitz), estão pressionando tanto a Web3: é um novo espaço para acumulação. Coisas que atualmente não são totalmente monetizadas podem finalmente se tornar veículos de acumulação de capital, podem finalmente tornar os VCs ainda mais ricos.
 
 Existem partes de sua vida digital que atualmente você não pode realmente vender, mas é isso que eles querem mudar. Tudo precisa ser comprado e vendido, tudo é apenas um veículo para mais especulação. A razão pela qual eles querem que você possa revender seu *token* de acesso a algum serviço é criar ainda mais mercados para especulação e os contratos inteligentes podem ser configurados de forma que sejam sempre lucrativos.
 
@@ -559,28 +548,17 @@ https://en.wikipedia.org/wiki/Gartner_hype_cycle
 
 ## Considerações finais
 
-Eu entendo muitas das motivações que levam as pessoas a querer repensar a web. Os monopólios e os desequilíbrios de poder, a desigualdade e a injustiça.
+Eu entendo muitas das motivações que levam as pessoas a querer repensar a web. Os monopólios e os desequilíbrios de poder, a desigualdade e a injustiça. Sei que vários artistas estão procurando maneiras de viver uma vida decente e NFTs parecem uma maneira muito simples de ganhar dinheiro. Entendo mesmo. Precisamos encontrar soluções para esses problemas, mas a Web3 não é isso.
 
-Eu entendo que pessoas especialmente criativas estão procurando desesperadamente maneiras de ganhar uma vida decente e vender NFTs parece uma maneira muito simples de ganhar algum dinheiro sério. Entendo. Precisamos encontrar um modo de vida que permita que as pessoas trabalhem em sua arte ou qualquer outra coisa que queiram fazer e ainda sejam vestidas, alimentadas, abrigadas e cuidadas. Confortavelmente.
+Não é a solução porque não faz o que pretende fazer, não impede o surgimento de entidades centralizadas, não distribui o poder de forma significativa e remove mecanismos importantes.
 
-Mas por mais que esses problemas precisem de soluções, Web3 não é isso.
+Encontrei algumas iniciativas de *blockchain* que parecem ser dirigidas por pessoas com intenções genuinamente boas. Não vinculadas a uma moeda, tentando resolver um problema do mundo real em vez de dar um golpe rápido para enriquecer. (No entanto, até agora eu não entendo que problemas suas *blockchains* resolvem que outros bancos de dados não conseguem).
 
-Não é a solução porque simplesmente não faz o que pretende fazer, não impediria o surgimento de uma nova entidade centralizada, não distribuiria o poder de forma significativa e, na verdade, tiraria mecanismos importantes que atualmente ter.
+Eu não ficaria surpreso se em uns 3 anos aparecer algum aplicativo B2B de nicho que seja resolva de maneira elegante algum problema. Mas agora a mídia está cheia de DAOs, NFTs e moedas como se fossem as mais interessantes desde o [Big Data](). Lembram de Big Data? Isso ia mudar tudo também. Exceto que, a menos que você esteja trabalhando em nichos específicos, nem ouve mais sobre.
 
-Mas há mais. Web3 é um projeto profundamente moralmente ofensivo.
-
-A promessa da Internet de dar às pessoas acesso à informação e potencialmente o poder de publicação deve ser substituída por um cassino não regulamentado que literalmente queima nosso planeta no chão. Dificilmente posso inventar algo tão desprezível.
-
-Ninguém é uma ilha, mas a multidão da Web3 quer nos individualizar ainda mais, transformar tudo sobre nossos eus digitais e idealmente analógicos em objetos de especulação com negociação semiautomática de ativos substituindo a política. A total financeirização e despolitização da vida sem levar em conta as consequências ecológicas.
-
-Esta não é uma visão utópica. Esta é uma declaração de guerra contra muito do progresso político e social das últimas décadas. E não estou disposto a agitar uma bandeira branca.
+Pessoas de todos os lados do espectro político concordam que o estado atual da web não é o ideal. Depois da consolidação da Web 2.0, surgiram várias tecnologias boas, interessantes e não comerciais que trazem o poder de volta aos criadores individuais. Mais importante ainda, o Fediverse com Mastodon, o movimento IndieWeb, o surgimento de boletins informativos e novas formas de fazer e publicar páginas da web. Espero que as pessoas que se preocupam com a liberdade de expressão, comunicação honesta e compensação justa aos criadores analisem mais isso também.
 
 
-### Some nuance please?
-
-I found some blockchain initiatives that seem to be run by people with genuinely good intentions. Not using a chain that uses a currency, really trying to solve a real world problem rather than building the next get rich quick scheme. (So far I didn’t understand what problems their blockchains solve that other databases can’t though.)
-
-I wouldn’t be surprised if in 3 years or so there’s some very niche B2B application that’s really elegantly solved with a proof of stake blockchain. But right now the media are full of DAOs, NFTs and coins as if they’re the most interesting since Big Data. Remember Big Data? That was going to change everything too. Except that unless you’re working for a big insurance company, you won’t even notice or hear about Big Data anymore.
 
 People from all over the political spectrum now agree that the current state of the web isn’t ideal, with all that power concentrated at a few companies. After Web 2.0 several good, interesting, non-commercial technologies have emerged that bring power back to individual creators. Most importantly, the Fediverse with Mastodon, the IndieWeb movement, the rise of newsletters and new ways of making and publishing web pages. I hope that the people who care about freedom of speech, honest communication and fair creator compensation will look more into that too.
 
@@ -609,3 +587,63 @@ https://thatkimparker.medium.com/most-artists-are-not-making-money-off-nfts-and-
 ted gioia
 
 
+---
+
+### Bored Ape Yacht Club, um caso real
+
+Vou me despedir costurando várias das minhas críticas a um caso real.
+
+https://www.technollama.co.uk/platform-is-law-the-cautionary-tale-of-stolen-nfts
+
+Bored Ape Yacht Club (BAYC) é um projeto muito interessante por várias razões, e não apenas devido aos preços que eles estão negociados. A propriedade da NFT não se refere apenas para a arte em si, mas ela também permite ao proprietário entrar em um espaço exclusivo chamado *The Bathroom*, que só pode ser alcançado com a propriedade da NFT.
+
+A segunda parte interessante é que é são um projeto com termos e condições explícitas sobre a propriedade. Enquanto na maioria dos projetos colecionáveis os criadores continuam com todos os direitos, a BAYC licencia tudo ao proprietário do *token*. Discutiremos as questões legais mais tarde.
+
+Ok. Existe um sujeito chamado **Calvin Becerra** (um palestrante motivacional), que diz ter tido três macacos roubados (Macacos #9564, #2031, e #9985). O furto (ou hack, golpe, escolha como preferir) aconteceu quando Calvin foi abordado por potenciais compradores no Discord. Os golpistas disseram ter tido problemas com a transação, e pediram que ele mudasse algumas configurações em sua carteira para finalizar a transferência. Não está bem claro o que eles fizeram, mas ele acabou transferindo as NFTs para os golpistas.
+
+https://twitter.com/calvinbecerra/status/1454328591202721796
+
+Calvin foi ao Twitter tentando receber alguma reparação. Isso fez com que três das principais plataformas NFT removessem os *tokens* para venda. Os contratos ainda estão na *blockchain* e, em princípio, ainda podem ser negociados - só não podem ser oferecidos em nenhuma das grandes plataformas. Calvin anunciou a remoção no Twitter.
+
+    UPDATE! @opensea @rarible @NftTrader all have done the RIGHT THING. They all banned my stolen apes from being sold on their sites. No one wants to buy a stolen car, yet alone STOLEN ART! Attention hackers you better start negotiating with me if you want any mor eth. Or none. pic.twitter.com/mCTTM00bv9
+    — Calvin Becerra (@calvinbecerra) October 31, 2021
+
+Os macacos roubados foram retirados dos mercados, mas Calvin ainda não recuperou o controle deles. Sua carta para os golpistas foi agora transformada em um NFT. Não é possível inventar isto.
+
+Isto é fascinante por vários motivos, até porque poderia ser um caso marcante na forma como os futuros hacks são tratados, mas também é uma ilustração interessante da própria natureza das NFTs e das questões subjacentes.
+
+A primeira pergunta que surje é sobre a propriedade do Macaco, e se isto poderia ser considerado uma subtração no sentido legal. Eu vejo NFTs principalmente do ponto de vista legal, isto abre a questão sobre se eles podem ser considerados um bem de alguma forma, e se o fato seria crime. 
+
+Não sou criminalista e esta é uma área na qual não sou muito familiarizado, mas entendo não há dúvida quanto ao valor dos *tokens*, por isso posso imaginar que estes bens sejam abrangidos por alguma definição legal de furto, em algo parecido com roubo de títulos (ações, debêntures, etc.), ou talvez até mesmo encaixe como alguma forma de software. 
+
+Mas o que achei muito interessante foi o direito de propriedade dado ao detentor. Os Termos e Condições do Clube são um pouco obscuros e, a meu ver, parecem ser contraditórios. Eles dizem a respeito da propriedade:
+
+    "You Own the NFT. Each Bored Ape is an NFT on the Ethereum blockchain. When you purchase an NFT, you own the underlying Bored Ape, the Art, completely. Ownership of the NFT is mediated entirely by the Smart Contract and the Ethereum Network: at no point may we seize, freeze, or otherwise modify the ownership of any Bored Ape.”
+
+Esta é uma maneira interessante de frasear as coisas duas coisas: O comprador é proprietário do *token* em si, mas o comprador também é "completamente" dono da arte.
+
+Isso não é formulado em terminologia jurídica, como uma cessão ou licença de direitos. Também nos dizem que a propriedade da NFT é mediada **inteiramente** pelo contrato inteligente, mas isto não é a arte, **é a própria NFT**. 
+ 
+O final parece ser um reconhecimento de que o *token* é apenas parte da equação, e que a BYAC mantém a capacidade potencial de apreender e modificar a propriedade do Macaco, mesmo que prometam claramente não o fazer. É uma espécie de propriedade, mas limitada pela boa-fé da BAYC.
+
+As coisas ficam mais complicadas porque os parágrafos são uma licença para uso pessoal e comercial, o que indica que a propriedade dos direitos autorais do Macaco **nunca foi transferida**, e o primeiro parágrafo está falando apenas da propriedade do NFT e da cópia específica da obra, e não da propriedade dos direitos autorais em si, caso contrário não haveria necessidade de qualquer licença.
+
+O outro aspecto é que todos os benefícios de possuir o NFT (seja a licença, a propriedade e o acesso ao clube exclusivo), são mediados pela propriedade do próprio *token*. Então, se os golpistas estão agora na posse dele, eles devem ter acesso a todos esses benefícios, certo?
+
+Aqui é onde todas essas intervenções começam a levantar dúvidas para qualquer pessoa que esteja prestando atenção à natureza das NFTs. 
+
+Todo o ethos da Web 3 é que ela é [descentralizada](). É uma Internet movida em *blockchains* e mediada por *tokens*, mais democrática por causa das características de [governança descentralizada](), mais responsiva porque usa [contratos inteligentes](), mais transparente por causa da [*blockchain*](), mais resistente e segura por causa dos [mecanismos de consenso]() e criptografia. Todos inconvenientes, tais como baixas transações/segundo e alto custo de transação, seriam justificados pela novidade da implementação - ou o preço ser pago por um espaço mais descentralizado.
+
+Mas o que aconteceu aqui deveria abrir os olhos de todos entusiastas. Uma dos diferenciais das NFTs é precisamente a descentralização. Os *tokens* são verificados pela matemática, são imutáveis e resistentes à censura. Mas se seu *token* pode ser retirado de várias plataformas, ele deixa de ter valor. Os mercados são como qualquer outra plataforma, não melhor do que a Web que eles desprezam.
+
+[Código é lei]() que eles nos dizem, quando na realidade a **plataforma é lei**.
+
+O BAYC tem o mesmo problema. Se a propriedade da arte e a associação ao clube são inteiramente mediadas pela posse do *token*, a proibição desses benefícios para os hackers resulta em um ataque direto aos princípios de não censura e liberdade contidos nos termos de uso. Em realidade, percebe-se que o *token* é inútil.
+
+Eu não acho que os mercados tenham pensado bem nisso. Ao exercer censura, eles estão atacando um dos pilares do mito da descentralização que envolve as NFTs. A propósito, eu acho que essa a decisão foi certa, mas temos que parar de viver neste mundo mítico dos DAOs e da descentralização completa. Quando as coisas dão errado, a plataforma é que manda, e não o contrato inteligente.
+
+Alguns comentários interessantes para encerrar.
+
+Becerra continua usando o Ape como sua imagem de perfil no Twitter. Isso esvazia ainda mais a relevância das NFTs para toda a causa: é apenas um adorno, uma estética digital que só prova que você comprou algo por dinheiro. É tipo ir ao restaurante Salt Bae para tirar uma selfie.
+
+Esta saga é hilária por que que invalida a propaganda pró-NFT de uma só vez: Seus bens não são seguros, as autoridades centralizadas são obrigadas a lidar com as perdas, e este o cara insiste em usar o jpeg, apesar de não ter mais o token.

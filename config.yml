@@ -129,9 +129,9 @@ menu:
           name: arquivo
           url: /archives/
           weight: 30
-        - identifier: now
+        - identifier: agora
           name: agora
-          url: /now/
+          url: /agora/
           weight: 20
         - identifier: about
           name: sobre

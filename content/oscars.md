@@ -5,7 +5,7 @@ tags: ["film", "oscars"]
 author: "gabriel"
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 description: "Mãe Dináh da sétima arte ataca novamente"
 
 ---

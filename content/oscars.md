@@ -35,13 +35,13 @@ Drive My Car
 
 *King Richard*
 
-Licorice Pizza
+*Licorice Pizza*
 
 Nightmare Alley
 
 *The Power of the Dog*
 
-West Side Story
+*West Side Story*
 
 &nbsp;
 &nbsp;
@@ -52,11 +52,11 @@ West Side Story
 
 Ryusuke Hamaguchi, Drive My Car
 
-Paul Thomas Anderson, Licorice Pizza
+*Paul Thomas Anderson, Licorice Pizza*
 
-Jane Campion, The Power of the Dog
+*Jane Campion, The Power of the Dog*
 
-Steven Spielberg, West Side Story
+*Steven Spielberg, West Side Story*
 
 &nbsp;
 &nbsp;
@@ -65,7 +65,7 @@ Steven Spielberg, West Side Story
 
 Javier Bardem, Being the Ricardos
 
-Benedict Cumberbatch, The Power of the Dog
+*Benedict Cumberbatch, The Power of the Dog*
 
 *Andrew Garfield, Tick, Tick, Boom*
 
@@ -97,7 +97,7 @@ Kristen Stewart, Spencer
 
 *Troy Kotsur, CODA*
 
-Jesse Plemons, The Power of the Dog
+*Jesse Plemons, The Power of the Dog*
 
 JK Simmons, Being the Ricardos
 
@@ -110,11 +110,11 @@ JK Simmons, Being the Ricardos
 
 Jessie Buckley, The Lost Daughter
 
-Ariana DeBose, West Side Story
+*Ariana DeBose, West Side Story*
 
 *Judi Dench, Belfast*
 
-Kirsten Dunst, The Power of the Dog
+*Kirsten Dunst, The Power of the Dog*
 
 *Aunjanue Ellis, King Richard*
 
@@ -131,7 +131,7 @@ Drive My Car, Ryusuke Hamaguchi, Takamasa Oe
 
 The Lost Daughter, Maggie Gyllenhaal
 
-The Power of the Dog, Jane Campion
+*The Power of the Dog, Jane Campion*
 
 &nbsp;
 &nbsp;
@@ -144,7 +144,7 @@ The Power of the Dog, Jane Campion
 
 *King Richard, Zack Baylin*
 
-Licorice Pizza, Paul Thomas Anderson
+*Licorice Pizza, Paul Thomas Anderson*
 
 The Worst Person in the World, Eskil Vogt and Joachim Trier
 
@@ -157,11 +157,11 @@ The Worst Person in the World, Eskil Vogt and Joachim Trier
 
 Nightmare Alley
 
-The Power of the Dog
+*The Power of the Dog*
 
 The Tragedy of Macbeth
 
-West Side Story
+*West Side Story*
 
 &nbsp;
 &nbsp;
@@ -176,7 +176,7 @@ Cyrano
 
 Nightmare Alley
 
-West Side Story
+*West Side Story*
 
 &nbsp;
 &nbsp;
@@ -189,7 +189,7 @@ West Side Story
 
 *King Richard*
 
-The Power of the Dog
+*The Power of the Dog*
 
 *Tick, Tick, Boom*
 
@@ -232,11 +232,11 @@ House of Gucci
 
 Nightmare Alley
 
-The Power of the Dog
+*The Power of the Dog*
 
 The Tragedy of Macbeth
 
-West Side Story
+*West Side Story*
 
 &nbsp;
 &nbsp;
@@ -251,7 +251,7 @@ Encanto
 
 Parallel Mothers
 
-The Power of the Dog
+*The Power of the Dog*
 
 &nbsp;
 &nbsp;
@@ -264,9 +264,9 @@ The Power of the Dog
 
 *No Time to Die*
 
-The Power of the Dog
+*The Power of the Dog*
 
-West Side Story
+*West Side Story*
 
 &nbsp;
 &nbsp;

@@ -25,7 +25,8 @@ Vou atualizando essa página de tempos em tempos. É só olhar a data do post :w
 
 ### :desert_island: O que estou lendo/assistindo/ouvindo no meu tempo livre
 
-- [:movie_camera: Filmes](https://letterboxd.com/odirk/) (acabei de começar o perfil, bear with me).
+- [:book: Livros](https://www.goodreads.com/review/list/148010810?shelf=2022).
+- [:movie_camera: Filmes](https://letterboxd.com/odirk/films/by/date/) (acabei de começar o perfil, bear with me).
 - [:tv: Seriados](https://www.tvtime.com/en/user/4683679/profile).
 - [:musical_note: Músicas ouvidas na semana passada](https://www.last.fm/user/GabrielDuro/listening-report/week). E [no ano passado](https://www.last.fm/user/GabrielDuro/listening-report/year).
 

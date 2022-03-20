@@ -6,7 +6,7 @@ author: "gabriel"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Mãe Dináh da sétima arte ataca novamente"

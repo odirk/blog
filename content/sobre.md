@@ -1,6 +1,6 @@
 ---
 title: "Sobre o site"
-date: "2021-04-14"
+# date: "2021-04-14"
 # description: "Hello, world!"
 showToc: false
 searchHidden: true

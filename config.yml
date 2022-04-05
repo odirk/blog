@@ -50,23 +50,23 @@ params:
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
+        icon: /logo-azul.png
         iconHeight: 35
 
     # profile-mode // deixar falso
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        enabled: true # needs to be explicitly set
+        title: "odirk.org"
+        subtitle: "humor de baixa qualidade, opniões obtusas, análises oportunistas e receitas com preparo superior a 2 horas"
+        # imageUrl: /logo-azul.png
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
+        # imageTitle: my image
         buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+            # - name: Posts
+            #   url: /archives/
+            # - name: Tags
+            #   url: tags
 
     # home-info mode
     homeInfoParams:
@@ -82,8 +82,12 @@ params:
           url: "https://www.last.fm/user/GabrielDuro"
         - name: spotify
           url: "https://open.spotify.com/user/odirk"
-        - name: other
+        - name: letterboxd
           url: "https://letterboxd.com/odirk/"
+        # - name: steam
+        #  url: "https://steamcommunity.com/id/dirkman"
+        - name: goodreads
+          url: "https://www.goodreads.com/odirk"
         - name: email
           url: "mailto:www@odirk.org"
 
@@ -121,10 +125,10 @@ menu:
           name: busca
           url: /search/
           weight: 50
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 40
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 40
         - identifier: archive
           name: arquivo
           url: /archives/

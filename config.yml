@@ -129,9 +129,9 @@ menu:
         #   name: tags
         #   url: /tags/
         #   weight: 40
-        - identifier: archive
-          name: arquivo
-          url: /archives/
+        - identifier: posts
+          name: posts
+          url: /posts/
           weight: 30
         - identifier: agora
           name: agora

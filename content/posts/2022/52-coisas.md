@@ -19,3 +19,6 @@ For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 
 3. O nome do [Boninho](https://pt.wikipedia.org/wiki/Boninho) é José Bonifácio.
 4. [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) ganhou o Nobel de Física em 1906 quando mostrou que os elétrons eram **partículas**. Seu filho, [G. P. Thomson](https://en.wikipedia.org/wiki/George_Paget_Thomson), ganhou o Prêmio Nobel de Física em 1937 por mostrar que os elétrons são **ondas**. 
 5. It’s important to recognize that in mouse years, Stuart Little was a middle aged man and his presence in an orphanage among children was problematic at best
+6. No prime minister of Pakistan — a country that has swung between democracy and dictatorship — has ever completed a full term in office. https://www.ft.com/content/870369af-b673-4ce5-bd86-d89d28be4d40
+7. Nintendo (founded 1889) and the Ottoman Empire coexisted (fell in 1922) for 33 years.
+8. Sid Vicious (the wrestler) took his stage name from Sid Vicious (Sex Pistols) who was given his nickname from a hamster who was named after Syd Barrett (Pink Floyd) who took his name from Sid Barrett (jazz musician) https://en.wikipedia.org/wiki/Sid_Eudy

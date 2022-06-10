@@ -5,7 +5,8 @@ tags: ["opinião impopular"]
 description: "Opiniões (geralmente) maiores que um tweet, mas curtas demais para um post."
 showToc: true
 TocOpen: false
-draft: false
+searchHidden: true
+draft: true
 ---
 
 Olá, Internet. É hora de perguntas e respostas.

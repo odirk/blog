@@ -7,13 +7,6 @@ showToc: true
 draft: false
 ---
 
-```
-Post para testar a formatação e embeds.
-```
-
-&nbsp;
-&nbsp;
-
 Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Divirta-se!
 
 ## Sites
@@ -22,9 +15,9 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 
 [Reddit](https://old.reddit.com). Onde está tudo de interessante na internet. Saiba mais no vídeo abaixo.
 
-[Hacker News](https://news.ycombinator.com/). Agregador focado em ciência da computação e empreendedorismo.
-
 {{< youtube tlI022aUWQQ >}}
+
+[Hacker News](https://news.ycombinator.com/). Agregador focado em ciência da computação e empreendedorismo.
 
 &nbsp;
 &nbsp;
@@ -34,6 +27,12 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 [Wired](https://www.wired.com/). Cobre tecnologias emergentes, cultura e negócios.
 
 [Techcrunch](https://techcrunch.com/). Notícias focadas em alta tecnologia e startups.
+
+[Ars Technica](https://arstechnica.com/).
+
+[9to5Mac](https://9to5mac.com/).
+
+[The Verge](https://www.theverge.com/).
 
 &nbsp;
 &nbsp;
@@ -81,6 +80,12 @@ Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa fre
 [Cal Newport's](https://www.calnewport.com/blog/). Tecnologia e Cultura. Autor de [Deep Work](https://www.amazon.com.br/Trabalho-Focado-Sucesso-Mundo-Distraído/dp/8550802328/) e [Digital Minimalism](https://www.amazon.com.br/Minimalismo-Digital-Profunda-Mundo-Superficial/dp/8550807664). Muito do que penso sobre esses assuntos veio dele.
 
 [Paul Graham's essays](http://paulgraham.com/articles.html). Ele é um expoente em inovação e economia em tecnologia. Também tem uma das melhores coleções de ensaios na internet. Se não souber por onde começar, leia [Life is Short](http://www.paulgraham.com/vb.html) e [Do Things that don't Scale](http://www.paulgraham.com/ds.html). Super recomendado.
+
+[Farnam Street](https://fs.blog/blog/).
+
+[Interfluidity](https://www.interfluidity.com/).
+
+[Wait But Why](https://waitbutwhy.com/).
 
 &nbsp;
 &nbsp;

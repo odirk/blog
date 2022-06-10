@@ -1,6 +1,6 @@
 ---
 title: "O que estou fazendo agora"
-date: "2022-02-16"
+date: "2022-05-10"
 description: "Pequenos projetos e interesses da minha vida pessoal"
 showToc: false
 searchHidden: true
@@ -8,13 +8,13 @@ ShowReadingTime: false
 draft: false
 ---
 
-### Agora?
+### :clock2: Agora?
 
 Essa é uma página que informa no que estou interessado neste hoje em dia.
 
 Um link simples. Fácil de lembrar. Fácil de digitar.
 
-É um bom lembrete para mim mesmo, quando estou me sentindo sem foco. Uma declaração pública de prioridades.
+É um lembrete para mim mesmo, quando estou me sentindo sem foco. Uma declaração pública de prioridades.
 
 É para isso que serve essa página. Você não pode ter essa visão geral de nenhum outro canal que eu conheço.
 
@@ -30,9 +30,7 @@ Vou atualizando essa página de tempos em tempos. É só olhar a data do post :w
 - [:tv: Seriados](https://www.tvtime.com/en/user/4683679/profile).
 - [:musical_note: Músicas ouvidas na semana passada](https://www.last.fm/user/GabrielDuro/listening-report/week). E [no ano passado](https://www.last.fm/user/GabrielDuro/listening-report/year).
 
-O que eu acompanhei ano passado está [aqui](https://odirk.org/posts/2021/midia-consumida). 
-
-> Achei que a manutenção do post foi trabalhosa demais no ano passado, então estou só linkando esses serviços.
+O que eu acompanhei ano passado está [**aqui**](https://odirk.org/posts/2021/midia-consumida). Achei que a manutenção do post foi trabalhosa demais no ano passado, então estou só linkando esses serviços.
 
 &nbsp;
 &nbsp;
@@ -93,7 +91,7 @@ Fiquei frustado com as alternaticas e decidi resolver o problema sozinho.
 
 Afinal de contas, limoncello nada mais é do que uma infusão de raspas de casca de limão em álcool e xarope de açúcar. O quão difícil pode ser? Turns out que é ridiculamente fácil.
 
-É só cuidar para limpar bem os ingredientes e esterilizar os recipientes e deu. Compre um [raspador de limão adequado](https://www.amazon.com.br/Raspador-Tramontina-Utilit%C3%A0-25623180-Branco/dp/B01N4VUCB3) e é só deixar a infusão agir com o tempo.
+É só cuidar para limpar bem os ingredientes e esterilizar os recipientes e deu. Compre um descascador robusto e é só deixar a infusão agir com o tempo.
 
 Desde a primeira tentativa eu equiparei o produto do restaurante. Desde então, sigo misturando frutas, ervas e temperos. É um tremendo sucesso :D
 
@@ -102,6 +100,7 @@ Até agora já saíram de:
 2. Bergamota
 3. Capirinha (limão taiti, cachaça e açúcar mascavo)
 4. Jabuticaba
+5. Mirtilo
 
 &nbsp;
 &nbsp;
@@ -137,8 +136,6 @@ Instruções práticas e específicas sobre como meditar.
 
 (Budismo secular, não religioso). Por que a meditação funciona, especificamente o que ela pretende resolver. Ele define o propósito de ter uma rotina e explica claramente os benefícios.
 
-
-
 &nbsp;
 &nbsp;
 
@@ -148,18 +145,28 @@ Eu comecei uma pequena horta no meu apartamento!
 
 Resolvi aproveitar o espaço ocioso na espera do ar condicionado (onde pega sol pela manhã) para plantar uns temperos.
 
-{{< figure align=center src="/horta.JPG" title="Na grade: pimenta dedo-de-moça; alecrim; tomilho; orégano; sálvia roxa. Na jardineira: Cebolinha francesa (ciboulette), salsa, manjericão." >}}
+{{< figure align=center src="/horta.JPG" >}}
+
+| Na jardineira | Na grade |
+| ------------- | -------- |
+| Cebolinha francesa (ciboulette) | pimenta dedo-de-moça |
+| salsa | alecrim |
+| manjericão | tomilho |
+|            | orégano |
+|            | ~~sálvia roxa~~ (RIP) |
 
 Nada mal, ein?
 
 Vou esperar elas crescerem um pouco antes de depenar as coitadas, mas ideia é utilizá-las no meu dia-a-dia.
+
+**Update:** A sálvia morreu. Foi por muita água ou pouca água? :man_shrugging: Plantando pimenta malagueta no lugar :hot_pepper:
 
 &nbsp;
 &nbsp;
 
 ### :man_running: Saúde
 
-Estou correndo umas 4~5x por semana, durante 50 minutos.
+Estou correndo umas 3x por semana, durante 50 minutos.
 
 &nbsp;
 &nbsp;

@@ -12,7 +12,7 @@ draft: false
 
 Essa é uma página que informa no que estou interessado neste hoje em dia.
 
-Um link simples. Fácil de lembrar. Fácil de digitar.
+Um link simples. Fácil de lembrar, fácil de digitar.
 
 É um lembrete para mim mesmo, quando estou me sentindo sem foco. Uma declaração pública de prioridades.
 

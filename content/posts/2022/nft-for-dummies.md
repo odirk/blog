@@ -6,7 +6,7 @@ description: "Perguntas frequêntes que me fazem sobre o aspécto jurídico"
 author: "gabriel"
 showToc: true
 TocOpen: true
-draft: false
+draft: true
 ---
 
 ## Existe algum tipo de direito a um proprietário de NFTs?

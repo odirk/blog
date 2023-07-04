@@ -57,7 +57,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "odirk.org"
-        subtitle: "humor de baixa qualidade, opniões obtusas, análises oportunistas e receitas com preparo superior a 2 horas"
+        # subtitle: "humor de baixa qualidade, opniões obtusas, análises oportunistas e receitas com preparo superior a 2 horas"
         # imageUrl: /logo-azul.png
         imageWidth: 120
         imageHeight: 120
@@ -121,26 +121,26 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: search
-          name: busca
-          url: /search/
-          weight: 50
+        # - identifier: search
+        #  name: busca
+        #  url: /search/
+        #  weight: 50
         # - identifier: tags
         #   name: tags
         #   url: /tags/
         #   weight: 40
-        - identifier: posts
-          name: posts
-          url: /posts/
-          weight: 30
-        - identifier: agora
-          name: agora
-          url: /agora/
-          weight: 20
+        # - identifier: posts
+        #  name: blog
+        #  url: /posts/
+        #  weight: 30
+        # - identifier: agora
+        #  name: agora
+        #  url: /agora/
+        #  weight: 20
         - identifier: sobre
-          name: sobre
-          url: /sobre/
-          weight: 10
+        #  name: sobre
+        #  url: /sobre/
+        #  weight: 10
 outputs:
     home:
         - HTML

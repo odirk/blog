@@ -37,7 +37,7 @@ Fico pensando na época dos debates em fóruns. Sinto falta dos dias em que cada
 
 Estar online hoje em dia é gritar para uma multidão e, ocasionalmente, ter essa multidão gritando de volta para você. As pessoas se limitam à respostas oportunistas, memes reciclados ou trocadilhos ruins. É cada vez mais difícil ter uma conversa séria porque qualquer discordância, mesmo em conversas leves, é recebida com uma avalanche agressões. Toda conversa precisa ter um vencedor e um perdedor bem definidos. É tudo sobre aparentar influência, ser um influenciador e fingir ter a melhor vida. Isso é desanimador.
 
-Por isso eu acho muito precisa a analogia da autora sobre a internet ser o bar que se torna cada vez mais popular até se tornar irreconhecível. O baixo valor de produção da internet era meio que o charme. Parecia tão autêntico, o que tornava as coisas muito mais engraçadas de certa forma. Ao mesmo tempo, não estou romantizando demais o passado. A 'nova' internet também é muito impressionante, com conteúdo bem pesquisado que (às vezes) rivaliza com o que está nas mídias tradicionais. Mas eu meio que sinto falta dos velhos tempos, antes da monetização. Agora, sempre que vejo algum engraçado, sempre tenho que analisá-lo sob a ótica do cinismo. Isso são atores? É uma propaganda disfarçada? Isso é uma notícia para gerar para cliques? Acho que perdemos aquele toque caseiro, aquela esquisitice que é tão inerentemente humana, em troca desse ambiente estéril.
+Por isso eu acho muito precisa a analogia da autora sobre a internet ser o bar que se torna cada vez mais popular até se tornar irreconhecível. O baixo valor de produção da internet era meio que o charme. Parecia tão autêntico, o que tornava as coisas muito mais engraçadas de certa forma. Ao mesmo tempo, não estou romantizando demais o passado. A 'nova' internet também é muito impressionante, com conteúdo bem pesquisado que (às vezes) rivaliza com o que está nas mídias tradicionais. Mas eu meio que sinto falta dos velhos tempos, antes da monetização. Agora, sempre que vejo algum engraçado, sempre tenho que analisá-lo sob a ótica do cinismo. Isso são atores? É uma propaganda disfarçada? Isso é uma notícia para gerar para cliques? Acho que perdemos aquele toque caseiro, aquela esquisitice que é tão inerentemente humana, por algo tão desanitizado.
 
 Enfim, isso acabou se transformando em um grande desabafo nostálgico. Eu sei, eu sei: sure grandpa, let's get you to bed. De qualquer forma, esse artigo foi divertido de ler e me fez lembrar de memórias queridas, que sempre terão um lugar no meu coração.
 
@@ -45,3 +45,11 @@ Enfim, isso acabou se transformando em um grande desabafo nostálgico. Eu sei, e
 
 
 https://old.reddit.com/r/technology/comments/y5pdcs/i_am_30_years_old_and_i_miss_the_old_internet_the/
+
+I’ve spent a lot of time blaming founders for changing their products at the whims of advertisers, but to any social platform’s credit, the users do indeed *do it to themselves*.
+
+In our own eternal quests for social validation, we’re out for growth, too! We readily give in to convenient, advertiser-friendly features like Stories, which prioritize *broadcasting* over simply *communicating*. We add more and more friends — because it feels good! — until our close friend group has become our *audience*.
+
+“People *want* to be a product!” technology writer Rob Horning wrote to me via email. “Being a product is coded as success in our society… What people don’t want is to be exploited or misled — and that is hard to avoid in the context of ad-supported media.” And so, a bizarre symbiosis is formed between platform, user, and advertiser. The apps had changed, but so had users, leaving that precious early social media feeling out in the cold again.
+
+People refuse to believe that they, too, are responsible for the growth of today’s social media

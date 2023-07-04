@@ -1,6 +1,6 @@
 ---
 title: "O que estou fazendo agora"
-date: "2022-05-10"
+date: "2023-01-17"
 description: "Pequenos projetos e interesses da minha vida pessoal"
 showToc: false
 searchHidden: true
@@ -19,18 +19,15 @@ Um link simples. Fácil de lembrar, fácil de digitar.
 É para isso que serve essa página. Você não pode ter essa visão geral de nenhum outro canal que eu conheço.
 
 Vou atualizando essa página de tempos em tempos. É só olhar a data do post :wink:
-
 &nbsp;
 &nbsp;
 
 ### :desert_island: O que estou lendo/assistindo/ouvindo no meu tempo livre
 
-- [:book: Livros](https://www.goodreads.com/review/list/148010810?shelf=2022).
+- [:book: Livros](https://www.goodreads.com/review/list/148010810?shelf=2023).
 - [:movie_camera: Filmes](https://letterboxd.com/odirk/films/by/date/).
 - [:tv: Seriados](https://www.tvtime.com/en/user/4683679/profile).
 - [:musical_note: Músicas ouvidas na semana passada](https://www.last.fm/user/GabrielDuro/listening-report/week). E [no ano passado](https://www.last.fm/user/GabrielDuro/listening-report/year).
-
-O que eu acompanhei ano passado está [**aqui**](https://odirk.org/posts/2021/midia-consumida). Achei que a manutenção do post foi trabalhosa demais no ano passado, então estou só linkando esses serviços.
 
 &nbsp;
 &nbsp;
@@ -101,6 +98,8 @@ Até agora já saíram de:
 3. Capirinha (limão taiti, cachaça e açúcar mascavo)
 4. Jabuticaba
 5. Mirtilo
+6. Goiaba
+7. Abacaxi, gengibre e hortelã
 
 &nbsp;
 &nbsp;
@@ -175,4 +174,4 @@ Estou correndo umas 3x por semana, durante 50 minutos.
 
 Acho que passatempos saudáveis ajudam a manter nosso equilíbrio e perspectiva. 
 
-2022 está começando, e eu acredito que será um ótimo ano!
+2023 está começando, e eu acredito que será um ótimo ano!

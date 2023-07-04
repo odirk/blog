@@ -4,7 +4,7 @@ date: "2021-04-14"
 tags: ["internet", "dirkdicas"]
 description: "Por onde eu navego pela rede mundial de computadores"
 showToc: true
-draft: false
+draft: true
 ---
 
 Segue uma coleção de sites, blogs e podcasts que eu acompanho com relativa frequência na internet. Passei anos coletando esses links e agora vou compartilhar com você. Divirta-se!

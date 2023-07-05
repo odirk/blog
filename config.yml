@@ -57,6 +57,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "odirk.org"
+        subtitle: "em breve com mais umas paradas aqui"
         # subtitle: "humor de baixa qualidade, opniões obtusas, análises oportunistas e receitas com preparo superior a 2 horas"
         # imageUrl: /logo-azul.png
         imageWidth: 120
@@ -88,6 +89,9 @@ params:
         #  url: "https://steamcommunity.com/id/dirkman"
         - name: goodreads
           url: "https://www.goodreads.com/odirk"
+        - name: "other"
+          title: Bluesky
+          url: "https://bsky.app/profile/odirk.org"
         - name: email
           url: "mailto:www@odirk.org"
 
